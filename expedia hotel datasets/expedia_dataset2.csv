@@ -1,0 +1,799 @@
+hotel_name,overall_rating,total_review,location,cleanliness_rating,service_rating,amenities_rating,facilities_rating,total_photo,room_rating,room_size,number_of_amenities,price
+Mersin HiltonSA,4.2/5,535 reviews,"Palmiye Mah. 1225 Sok. No:1, Mersin, Mersin",4.3/5,4.3/5,4.1/5,4.0/5,154+,4.1/5 guest room rating,237 sq ft,14.0,$72
+Hampton by Hilton Bursa,4.4/5,564 reviews,"Istanbul Caddesi No:349, Bursa, Bursa",4.5/5,4.3/5,4.4/5,4.4/5,50+,4.5/5 guest room rating,258 sq ft,10.0,$53
+The Land of Legends Kingdom Hotel,4.5/5,152 reviews,"Kadriye Mah Ataturk Cad, No 515/1, Belek, Antalya",4.5/5,4.4/5,4.5/5,4.6/5,157+,4.7/5 guest room rating,409 sq ft,15.0,$313
+GLK PREMIER Regency Suites & Spa,4.5/5,991 reviews,"Akbiyik Cad No 46, Istanbul, Istanbul, Istanbul",4.6/5,4.7/5,4.4/5,4.4/5,44+,4.7/5 guest room rating,215 sq ft,13.0,$94
+El Vino Hotel Suites - Special Class,4.8/5,190 reviews,"Omurça Mah. Pamili Sokak, Mugla, Mugla",4.8/5,4.8/5,4.4/5,4.7/5,75+,5/5 guest room rating,291 sq ft,12.0,$88
+Park Inn by Radisson Istanbul Airport Odayeri Hotel,4.1/5,218 reviews,"Selcuk Bey Sokak No. 27, Odayeri, Eyup, Istanbul",4.5/5,4.2/5,4.1/5,4.4/5,51+,5/5 guest room rating,280 sq ft,14.0,$134
+World Heritage Hotel Istanbul,4.7/5,300 reviews,"Binbirdirek Mh , Terzihane Sk No 17, Istanbul, Istanbul",4.7/5,4.9/5,4.2/5,4.5/5,54+,,236 sq ft,7.0,$47
+Hilton Bursa Convention Center & Spa,4.6/5,491 reviews,"Istanbul Caddesi No:347, Bursa",4.6/5,4.5/5,4.7/5,4.6/5,79+,4.8/5 guest room rating,323 sq ft,17.0,$68
+Atlantis Royal Hotel,3.8/5,52 reviews,"Binbirdirek Mah. Dizdariye Cesmesi Sok., No 53 Istanbul Fatih, Istanbul",4.3/5,4.1/5,3.8/5,3.9/5,41+,,97 sq ft,4.0,$23
+Niles Hotel Istanbul - Special Class,4.5/5,993 reviews,"Ordu Caddesi Dibekli Cami Sokak No: 13, Beyazit, Istanbul, Istanbul",4.6/5,4.8/5,4.4/5,4.4/5,55+,4.6/5 guest room rating,161 sq ft,11.0,$62
+Sultanhan Hotel - Special Class,4.4/5,998 reviews,"Piyer Loti Cad No:7, Istanbul, Istanbul",4.5/5,4.6/5,4.2/5,4.3/5,114+,4.7/5 guest room rating,323 sq ft,12.0,$98
+GLK PREMIER Sea Mansion Suites & Spa,4.6/5,367 reviews,"Kucukayasofya Mh Mustafapasa Sk No 9, Istanbul, Istanbul",4.7/5,4.8/5,4.4/5,4.6/5,104+,5/5 guest room rating,237 sq ft,12.0,$69
+Basileus Hotel,4.6/5,699 reviews,"Kucuk Ayasofya Mah. Sehit Mehmet Pasa, Sk. No: 1, Istanbul, Istanbul",4.6/5,4.8/5,4.4/5,4.3/5,47+,4.7/5 guest room rating,258 sq ft,6.0,$16
+GLK PREMIER The Home Suites & Spa,4.2/5,"1,000 reviews","Kucukayasofya Cad No:60, Istanbul, Istanbul, Istanbul",4.3/5,4.5/5,4.1/5,4.0/5,40+,4/5 guest room rating,194 sq ft,12.0,$67
+Tav Airport Hotel Izmir,4.4/5,632 reviews,"Adnan Menderes Airport Int. Terminal, Gaziemir, Izmir, Izmir",4.6/5,4.4/5,4.3/5,4.5/5,41+,4.5/5 guest room rating,183 sq ft,9.0,$49
+ISG Airport Hotel - Special Class,4.3/5,"1,427 reviews","Istanbul Sabiha Gokcen Int'l Airport, Pendik, Istanbul, Istanbul",4.5/5,4.4/5,4.3/5,4.4/5,62+,4.8/5 guest room rating,280 sq ft,13.0,$76
+Blue House Hotel,4.4/5,119 reviews,"Dalbasti Sokak No 14, Istanbul, Istanbul",4.6/5,4.6/5,4.7/5,4.3/5,122+,5/5 guest room rating,194 sq ft,7.0,$51
+YOTEL Istanbul Airport LANDSIDE,4.2/5,397 reviews,"Tayakadin Mah. Terminal Cad. No.: 1, Arnavutkoy, Istanbul",4.5/5,4.3/5,4.2/5,4.3/5,35+,4.3/5 guest room rating,140 sq ft,8.0,$140
+Celsus Boutique Hotel,4.9/5,79 reviews,"atatürk mahallesi 1051 sokak no 2, Izmir",5.0/5,4.9/5,4.9/5,4.9/5,84+,5/5 guest room rating,215 sq ft,10.0,$81
+Haydarpasha Palace,4.3/5,206 reviews,"Turkler Mevkii Konakli, Alanya, Antalya",4.3/5,4.0/5,4.4/5,4.5/5,57+,3.7/5 guest room rating,215 sq ft,19.0,$139
+Dersaadet Hotel - Special Class,4.7/5,775 reviews,"Kucukayasofya Cad Kapiagasi Sok No 5, Istanbul, Istanbul, Istanbul",4.7/5,4.9/5,4.6/5,4.5/5,59+,4.7/5 guest room rating,172 sq ft,10.0,$62
+Hotel Empress Zoe,4.8/5,99 reviews,"Cankurtaran Mah. Akbiyik Cad. No 10, Istanbul Fatih, Istanbul",4.7/5,4.9/5,4.6/5,4.7/5,84+,5/5 guest room rating,129 sq ft,6.0,$58
+Innova Istanbul Istanbul,4.3/5,348 reviews,"Piyer Loti Cad No. 6-8 Istanbul, Istanbul, Istanbul",4.5/5,4.3/5,4.0/5,4.4/5,51+,4.3/5 guest room rating,161 sq ft,14.0,$61
+Prime Hotel,4.6/5,126 reviews,"Genclik Mah. Tevfik Isik Cad. No: 25, Antalya, Antalya",4.7/5,4.6/5,4.6/5,4.6/5,59+,4.8/5 guest room rating,279 sq ft,15.0,$75
+Premist Hotels Istanbul,4.3/5,275 reviews,"Cankurtaran Mah. Ishakpasa Sok. No.12, Istanbul, Istanbul, Istanbul",4.4/5,4.5/5,3.9/5,4.2/5,72+,3.6/5 guest room rating,161 sq ft,8.0,$35
+Hotel Amira Istanbul,4.8/5,995 reviews,"Kucuk Ayasofya Mahallesi Mustafa, Pasa Sokak No: 79 Sultahnamet, Istanbul, Istanbul",4.8/5,4.9/5,4.7/5,4.7/5,61+,4.7/5 guest room rating,269 sq ft,13.0,$87
+Antis Hotel - Special Class,3.7/5,402 reviews,"Istanbul Mah Akbiyik Degirmeni, Degirmeni Sok No:98, Istanbul, Istanbul",4.0/5,4.0/5,3.6/5,3.8/5,49+,,237 sq ft,9.0,$43
+GLK PREMIER Acropol Suites & Spa,4.4/5,995 reviews,"Akbiyik cad. No:21, Istanbul, Istanbul, Istanbul",4.5/5,4.6/5,4.3/5,4.3/5,57+,4.6/5 guest room rating,215 sq ft,12.0,$91
+Swissotel Resort Mugla Beach,4.5/5,81 reviews,"Turgutreis Mahallesi, Gazi Mustafa Kemal Bulvarı No:42, Mugla, Mugla",4.7/5,4.6/5,4.6/5,4.6/5,91+,4.6/5 guest room rating,431 sq ft,13.0,$176
+The Mugla EDITION,4.7/5,46 reviews,"Dirmil Mahallesi, Balyek Cd. No 5A, Mugla, Mugla",4.8/5,4.6/5,4.4/5,4.8/5,57+,4.7/5 guest room rating,452 sq ft,17.0,$291
+Arden City Hotel - Special Class,4.1/5,990 reviews,"Alemdar Mah Kazm Ismail Gürkan Cad No2, Istanbul, Istanbul",4.1/5,4.4/5,3.8/5,3.9/5,52+,4.2/5 guest room rating,182 sq ft,10.0,$77
+Kordon Hotel Cankaya,4.1/5,444 reviews,"Gazi Osman Paşa Bulvarı No. 13, Çankaya, Izmir",4.3/5,4.1/5,3.9/5,4.2/5,55+,4.8/5 guest room rating,248 sq ft,13.0,$58
+White House Hotel Istanbul,4.8/5,587 reviews,"Alemdar Mah Catalcesme Sok No:21, Istanbul, Istanbul, Istanbul",4.9/5,4.9/5,4.7/5,4.8/5,36+,4.8/5 guest room rating,172 sq ft,9.0,$93
+Antusa Palace Hotel & Spa,4.5/5,273 reviews,"Alemdar Mah. Dr.Emin Paşa Sokak No:7, Istanbul, Fatih, Istanbul, Istanbul",4.5/5,4.7/5,4.4/5,4.4/5,45+,4.3/5 guest room rating,161 sq ft,11.0,$56
+Lapis Inn Hotel & Spa ( Ex. Ambassador Hotel ),4.2/5,998 reviews,"Ticarethane Cikmazi No 19, Istanbul, Istanbul",4.1/5,4.6/5,3.7/5,4.0/5,80+,4.3/5 guest room rating,215 sq ft,9.0,$70
+Ayasoluk Hotel,4.9/5,200 reviews,"Ataturk Mah. 1051. Sok No 12, Selcuk, Izmir",4.9/5,4.9/5,4.8/5,4.9/5,113+,4.9/5 guest room rating,215 sq ft,13.0,$89
+Nowy Efendi Hotel - Special Class,4.4/5,301 reviews,"Alemdar Mah. Hoca Rustem Mektebi Sok., No:9-11 Istanbul Fatih, Istanbul, Istanbul",4.6/5,4.6/5,4.3/5,4.4/5,83+,4.8/5 guest room rating,161 sq ft,9.0,$45
+Aristocrat Hotel,4.2/5,402 reviews,"Cankurtaran Mah.Dalbasti Sok No:11, Istanbul Fatih, Istanbul, Istanbul",4.3/5,4.4/5,4.0/5,4.2/5,45+,4.5/5 guest room rating,193 sq ft,4.0,$33
+Sultans Royal Hotel,4.5/5,434 reviews,"Kucuk Ayasofya mh. Mustafa Pasa sk.No29, Istanbul, Istanbul",4.6/5,4.7/5,4.4/5,4.4/5,68+,4.5/5 guest room rating,183 sq ft,9.0,$42
+Doruk Palas Hotel,4.8/5,240 reviews,"Emekyemez Mahallesi, Nazli Hanim Sk. No:19, Galata, Istanbul, Istanbul",4.9/5,4.9/5,4.7/5,4.8/5,36+,5/5 guest room rating,194 sq ft,4.0,$40
+Alzer Hotel - Special Class,4.1/5,824 reviews,"At Meydani No 20, Sultanhmet, Istanbul, Istanbul",4.3/5,4.3/5,4.0/5,3.9/5,30+,3.9/5 guest room rating,269 sq ft,10.0,$59
+Azka Hotel,4.0/5,421 reviews,"Bardakci Koyu, Mugla, Mugla",4.3/5,3.9/5,4.1/5,4.1/5,169+,3.8/5 guest room rating,237 sq ft,13.0,$59
+Hotel Sultan Hill,,171 reviews,"Istanbul Mah., Tavukhane Sok., No 15, Istanbul, Fatih, Istanbul, Istanbul",4.5/5,4.6/5,4.0/5,4.3/5,35+,5/5 guest room rating,158 sq ft,8.0,$41
+Swandor Hotels & Resort Topkapi Palace - All Inclusive,4.0/5,174 reviews,"Kundu Aksu, Lara, Antalya, Antalya",4.1/5,3.9/5,4.6/5,4.0/5,112+,4.4/5 guest room rating,366 sq ft,19.0,$181
+Boutique Saint Sophia,4.7/5,565 reviews,"Alemdar Cad. 2, Istanbul, Istanbul, Istanbul",4.7/5,4.8/5,4.6/5,4.6/5,68+,4.6/5 guest room rating,183 sq ft,11.0,$95
+PRIMERO HOTEL,4.6/5,338 reviews,"Pertev Pasa Sokak, Istanbul, Istanbul",4.7/5,4.8/5,4.3/5,4.6/5,63+,4.9/5 guest room rating,183 sq ft,8.0,$32
+Ela Quality Resort Belek - All Inclusive,4.5/5,79 reviews,"Iskele Mevkii, Belek, Antalya",4.6/5,4.4/5,4.3/5,4.5/5,204+,4.6/5 guest room rating,387 sq ft,22.0,$243
+Key Hotel - Boutique Class,4.8/5,307 reviews,"Mimar Kemalettin Cad. No:1 Konak, Izmir, Izmir",4.8/5,4.8/5,4.8/5,4.8/5,35+,4.7/5 guest room rating,280 sq ft,12.0,$129
+ibis Izmir Alsancak,4.3/5,568 reviews,"Ataturk Caddesi 404-410, Konak, Izmir, Izmir",4.4/5,4.2/5,4.1/5,4.3/5,26+,4.7/5 guest room rating,183 sq ft,8.0,$38
+"The Ritz-Carlton, Istanbul",4.6/5,342 reviews,"Suzer Plaza, Askerocagi Caddesi, No:6, Elmadag/Sisli, Istanbul",4.8/5,4.7/5,4.7/5,4.6/5,98+,5/5 guest room rating,409 sq ft,15.0,$206
+Régie Ottoman Istanbul,4.7/5,224 reviews,"Hobyar Mah. Mimar Vedat Sok., No 5 Sirkeci, Istanbul-Old City, Istanbul, Istanbul",4.8/5,4.7/5,4.5/5,4.8/5,45+,3.9/5 guest room rating,215 sq ft,10.0,$68
+Hampton by Hilton Istanbul Kayasehir,4.0/5,273 reviews,"Kayabasi Mah. Sehit Mustafa, Bozoklu Cad. No:5/1, Basaksehir, Istanbul",4.1/5,4.0/5,3.9/5,4.0/5,30+,4.7/5 guest room rating,247 sq ft,11.0,$48
+"Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",4.7/5,84 reviews,"Kabasakal Cad. No:5 Istanbul, Fatih, Istanbul",4.9/5,4.6/5,4.7/5,4.8/5,114+,5/5 guest room rating,431 sq ft,10.0,$137
+Hotel Perula,4.3/5,209 reviews,"Binbirdirek mah. Peykhane Sok. no:45, Istanbul, Istanbul, Istanbul",4.4/5,4.4/5,4.1/5,4.2/5,55+,4.5/5 guest room rating,161 sq ft,10.0,$46
+La Farine Hotel,4.3/5,36 reviews,"Karagözler Mah. Fevzi Çakmak Cad., No 33 A, Mugla",4.7/5,4.4/5,4.7/5,4.5/5,35+,5/5 guest room rating,215 sq ft,9.0,$69
+"Bh Conference & Airport Hotel, Istanbul",3.6/5,922 reviews,"E-5 Karayolu (yanyol) No: 20, Sefakoy Kavsagi - K. Cekmece, Istanbul, Istanbul",3.9/5,3.7/5,3.4/5,3.6/5,54+,,301 sq ft,18.0,$46
+Seven Hills Palace & Spa,4.7/5,37 reviews,"Istanbul Mahallesi Kadi Cikmazi Sok., No 11 1 Fatih, Istanbul",4.8/5,4.9/5,4.4/5,4.7/5,125+,4.5/5 guest room rating,237 sq ft,15.0,$127
+Adana Hilton SA,4.4/5,466 reviews,"Sinanpasa Mah Haci Sabanci Bul No:1, Yuregir, Adana, Adana",4.5/5,4.4/5,4.1/5,4.4/5,77+,4.6/5 guest room rating,344 sq ft,12.0,$73
+ibis Adana,4.2/5,811 reviews,"Cinarli Mah. Turhan Cemal, Beriker Bulvari No:49, Adana, Adana",4.3/5,4.1/5,4.2/5,4.2/5,27+,4.3/5 guest room rating,183 sq ft,11.0,$28
+Seraglio Hotel & Suites,4.7/5,226 reviews,"Cankurtaran Mh. Amiral Tafdil Sk No: 32, Istanbul, Istanbul, Istanbul",4.8/5,4.8/5,4.4/5,4.6/5,98+,4.9/5 guest room rating,172 sq ft,8.0,$52
+The Magnaura Palace Hotel,4.6/5,174 reviews,"Istanbul Mah. Dalbasti Sok., No13/1 Istanbul, Istanbul",4.8/5,4.8/5,4.4/5,4.5/5,52+,4.9/5 guest room rating,194 sq ft,9.0,$55
+Erguvan Hotel - Special Class,4.4/5,971 reviews,"Aksakal cad. 3, Istanbul, Istanbul, Istanbul",4.4/5,4.6/5,4.2/5,4.2/5,53+,4.7/5 guest room rating,215 sq ft,9.0,$49
+YOTELAIR Istanbul Airport AIRSIDE,4.2/5,249 reviews,"Tayakadin Mah. Terminal Cad. No.1, Arnavutkoy, Arnavutkoy, Istanbul",4.5/5,4.3/5,4.2/5,4.4/5,31+,4.7/5 guest room rating,140 sq ft,4.0,$176
+Sura Hagia Sophia Hotel,4.0/5,997 reviews,"Divanyolu Cd. Alemdar Mah., Ticarethane Sk. No 10 Istanbul, Istanbul, Istanbul",4.0/5,4.1/5,3.8/5,3.9/5,72+,3.7/5 guest room rating,215 sq ft,15.0,$86
+Swissotel Buyuk Efes Izmir,4.6/5,998 reviews,"Gaziosmanpasa Bulvari No 1, Izmir, Izmir",4.7/5,4.6/5,4.7/5,4.6/5,104+,4.9/5 guest room rating,291 sq ft,17.0,$95
+The Marmara Pera,4.0/5,996 reviews,"Mesrutiyet Cad. Tepebasi, Istanbul, Istanbul",4.1/5,4.1/5,4.0/5,3.9/5,45+,4.1/5 guest room rating,248 sq ft,16.0,$76
+Hotel Fehmi Bey - Special Class,4.2/5,309 reviews,"Binbirdirek Mah. Ucler Sok. No.15, Istanbul, Istanbul",4.3/5,4.3/5,4.1/5,3.9/5,96+,4.2/5 guest room rating,269 sq ft,9.0,$35
+Fer Hotel,4.7/5,171 reviews,"Molla Fenari St, Türbedar St. No 12, Nuruosmaniye / Istanbul, Istanbul",4.8/5,4.8/5,4.5/5,4.8/5,88+,5/5 guest room rating,247 sq ft,11.0,$102
+DoubleTree by Hilton Hotel Izmir Airport,4.4/5,454 reviews,"Fatih Mh. Ege Cad. N:4A, Gaziemir, Izmir",4.6/5,4.4/5,4.3/5,4.5/5,157+,4.7/5 guest room rating,269 sq ft,15.0,$44
+Kordon Hotel Pasaport,4.0/5,162 reviews,"Akdeniz Caddesi No: 2 - Pasaport, Izmir, Izmir",4.1/5,4.0/5,4.0/5,3.9/5,22+,4.5/5 guest room rating,377 sq ft,9.0,$65
+Hotel Alilass,4.5/5,370 reviews,"Cankuratan Mah. Akbyk, Cad. Bayramfrn Sok. No 9, Istanbul, Istanbul",4.7/5,4.8/5,4.4/5,4.5/5,46+,4.8/5 guest room rating,140 sq ft,7.0,$41
+Esans Hotel - Special Class,4.6/5,229 reviews,"Yenisarachane sk No:4, Fatih, Istanbul, Istanbul",4.7/5,4.8/5,4.5/5,4.5/5,83+,4.7/5 guest room rating,151 sq ft,9.0,$29
+Doubletree By Hilton Kusadasi - Special Class,4.3/5,594 reviews,"Yat Limani Mevkii, Kusadasi, Aydin",4.4/5,4.3/5,4.0/5,4.3/5,45+,4.5/5 guest room rating,301 sq ft,13.0,$48
+Izmir Palas Otel,4.3/5,363 reviews,"Kültür Mahallesi, Vasif Çinar Blv No 2, Konak, Izmir",4.3/5,4.3/5,3.9/5,4.2/5,102+,4.2/5 guest room rating,269 sq ft,10.0,$50
+Svalinn Hotel,4.5/5,191 reviews,"Akçay Cad. No:172, Gaziemir, Izmir",4.7/5,4.5/5,4.6/5,4.6/5,67+,4.9/5 guest room rating,484 sq ft,16.0,$53
+Istanbul Airport Durusu Club Hotel,3.7/5,237 reviews,"Boyalik Mahallesi, Durusu Park, Arnavutkoy, Istanbul",3.7/5,3.8/5,3.7/5,3.5/5,63+,,269 sq ft,,$47
+The House Hotel Karakoy,4.7/5,974 reviews,"Emek yemez mh. Bankalar cd. No 5, Istanbul, Istanbul",4.7/5,4.7/5,4.4/5,4.6/5,68+,4.6/5 guest room rating,215 sq ft,14.0,$107
+Armada Istanbul Old City Hotel,4.4/5,885 reviews,"Ahirkapi Sok. No: 24, Istanbul, Istanbul, Istanbul",4.6/5,4.5/5,4.1/5,4.3/5,24+,4.3/5 guest room rating,215 sq ft,12.0,$55
+Akra Hotel,4.6/5,"1,617 reviews","Lara Yolu, Antalya, Antalya",4.7/5,4.5/5,4.6/5,4.7/5,118+,4.7/5 guest room rating,279 sq ft,19.0,$122
+Renaissance Izmir Hotel,4.6/5,698 reviews,"Akdeniz Mah Gaziosmanpasa Bulvari No 16, Izmir, Izmir",4.7/5,4.7/5,4.6/5,4.7/5,83+,4.8/5 guest room rating,344 sq ft,15.0,$76
+Agora Life Hotel,4.3/5,345 reviews,"Cagaloglu Hamam Sokak No.6, Istanbul, Istanbul, Istanbul",4.5/5,4.7/5,4.4/5,4.2/5,78+,4.6/5 guest room rating,215 sq ft,9.0,$66
+Sidonya Hotel,3.9/5,147 reviews,"Rihtim Caddesi Nemlizade Sokak No.34, Kadikoy, Istanbul, Istanbul",4.0/5,4.0/5,3.6/5,3.7/5,48+,4/5 guest room rating,172 sq ft,15.0,$50
+Valide Sultan Konagi,4.5/5,445 reviews,"Cankurtaran Mah. Kutlugun Sok. No/1, Istanbul, Istanbul, Istanbul",4.6/5,4.6/5,4.2/5,4.4/5,44+,4.4/5 guest room rating,215 sq ft,11.0,$64
+Pera Palace Hotel,4.7/5,889 reviews,"Mesrutiyet Cad. No. 52, Tepebasi Istanbul, Istanbul, Istanbul",4.7/5,4.7/5,4.4/5,4.7/5,100+,4.6/5 guest room rating,323 sq ft,15.0,$137
+Hampton by Hilton Istanbul Kurtkoy,4.3/5,291 reviews,"Yeni Sehir Mh. Millet Caddesi 27, MVK Work Square B, Block 3, Pendik, Istanbul",4.6/5,4.3/5,4.2/5,4.4/5,28+,5/5 guest room rating,231 sq ft,11.0,$69
+Calista Luxury Resort - All Inclusive,4.5/5,156 reviews,"Tasliburun Mevkii 19805, Belek, Antalya",4.6/5,4.6/5,4.7/5,4.6/5,295+,,452 sq ft,,$346
+Hotel 1207 Special Class,4.4/5,154 reviews,"Kaleiçi Barbaros Mah. Atatürk, Bul. Koacatepe sk. No:13, Antalya",4.5/5,4.5/5,4.2/5,4.4/5,130+,4.5/5 guest room rating,107 sq ft,9.0,$49
+Hotel Uyan - Special Class,4.2/5,996 reviews,"Utangac Sokak No: 25, Istanbul, Istanbul, Istanbul",4.3/5,4.2/5,3.8/5,4.1/5,56+,4/5 guest room rating,172 sq ft,9.0,$56
+Fairmont Quasar Istanbul,4.6/5,184 reviews,"Buyukdere Caddesi, 76, Mecidiyekoy, Istanbul",4.7/5,4.6/5,4.6/5,4.7/5,73+,4.5/5 guest room rating,431 sq ft,18.0,$144
+DoubleTree by Hilton Mugla Marina Vista,4.4/5,323 reviews,"Neyzen Tevfik Cad No 168, Mugla, Mugla",4.5/5,4.4/5,4.3/5,4.4/5,68+,4/5 guest room rating,237 sq ft,14.0,$89
+Senatus Hotel - Special Class,4.5/5,557 reviews,"Akbiyik Caddesi No: 40, Istanbul, Istanbul, Istanbul",4.6/5,4.7/5,4.2/5,4.4/5,64+,4.5/5 guest room rating,141 sq ft,9.0,$43
+Holiday Inn Antalya - Lara,4.2/5,281 reviews,"Lara Guzeloba 2290, Sk Antalya, Antalya",4.4/5,4.3/5,4.5/5,4.3/5,86+,4.7/5 guest room rating,205 sq ft,14.0,$31
+Rixos Pera Istanbul,4.4/5,853 reviews,"Kamerhatun Mah.Mesrutiyet Cad.No 44, Tepebasi Taksim, Istanbul, Istanbul",4.6/5,4.5/5,4.1/5,4.4/5,52+,4.4/5 guest room rating,301 sq ft,11.0,$108
+Marti Resort Hotel,3.6/5,199 reviews,"Kumluorencik Mevkii, Icmeler, Marmaris, Mugla",3.5/5,3.4/5,2.9/5,3.5/5,89+,4/5 guest room rating,355 sq ft,16.0,$113
+Four Points by Sheraton Izmir,4.4/5,413 reviews,"Cinaralti Avenue, Ankara Asfalti Street, No: 17-A Konak, Izmir",4.5/5,4.4/5,4.2/5,4.4/5,51+,4.8/5 guest room rating,291 sq ft,11.0,$61
+Recital Hotel,4.4/5,804 reviews,"Binbirdirek Mah., Piyerloti Caddesi 21, Istanbul, Istanbul",4.5/5,4.5/5,4.3/5,4.3/5,54+,4.7/5 guest room rating,182 sq ft,10.0,$57
+Hotel Ibrahim Pasha,4.7/5,222 reviews,"Terzihane Sok 7, Istanbul, Istanbul, Istanbul",4.8/5,4.9/5,4.6/5,4.6/5,50+,4.6/5 guest room rating,161 sq ft,8.0,$102
+Hotel Su & Aqualand,4.0/5,"1,000 reviews","Meltem Mah., Dumlupinar Bulvar No:205, Antalya, Antalya",3.9/5,4.0/5,4.1/5,3.8/5,60+,4/5 guest room rating,280 sq ft,20.0,$94
+"Radisson Blu Resort & Spa, Cesme",3.8/5,666 reviews,"Altinyunus mah 3435 Sok No. 25, Cesme, Izmir",4.1/5,3.9/5,3.9/5,3.8/5,269+,4.3/5 guest room rating,258 sq ft,18.0,$68
+Erten Konak - Special Class,3.9/5,768 reviews,"Akbiyik Caddesi, Akbiyik Degirmeni Sokak 8/10, Istanbul, Istanbul",3.9/5,4.2/5,3.6/5,3.8/5,39+,3.8/5 guest room rating,86 sq ft,12.0,$29
+Golden Royal Cemberlitas,4.6/5,239 reviews,"binbirdirek mh.peykhane sk no 19, cemberlitas, Istanbul",4.6/5,4.7/5,4.5/5,4.6/5,55+,4.5/5 guest room rating,172 sq ft,8.0,$110
+Park Inn by Radisson Izmir,4.3/5,827 reviews,"Cumhuriyet Bulvari No 124 Konak, Izmir",4.5/5,4.3/5,4.1/5,4.4/5,125+,4.5/5 guest room rating,236 sq ft,13.0,$54
+Radisson President Beyazit Istanbul,4.3/5,988 reviews,"Tiyatro Caddesi, No. 25, Beyazit, Istanbul, Istanbul",4.4/5,4.4/5,4.0/5,4.2/5,218+,5/5 guest room rating,269 sq ft,16.0,$92
+Hyatt Regency Istanbul Ataköy,4.1/5,556 reviews,"Atakoy 2-5-6, Kisim, Rauf Orbay Caddesi Sahil Yolu No 2/1, Istanbul, Istanbul",4.3/5,4.1/5,4.1/5,4.3/5,108+,4.5/5 guest room rating,377 sq ft,15.0,$123
+Turkuaz Suites,4.3/5,88 reviews,"Süleyman Seba Cad. Refik Osman Top Sok., Istanbul, Istanbul",4.5/5,4.6/5,4.1/5,4.4/5,45+,5/5 guest room rating,484 sq ft,12.0,$67
+Sultan Tughra Hotel,4.1/5,332 reviews,"Istanbul Mah Keresteci Hakki Sok, No:17, Istanbul, Istanbul",4.4/5,4.5/5,3.7/5,4.2/5,94+,3.8/5 guest room rating,142 sq ft,10.0,$40
+Azade Hotel,4.1/5,379 reviews,"Mimar Mehmet Aga Caddesi No.17/19, Istanbul, Istanbul",4.2/5,4.2/5,4.1/5,3.9/5,30+,4.3/5 guest room rating,215 sq ft,8.0,$48
+Sheraton Grand Istanbul Atasehir,4.5/5,167 reviews,"Barbaros Mah, Mor Sumbul Sok, No:1, Atasehir, Istanbul",4.6/5,4.5/5,4.2/5,4.6/5,152+,5/5 guest room rating,291 sq ft,17.0,$98
+Hotel Sari Konak,4.4/5,626 reviews,"Mimar Mehmet Aga Cad No: 26, Istanbul, Istanbul, Istanbul",4.6/5,4.6/5,4.2/5,4.3/5,49+,5/5 guest room rating,193 sq ft,8.0,$46
+Muyan Suites,4.5/5,354 reviews,"Binbirdirek Mah, Dizdariye Medresesi, Sok No: 13, Istanbul, Istanbul, Istanbul",4.6/5,4.8/5,4.3/5,4.4/5,31+,4.3/5 guest room rating,344 sq ft,8.0,$45
+Coordinat Suits,3.9/5,121 reviews,"351. Sokak no 3, Izmir",3.9/5,3.8/5,3.9/5,4.1/5,87+,5/5 guest room rating,323 sq ft,10.0,$36
+Georges Hotel Galata,4.5/5,156 reviews,"Serdar-I Ekrem Sokak No:24, Galata - Istanbul, Istanbul, Istanbul",4.6/5,4.5/5,4.5/5,4.4/5,132+,4.6/5 guest room rating,301 sq ft,11.0,$151
+"Radisson Blu Hotel & Spa, Istanbul Tuzla",4.5/5,890 reviews,"Camlibelde Sitesi Hasan Tokatli Sk., No:1 Aydinli, Tuzla, Istanbul",4.6/5,4.4/5,4.4/5,4.6/5,103+,4.6/5 guest room rating,377 sq ft,17.0,$94
+Nearport Hotel Sabiha Gokcen Airport,4.3/5,159 reviews,"Yenisehir Mahallesi, Osmanli Bulvari, No:5/A, Pendik, Istanbul",4.5/5,4.2/5,4.1/5,4.3/5,35+,4.7/5 guest room rating,323 sq ft,13.0,$57
+Kilim Otel Izmir,4.2/5,113 reviews,"Kazim Dirik Cad. No 1 Pasaport Alsancak, Izmir",4.2/5,4.2/5,3.9/5,4.0/5,25+,4.3/5 guest room rating,161 sq ft,11.0,$50
+Swissotel The Bosphorus Istanbul,4.6/5,"1,002 reviews","Visnezade Mah. Acisu Sok. NO. 19, Macka Besiktas, Istanbul, Istanbul",4.7/5,4.6/5,4.7/5,4.6/5,225+,4.6/5 guest room rating,409 sq ft,18.0,$222
+Pierre Loti Hotel - Special Class,4.0/5,849 reviews,"Piyerloti Cad. No: 1, Istanbul - Cemberlitas, Istanbul, Istanbul",4.2/5,4.2/5,4.1/5,4.0/5,68+,4/5 guest room rating,215 sq ft,10.0,$81
+Park Inn By Radisson Istanbul Ataturk Airport,3.9/5,296 reviews,"Halkali Merkez Mah Fatih Caddesi No. 99, Istanbul, Istanbul",4.0/5,4.0/5,4.2/5,3.9/5,32+,4.1/5 guest room rating,215 sq ft,14.0,$46
+Side Hotel,4.2/5,151 reviews,"Cankurtaran Mah Utangac Sok No 22, Istanbul Fatih, Istanbul",4.3/5,4.5/5,3.9/5,4.0/5,29+,4.4/5 guest room rating,151 sq ft,4.0,$37
+Costa Sariyaz Hotel,4.5/5,377 reviews,"Dr. Mümtaz Ataman Caddesi No:47, Umurca Mahallesi, Mugla, Mugla",4.4/5,4.5/5,4.5/5,4.4/5,35+,4.5/5 guest room rating,215 sq ft,11.0,$26
+Viento Hotel Alacati - Special Class,4.7/5,56 reviews,"Yeni Mecidiye Mah. 11039 Sok. No:18, Alaçati, Cesme, Izmir",4.7/5,4.7/5,4.8/5,4.7/5,95+,4.2/5 guest room rating,237 sq ft,11.0,$88
+The Marmara Mugla - Adult Only,4.6/5,354 reviews,"Yokusbasi Mahallesi Suluhasan, Caddesi no.18, Mugla, Mugla",4.7/5,4.7/5,4.5/5,4.6/5,56+,4.7/5 guest room rating,344 sq ft,17.0,$177
+Anthemis Hotel,4.4/5,159 reviews,"Alemdar Mah. Haci Tahsin Bey Sok. No: 11, Istanbul, Fatih, Istanbul",4.4/5,4.6/5,3.9/5,4.1/5,60+,3.9/5 guest room rating,140 sq ft,8.0,$63
+Ayhan Hotel,3.9/5,285 reviews,"Kışla Mahallesi 40.Sokak No:11, Muratpaşa Antalya, Antalya, Antalya",4.0/5,4.1/5,3.5/5,3.8/5,32+,,161 sq ft,8.0,$37
+Avicenna Hotel - Special Class,3.7/5,564 reviews,"Mimar Mehmet Aga Cad., Amiral Tafdil Sok. Istanbul, Istanbul, Istanbul",3.8/5,4.0/5,3.5/5,3.5/5,84+,,215 sq ft,11.0,$38
+AMOSSIA ELIT BUTIK OTEL,4.5/5,67 reviews,"Turunc Mah., Vatan Caddesi 2/A, Marmaris, Mugla",4.8/5,4.6/5,4.6/5,4.7/5,79+,5/5 guest room rating,161 sq ft,12.0,$52
+Movenpick Hotel Istanbul Golden Horn,4.3/5,693 reviews,"Silahtaraga Caddesi, No. 87, Eyup, Istanbul",4.5/5,4.4/5,4.4/5,4.4/5,91+,3.8/5 guest room rating,323 sq ft,15.0,$63
+Elite World Europe Hotel,4.3/5,673 reviews,"Basin Ekspres Caddesi No. 4, Kucukcekmece, Istanbul",4.3/5,4.1/5,4.4/5,4.4/5,59+,4.5/5 guest room rating,344 sq ft,13.0,$74
+NOX SUITE,4.5/5,69 reviews,"Caglayan Mahallesi, 2015 Sokak No 23, Antalya, Antalya",4.6/5,4.5/5,4.6/5,4.7/5,74+,5/5 guest room rating,538 sq ft,13.0,$57
+Sura Design Hotel and Suites - Boutique Class,4.2/5,59 reviews,"Alemdar Mh., Ticarethane Sk. No:13, Fatih, Istanbul, Istanbul",4.2/5,4.3/5,4.2/5,4.1/5,101+,3.6/5 guest room rating,258 sq ft,15.0,$114
+Romance Istanbul Hotel,4.8/5,157 reviews,"Hüdavendigar Caddesi No 5 Sirkeci, Fatih, Istanbul",4.9/5,4.9/5,4.8/5,4.8/5,55+,4.6/5 guest room rating,150 sq ft,12.0,$166
+Liberi Hotel Taksim,4.6/5,27 reviews,"Bas Aga Çesmesi Sk. No.7, Istanbul, Istanbul",4.8/5,4.8/5,4.3/5,4.7/5,41+,5/5 guest room rating,215 sq ft,7.0,$24
+Idylle Hotel,4.6/5,53 reviews,"Hocapasa Mah, Ebusuud Cad No:2, Istanbul, Fatih, Istanbul, Istanbul",4.7/5,4.8/5,4.3/5,4.4/5,159+,,172 sq ft,11.0,$55
+"Caresse, a Luxury Collection Resort & Spa, Mugla",4.6/5,49 reviews,"Adnan Menderes caddesi No: 89, Asarlik Mevkii PK 225, Mugla",4.8/5,4.4/5,4.6/5,4.7/5,110+,5/5 guest room rating,388 sq ft,16.0,$263
+Doria Hotel Mugla,4.5/5,374 reviews,"1410 Sokak Gündönümü Mevkii, Bitez, Mugla, Mugla",4.6/5,4.5/5,4.2/5,4.5/5,44+,4.9/5 guest room rating,366 sq ft,12.0,$86
+Hilton Garden Inn Istanbul Airport,3.9/5,549 reviews,"Yenibosna Mah., Yalcin Kores Cad. 14, Istanbul",4.1/5,3.9/5,3.6/5,4.0/5,52+,4/5 guest room rating,301 sq ft,12.0,$46
+Labranda Mares Marmaris - All Inclusive,4.2/5,137 reviews,"Icmeler Mah Ataturk Cad No 64, Marmaris, Mugla",4.3/5,4.2/5,4.2/5,4.1/5,73+,4/5 guest room rating,269 sq ft,16.0,$58
+Tempo Suites Airport İstanbul,4.5/5,464 reviews,"Hürriyet cad. Hürriyet mah. No:14, Bahçelievler, Istanbul, Istanbul",4.6/5,4.5/5,3.3/5,4.5/5,27+,4.3/5 guest room rating,215 sq ft,9.0,$38
+CVK Park Bosphorus Hotel Istanbul,4.4/5,664 reviews,"Gümüssuyu Mah. Inönü Cad. No:8, Istanbul, Istanbul",4.5/5,4.3/5,4.5/5,4.5/5,131+,4.3/5 guest room rating,377 sq ft,13.0,$169
+Wyndham Grand Istanbul Kalamis Marina Hotel,4.5/5,788 reviews,"Fener Kalamis Caddesi 38, Istanbul, Istanbul",4.7/5,4.5/5,4.6/5,4.6/5,91+,5/5 guest room rating,344 sq ft,15.0,$97
+Kalyon Hotel Istanbul,4.0/5,472 reviews,"Kennedy Caddesi no:34, Istanbul, Istanbul, Istanbul",4.3/5,4.1/5,3.8/5,4.0/5,82+,4.2/5 guest room rating,161 sq ft,11.0,$80
+Urcu Hotel,4.4/5,80 reviews,"Barbaros Mah Hamit Efendi Sok No: 6, Kaleici, Antalya, Antalya",4.6/5,4.5/5,4.6/5,4.3/5,92+,5/5 guest room rating,269 sq ft,9.0,$29
+Adamar Hotel - Special Class,4.4/5,934 reviews,"Yerebatan Cad. No: 37, Istanbul, Istanbul, Istanbul",4.5/5,4.6/5,4.1/5,4.3/5,41+,4.4/5 guest room rating,205 sq ft,11.0,$51
+Park Dedeman Levent,4.1/5,648 reviews,"Esentepe Mah. Büyükdere Cad. No.187, Levent, Sisli, Istanbul",4.1/5,4.1/5,4.1/5,4.1/5,46+,4.3/5 guest room rating,258 sq ft,13.0,$62
+Ilayda Avantgarde Hotel,4.5/5,344 reviews,"Turkmen Mah., Ataturk Bulvari No:42, Kusadasi, Aydin",4.7/5,4.5/5,4.2/5,4.6/5,46+,4.5/5 guest room rating,258 sq ft,13.0,$66
+Zeniva Hotel,4.4/5,344 reviews,"Kizilay Caddesi No:1/1 Alsancak, Konak, Izmir, Izmir",4.6/5,4.5/5,4.1/5,4.4/5,43+,4.8/5 guest room rating,215 sq ft,11.0,$54
+Hotel Saba,4.5/5,6 reviews,"Binbirdirek mah, Sehit Mehmet, Pasa Yokusu No: 8, Istanbul, Istanbul, Istanbul",4.3/5,4.7/5,0.0/5,4.3/5,30+,5/5 guest room rating,205 sq ft,9.0,$39
+Orty Airport Hotel,4.4/5,600 reviews,"Adnan Menderes Airport Entrance, Gaziemir, Izmir, Izmir",4.6/5,4.5/5,3.9/5,4.4/5,28+,4.7/5 guest room rating,258 sq ft,12.0,$47
+Yazar Lara Hotel,4.4/5,107 reviews,"Çaglayan, 2005. Sk. no:36, Antalya, Antalya",4.6/5,4.5/5,4.6/5,4.5/5,67+,4.1/5 guest room rating,193 sq ft,8.0,$31
+Wyndham Grand Izmir Ozdilek,4.5/5,"1,000 reviews","Inciralti Street Nr 67, Izmir, Izmir",4.5/5,4.4/5,4.5/5,4.4/5,85+,4.8/5 guest room rating,291 sq ft,19.0,$77
+Martı Hemithea Hotel,4.3/5,110 reviews,"Orhaniye Koyu Kecibuku Mevkii, Marmaris, Mugla",4.4/5,4.3/5,4.3/5,4.3/5,73+,5/5 guest room rating,463 sq ft,11.0,$164
+City Hotel Marmaris,4.2/5,100 reviews,"Kemeralti Mahallesi 64, Sokak No. 9, Marmaris, Mugla",4.3/5,4.3/5,4.2/5,4.2/5,59+,4.2/5 guest room rating,151 sq ft,9.0,$43
+La Boutique Hotel Antalya-Adults Only,4.1/5,261 reviews,"Eski Lara Yolu Sirinyali Mahallesi, 1537 Sok. No. 16, Antalya, Antalya",4.4/5,4.2/5,3.5/5,4.2/5,61+,3.8/5 guest room rating,484 sq ft,14.0,$87
+Dosso Dossi Hotels Old City,4.4/5,405 reviews,"Alemdar Mah Alay Köskü Cad No:12, Istanbul, Istanbul",4.6/5,4.5/5,4.1/5,4.4/5,90+,4.2/5 guest room rating,194 sq ft,14.0,$64
+Darussaade Istanbul,4.4/5,338 reviews,"Akbiyik Cad. No:90 Istanbul, Istanbul, Istanbul",4.5/5,4.6/5,4.6/5,4.3/5,52+,4.5/5 guest room rating,172 sq ft,8.0,$59
+Qua Hotel,3.7/5,207 reviews,"Mahmutbey Mh. Peyami Safa Cd. No:25, Bağcılar, Istanbul",3.8/5,3.6/5,3.3/5,3.8/5,66+,4.8/5 guest room rating,215 sq ft,14.0,$32
+Witt Istanbul Hotel,4.9/5,172 reviews,"Defterdar Yokusu No 26 Cihangir, Istanbul",4.9/5,4.9/5,4.9/5,4.8/5,39+,4.9/5 guest room rating,484 sq ft,10.0,$156
+Seven Hills Hotel - Special Class,4.4/5,495 reviews,"Cankurtaran Mh., Tevkifhane Sokak 8, Istanbul, Istanbul",4.4/5,4.6/5,4.3/5,4.2/5,31+,4.6/5 guest room rating,237 sq ft,9.0,$116
+ibis Izmir Alsancak,4.3/5,568 reviews,"Ataturk Caddesi 404-410, Konak, Izmir, Izmir",4.4/5,4.2/5,4.1/5,4.3/5,26+,4.7/5 guest room rating,183 sq ft,8.0,$38
+Ramada Plaza by Wyndham Istanbul City Center,4.1/5,293 reviews,"Halaskargazi Cad No 63, Osmanbey, Istanbul, Istanbul",4.2/5,4.1/5,4.2/5,4.0/5,46+,3.7/5 guest room rating,269 sq ft,15.0,$92
+Deluxe Golden Horn Istanbul Hotel,4.0/5,425 reviews,"Binbirdirek Mah., Binbirdirek Meydani sokak No:1, Istanbul, Istanbul",4.0/5,4.0/5,4.0/5,3.9/5,53+,3.9/5 guest room rating,204 sq ft,8.0,$87
+Hotel Paris Prestige,4.3/5,61 reviews,"1397 SOKAK NO.38/40, KAHRAMANLAR/KONAK, Izmir",4.6/5,4.5/5,4.4/5,4.5/5,23+,4.5/5 guest room rating,237 sq ft,8.0,$34
+Taximist Hotel,4.3/5,104 reviews,"Kocatepe mah dolapdere 63, Taksim, Istanbul, Istanbul",4.3/5,4.5/5,4.0/5,4.0/5,60+,4.4/5 guest room rating,226 sq ft,6.0,$45
+ByOtell Hotel Istanbul,4.1/5,782 reviews,"Saniye Ermutlu No. 3 Kozyatagi, Istanbul, Istanbul",4.4/5,4.2/5,4.0/5,4.2/5,56+,4.7/5 guest room rating,312 sq ft,11.0,$68
+Hotel DeCamondo,4.9/5,46 reviews,"Felek Sk., Istanbul, Istanbul",5.0/5,5.0/5,4.8/5,4.9/5,55+,5/5 guest room rating,269 sq ft,12.0,$82
+Olimpic Hotel,4.1/5,137 reviews,"Peykhane Cad. No16, Fatih, Istanbul",4.2/5,4.3/5,4.1/5,4.0/5,43+,4/5 guest room rating,226 sq ft,9.0,$38
+Hilton Istanbul Bosphorus,4.3/5,"1,000 reviews","Cumhuriyet Caddesi, Harbiye, Istanbul, Istanbul",4.4/5,4.3/5,4.2/5,4.1/5,164+,4.4/5 guest room rating,441 sq ft,17.0,$125
+Ada Hotel Istanbul,4.6/5,141 reviews,"Sehit Mehmetpasa Yokusu Sok 30, Istanbul, Istanbul",4.7/5,4.8/5,4.3/5,4.5/5,59+,5/5 guest room rating,226 sq ft,7.0,$48
+Mono Hotel,4.5/5,69 reviews,"Hesapçi Sk. 70, Antalya, Antalya",4.6/5,4.6/5,4.3/5,4.5/5,56+,5/5 guest room rating,161 sq ft,6.0,$35
+Radisson Blu Hotel Istanbul Ottomare,3.9/5,466 reviews,"Kazlicesme Mah. Abay Cad No: 223, Zeytinburnu, Istanbul",3.9/5,4.0/5,4.0/5,4.0/5,129+,4.1/5 guest room rating,258 sq ft,12.0,$80
+Oglakcioglu Park Boutique Hotel,4.2/5,993 reviews,"1367 Sokak No: 9, Cankaya, Izmir, Izmir",4.4/5,4.4/5,4.1/5,4.2/5,56+,4.5/5 guest room rating,194 sq ft,8.0,$27
+Nippon Hotel,4.2/5,623 reviews,"Topcu Caddesi No:6, Talimhane, Taksim, Istanbul, Istanbul",4.3/5,4.3/5,4.2/5,4.1/5,120+,4.2/5 guest room rating,215 sq ft,12.0,$85
+The Stay Nisantasi,4.7/5,157 reviews,"Harbiye Mahallesi Abdi Ipekçi Cd. No:30, Nişantaşı, Şişli, Istanbul, Istanbul",4.7/5,4.8/5,4.3/5,4.5/5,72+,3.7/5 guest room rating,269 sq ft,9.0,$172
+Sheraton Istanbul City Center,4.5/5,56 reviews,"Haci Ahmet Mah, Kurtulus Deresi Cad. No:23 Istanbul, Istanbul, Istanbul",4.7/5,4.7/5,4.6/5,4.6/5,74+,5/5 guest room rating,237 sq ft,15.0,$100
+DUHOK OTEL,4.1/5,98 reviews,"Çukurlu Çesme Sk. 6, Istanbul, Istanbul",4.1/5,4.3/5,3.5/5,4.0/5,80+,3.6/5 guest room rating,172 sq ft,8.0,$22
+Mugla Gulet Otel,4.1/5,219 reviews,"Cumhuriyet Caddesi No 177, Mugla, Mugla",4.1/5,4.2/5,3.7/5,4.0/5,45+,3.9/5 guest room rating,215 sq ft,10.0,$32
+Holiday Inn Istanbul - Old City,4.2/5,471 reviews,"Gencturk Cad. Sirvanizade Sokak No. 5, Vezneciler-Fatih, Istanbul",4.3/5,4.3/5,4.2/5,4.1/5,67+,3.8/5 guest room rating,215 sq ft,12.0,$52
+Tashkonak Hotel,4.3/5,822 reviews,"Kucukayasofya Cd. Tomurcuk Sk. No:5, Istanbul, Istanbul, Istanbul",4.4/5,4.6/5,3.9/5,4.1/5,78+,4.3/5 guest room rating,183 sq ft,10.0,$34
+Hotel Manastir and Suites,4.2/5,258 reviews,"Kumbahce Mah Mustafa Kemal Cad No 37, Mugla, Mugla",4.3/5,4.2/5,3.9/5,4.2/5,93+,4.1/5 guest room rating,215 sq ft,16.0,$59
+İlica Hotel Spa & Wellness Thermal Resort,4.2/5,"1,010 reviews","Boyalik Mevkii Ilica, Cesme, Izmir",4.2/5,4.1/5,4.0/5,4.2/5,158+,4.4/5 guest room rating,269 sq ft,17.0,$61
+Conrad Istanbul Bosphorus,4.5/5,998 reviews,"Cihannuma Mahallesi, Saray Caddesi No:5, Besiktas, Istanbul, Istanbul",4.6/5,4.5/5,4.5/5,4.5/5,156+,4.5/5 guest room rating,377 sq ft,17.0,$125
+Dorman Suites,4.6/5,28 reviews,"Bitez Mah. Halilim Cd. No 6, Mugla Bitez, Mugla, Mugla",4.5/5,4.5/5,4.7/5,4.7/5,98+,5/5 guest room rating,646 sq ft,13.0,$58
+Wish More Hotel Istanbul,4.2/5,237 reviews,"Kocatepe Mah. Cicoz Yolu Cad. No: 207, Bayrampasa, Istanbul",4.4/5,4.2/5,4.3/5,4.3/5,98+,4.6/5 guest room rating,279 sq ft,14.0,$67
+TRYP by Wyndham Istanbul Basın Ekspres,4.0/5,114 reviews,"Mahmutbey Mahallesi, Ordu Cd. No:13, Bagcilar, Istanbul",4.3/5,4.0/5,4.2/5,4.2/5,80+,4/5 guest room rating,355 sq ft,16.0,$48
+Eser Premium Hotel and Spa,3.9/5,323 reviews,"Fatih Mahallesi, Gazi Mustafa Kemal Cd., No 11, Buyukcekmece, Istanbul, Istanbul",4.0/5,3.9/5,4.1/5,3.9/5,96+,4.3/5 guest room rating,322 sq ft,17.0,$59
+Galata Times Boutique Hotel,4.5/5,107 reviews,"Evliya Celebi District, Mesrutiyet Street, No. 106, Istanbul, Istanbul, Istanbul",4.7/5,4.5/5,4.3/5,4.5/5,42+,4.2/5 guest room rating,322 sq ft,9.0,$66
+Limak Lara De Luxe Hotel - All Inclusive,4.4/5,437 reviews,"Kemeragzi Mevkii P.K. 34 Lara, Antalya, Antalya",4.5/5,4.4/5,4.4/5,4.3/5,99+,4.6/5 guest room rating,344 sq ft,22.0,$250
+Euro Stars Hotel Old City,4.2/5,330 reviews,"Ankara Caddesi Hocapasa Hamami, Sokak No:1, Istanbul, Istanbul",4.3/5,4.3/5,4.3/5,4.1/5,47+,3.9/5 guest room rating,344 sq ft,12.0,$50
+Lara Barut Collection - All Inclusive,4.6/5,355 reviews,"Güzeloba Mah., Yasar Sobutay Mah. No:30, Lara, Antalya, Antalya",4.6/5,4.6/5,4.6/5,4.6/5,139+,4.6/5 guest room rating,279 sq ft,20.0,$327
+Sheraton Istanbul Atakoy Hotel,4.1/5,472 reviews,"Rauf Orbay Caddesi Sahilyolu, No:10, Bakirkoy, Istanbul",4.3/5,4.1/5,4.0/5,4.2/5,171+,4.4/5 guest room rating,323 sq ft,20.0,$100
+Corinne Art & Boutique Hotel,4.3/5,527 reviews,"Turnacibasi Cad. Ayhan Isik Sok. No: 41, Istanbul, Istanbul, Istanbul",4.3/5,4.2/5,3.9/5,4.3/5,48+,3.7/5 guest room rating,322 sq ft,9.0,$55
+Istanbul Golden City Hotel,4.2/5,999 reviews,"Tersane Cad. No. 111, Karaköy, Istanbul, Istanbul, Istanbul",4.4/5,4.4/5,4.0/5,4.0/5,43+,4.2/5 guest room rating,194 sq ft,10.0,$47
+Xanadu Resort Hotel,4.7/5,127 reviews,"Belek Turizm Merkezi Acisu Mevkii PK 49, Belek, Antalya",4.7/5,4.6/5,4.7/5,4.5/5,225+,4.7/5 guest room rating,280 sq ft,19.0,$232
+Hotel Next2,4.2/5,257 reviews,"Kuloglu Mah. Turnacibasi Caddesi, Kocaaga Sok. No.10, Istanbul Taksim, Istanbul, Istanbul",4.2/5,4.5/5,3.7/5,4.0/5,74+,4.5/5 guest room rating,376 sq ft,5.0,$28
+Wyndham Grand Istanbul Levent,4.6/5,696 reviews,"Buyukdere Street No 177 - 183 Sisli, Istanbul, Istanbul",4.6/5,4.5/5,4.5/5,4.6/5,110+,4.6/5 guest room rating,290 sq ft,18.0,$139
+"Gezi Hotel Bosphorus, Istanbul, a Member of Design Hotels",4.4/5,707 reviews,"Mete Cd 34 Taksim, Istanbul, Istanbul",4.6/5,4.5/5,4.3/5,4.5/5,84+,,280 sq ft,14.0,$109
+Alesta Yacht Hotel,4.4/5,182 reviews,"Karagozler Mah Fevzi Cakmak Cad, No 17 Yat Limani Karsisi, Mugla, Mugla",4.7/5,4.6/5,4.2/5,4.5/5,86+,4.7/5 guest room rating,215 sq ft,11.0,$103
+Beethoven Premium Hotel,4.4/5,30 reviews,"Aga Yks., Istanbul, Istanbul",4.3/5,4.4/5,3.6/5,4.5/5,39+,,193 sq ft,10.0,$102
+Hotel Saba Sultan,4.4/5,697 reviews,"Akbiyik Cad, Cetinkaya Sokak No: 4, Istanbul, Istanbul",4.6/5,4.7/5,4.1/5,4.3/5,31+,4.6/5 guest room rating,183 sq ft,8.0,$38
+Hotel Mina – Special Class,4.2/5,304 reviews,"Piyerloti Cad. Dostlukyurdu Sok No:6, Istanbul, Istanbul, Istanbul",4.4/5,4.3/5,4.0/5,4.2/5,66+,4.6/5 guest room rating,183 sq ft,6.0,$60
+Hotel Mina – Special Class,4.2/5,304 reviews,"Piyerloti Cad. Dostlukyurdu Sok No:6, Istanbul, Istanbul, Istanbul",4.4/5,4.3/5,4.0/5,4.2/5,66+,4.6/5 guest room rating,183 sq ft,6.0,$60
+Movenpick Hotel Izmir,4.2/5,885 reviews,"Cumhuriyet Blv 138, Izmir, Izmir",4.3/5,4.3/5,4.1/5,4.2/5,60+,4.2/5 guest room rating,237 sq ft,15.0,$68
+Degirmenburnu Residence,4.5/5,216 reviews,"Osman Nuri Bilgin Caddesi No:48, Mugla",4.2/5,4.3/5,4.4/5,4.6/5,62+,4.9/5 guest room rating,431 sq ft,7.0,$48
+Berce Hotel,4.2/5,172 reviews,"Küçükayasofya Mah. Mustafapasa Sok No:6, Istanbul, Istanbul",4.3/5,4.5/5,3.6/5,4.1/5,71+,4.1/5 guest room rating,215 sq ft,6.0,$23
+Divan Istanbul City,3.8/5,864 reviews,"Buyukdere Cad No 84, Istanbul, Istanbul",4.0/5,3.9/5,3.9/5,3.8/5,38+,4.2/5 guest room rating,269 sq ft,13.0,$59
+Elite World Business Hotel,4.2/5,999 reviews,"Gültepe Mah Sehit Zafer Kiziltas Sk No 1, Küçükçekmece, E5 uzeri, Istanbul, Istanbul",4.3/5,4.2/5,4.3/5,4.3/5,46+,4.4/5 guest room rating,388 sq ft,16.0,$57
+"The Ritz-Carlton, Istanbul",4.6/5,342 reviews,"Suzer Plaza, Askerocagi Caddesi, No:6, Elmadag/Sisli, Istanbul",4.8/5,4.7/5,4.7/5,4.6/5,98+,5/5 guest room rating,409 sq ft,15.0,$206
+DoubleTree by Hilton Mugla Marina Vista,4.4/5,323 reviews,"Neyzen Tevfik Cad No 168, Mugla, Mugla",4.5/5,4.4/5,4.3/5,4.4/5,68+,4/5 guest room rating,237 sq ft,14.0,$89
+Su Hotel,4.5/5,110 reviews,"Turgutreis Cad. 1201, Mugla, Mugla",4.5/5,4.6/5,4.0/5,4.4/5,143+,4.3/5 guest room rating,183 sq ft,10.0,$64
+Hampton by Hilton Istanbul Zeytinburnu,4.4/5,358 reviews,"Prof. Muammer Aksoy Caddesi No:3, Zeytinburnu, Istanbul",4.6/5,4.4/5,4.1/5,4.4/5,48+,4.8/5 guest room rating,237 sq ft,12.0,$55
+DoubleTree by Hilton Istanbul Esentepe,4.4/5,111 reviews,"Büyükdere Cd. No:117, Gayrettepe-Sisli, Istanbul, Istanbul",4.4/5,4.4/5,4.1/5,4.3/5,57+,4.6/5 guest room rating,280 sq ft,12.0,$68
+Louis Appartements Galata,4.8/5,216 reviews,"Sahkulu Mah Ilk Belediye Cad No10 Sishan, Istanbul, Istanbul",4.9/5,4.9/5,4.7/5,4.9/5,48+,5/5 guest room rating,484 sq ft,10.0,$64
+Courtyard by Marriott Istanbul West,4.1/5,998 reviews,"Basin Ekspress Yolu, Fatih Cad., Dereboyu Sok. No: 2, Halkali, Istanbul, Istanbul",4.3/5,4.1/5,4.0/5,4.1/5,51+,4.5/5 guest room rating,301 sq ft,16.0,$50
+Dedeminn Marina Hotel,4.4/5,37 reviews,"Cumhuriyet Mah. Çarsiyol Cad. No: 63, Gocek, Mugla, Mugla",4.5/5,4.4/5,4.8/5,4.2/5,142+,5/5 guest room rating,376 sq ft,8.0,$132
+Ferman Konak Hotel,4.4/5,163 reviews,"Cankurtaran M. Cankurtaran cad. No 72, Istanbul Fatih, Istanbul",4.6/5,4.6/5,4.3/5,4.3/5,51+,4.1/5 guest room rating,161 sq ft,8.0,$31
+Galley Hotel,4.1/5,70 reviews,"Sehsuvar Bey Mah. Cömertler Sok. No:25, Istanbul",4.2/5,4.1/5,3.9/5,4.1/5,102+,,129 sq ft,13.0,$28
+Park Inn by Radisson Istanbul Atasehir,4.6/5,408 reviews,"Serifali Mah. Kible Sokak No:25, Istanbul",4.6/5,4.5/5,4.2/5,4.5/5,45+,4.8/5 guest room rating,226 sq ft,13.0,$51
+Smart Hotel Izmir,4.4/5,449 reviews,"FevziPaşa Bulvarı No. 153, Konak, Çankaya, Izmir",4.5/5,4.5/5,4.2/5,4.4/5,118+,4.5/5 guest room rating,269 sq ft,12.0,$45
+Hotel Sultania- Boutique Class,4.7/5,795 reviews,"Ebusuud Caddesi Mehmet Murat Sok. No 4, Sirkeci, Istanbul, Istanbul",4.8/5,4.8/5,4.8/5,4.7/5,73+,4.8/5 guest room rating,248 sq ft,12.0,$133
+Feri Suites,4.1/5,21 reviews,"Ortaköy Salhanesi Sk., No 8 Besiktas, Istanbul, Istanbul",3.9/5,4.5/5,4.2/5,4.2/5,73+,5/5 guest room rating,775 sq ft,9.0,$85
+Hilton Istanbul Bomonti Hotel & Conference Center,4.5/5,"1,162 reviews","Silahsor Cad. No: 42 Bomonti Sisli, Istanbul, Istanbul",4.6/5,4.4/5,4.5/5,4.5/5,157+,4.8/5 guest room rating,377 sq ft,18.0,$110
+Urban Suites Istanbul,4.4/5,119 reviews,"Günesli Sok. No:37 Cihangir, Istanbul, Istanbul, Istanbul",4.6/5,4.5/5,3.8/5,4.4/5,54+,4.2/5 guest room rating,183 sq ft,6.0,$62
+SuB Karaköy - Special Class,4.3/5,287 reviews,"Necatibey Cad. 91, Istanbul, Istanbul",4.4/5,4.6/5,3.8/5,4.2/5,66+,4.3/5 guest room rating,215 sq ft,7.0,$83
+Doubletree by Hilton Istanbul Moda,4.4/5,995 reviews,"Caferaga Mahallesi Albay Faik Sozdener, Cad No:31 Kadikoy, Istanbul, Istanbul",4.5/5,4.4/5,4.2/5,4.4/5,127+,,344 sq ft,,$106
+Airport Residence Kurtkoy,3.6/5,221 reviews,"Yenişehir Mahallesi Millet Caddesi, Mustafa Akyol Sokak No:3, Istanbul",3.6/5,3.6/5,3.2/5,3.4/5,27+,5/5 guest room rating,322 sq ft,9.0,$35
+Elite World Asia Hotel,4.2/5,346 reviews,"Inonu Cad. No 22, Kucukyali Maltepe, Istanbul",4.4/5,4.1/5,4.1/5,4.3/5,30+,4.7/5 guest room rating,322 sq ft,15.0,$65
+Grand Park Lara - All Inclusive,4.0/5,173 reviews,"Kemeragzi Tesisler Cad. No: 339, Lara-Aksu, Antalya, Antalya",4.2/5,4.0/5,4.0/5,4.0/5,71+,4.1/5 guest room rating,237 sq ft,20.0,$116
+Grand Hyatt Istanbul,4.5/5,956 reviews,"Harbiye Mah. Taskisla Caddesi No.1, Sisli, Istanbul",4.6/5,4.5/5,4.3/5,4.4/5,59+,4.3/5 guest room rating,409 sq ft,17.0,$149
+DoubleTree By Hilton Antalya City Centre,4.4/5,138 reviews,"Adnan Menderes Bulvari No 61 Etiler, Antalya",4.7/5,4.4/5,4.7/5,4.7/5,103+,4.8/5 guest room rating,301 sq ft,14.0,$48
+Fraser Place Antasya Istanbul,4.4/5,71 reviews,"Saray Mah Kucuksu Cad No 64A, Umraniye, Istanbul",4.4/5,4.5/5,4.4/5,4.5/5,40+,,484 sq ft,20.0,$65
+Mandarin Oriental Mugla,4.7/5,65 reviews,"Cennet Koyu Comca Mevkii, 314., Sokak No. 10, Golturkbuku, Mugla, Mugla",4.8/5,4.7/5,4.9/5,4.9/5,123+,5/5 guest room rating,775 sq ft,18.0,$464
+Istanbul Palace Hotel - Special Class,4.5/5,162 reviews,"Istanbul mah. Torun Sokak, No:19, Istanbul, Istanbul",4.4/5,4.6/5,4.0/5,4.3/5,63+,4.7/5 guest room rating,215 sq ft,10.0,$100
+Hilton Istanbul Maslak,4.5/5,193 reviews,"Buyukdere Cd. No: 233, Istanbul",4.6/5,4.5/5,4.5/5,4.6/5,113+,4.9/5 guest room rating,377 sq ft,16.0,$115
+CVK Taksim Hotel Istanbul,3.7/5,108 reviews,"Siraselviler cad. no:11, Taksim, Istanbul, Istanbul",4.0/5,3.8/5,3.6/5,3.8/5,56+,3.8/5 guest room rating,204 sq ft,15.0,$73
+Serenity Suites Istanbul Airport,3.8/5,151 reviews,"Halkalı merkez mah. Zeynebiye, cad.No:1/1-76 Küçükçekmece, Istanbul",3.8/5,3.9/5,4.0/5,3.9/5,44+,3.6/5 guest room rating,861 sq ft,13.0,$56
+Radisson Blu Hotel Istanbul Asia,4.3/5,786 reviews,"Ataturk Mahallesi Yakut Caddesi, Atasehir, Istanbul, Istanbul",4.5/5,4.4/5,4.3/5,4.4/5,160+,4.6/5 guest room rating,280 sq ft,19.0,$82
+Titanic Comfort Sisli,4.2/5,212 reviews,"Operator Raifbey Sok.No. 40, Sisli, Istanbul, Istanbul",4.3/5,4.1/5,3.7/5,4.1/5,37+,,215 sq ft,9.0,$47
+Loft 1502,4.4/5,114 reviews,"Sirinyali Mah., 1502 Sokak No 9, Antalya",4.4/5,4.4/5,4.4/5,4.5/5,27+,4.3/5 guest room rating,161 sq ft,9.0,$37
+Hotel Suadiye,4.0/5,396 reviews,"Bagdat Caddesi, Plaj Yolu, No:25, Suadiye, Istanbul, Istanbul",4.1/5,4.1/5,3.5/5,3.9/5,67+,3.9/5 guest room rating,183 sq ft,13.0,$61
+Hotel 86 by Katipoglu,4.4/5,89 reviews,"Fevzipasa Bulv. No 42 2, Cankaya, Izmir",4.6/5,4.5/5,4.2/5,4.5/5,28+,,215 sq ft,,$48
+Holiday Inn Istanbul - Kadikoy,4.3/5,501 reviews,"Egitim Mahallesi Poyraz Sokak, Omer Hasanpasa, Kadikoy, Istanbul",4.5/5,4.4/5,4.4/5,4.4/5,81+,4.5/5 guest room rating,215 sq ft,15.0,$52
+Triana Hotel,4.1/5,111 reviews,"Genclik Mah 1330 Sok No1, Antalya, Antalya",4.1/5,4.2/5,4.1/5,3.9/5,32+,4.3/5 guest room rating,215 sq ft,10.0,$25
+Ciragan Palace Kempinski,4.6/5,299 reviews,"Ciragan Caddesi 32, Istanbul",4.7/5,4.6/5,4.7/5,4.5/5,148+,3.8/5 guest room rating,356 sq ft,15.0,$375
+Hilton Garden Inn Istanbul Beylikduzu,4.3/5,252 reviews,"Barbaros Hayrettin Pasa Mah. 1999 Sk. 9, Esenyurt, Istanbul",4.4/5,4.3/5,4.3/5,4.3/5,49+,3.9/5 guest room rating,258 sq ft,15.0,$53
+Novotel Istanbul Bosphorus,4.3/5,707 reviews,"Kemankes Caddesi No: 57-59, Karaköy - Istanbul, Istanbul",4.4/5,4.3/5,4.4/5,4.3/5,83+,4.3/5 guest room rating,258 sq ft,17.0,$97
+The Marmara Antalya,4.0/5,720 reviews,"Eski Lara Yolu No. 136 Sirinyali, Antalya, Antalya",4.2/5,4.1/5,4.0/5,3.9/5,100+,4.3/5 guest room rating,452 sq ft,15.0,$76
+Swissotel Resort Mugla Beach,4.5/5,81 reviews,"Turgutreis Mahallesi, Gazi Mustafa Kemal Bulvarı No:42, Mugla, Mugla",4.7/5,4.6/5,4.6/5,4.6/5,91+,4.6/5 guest room rating,431 sq ft,13.0,$176
+Venue Hotel Old City Istanbul,4.4/5,96 reviews,"Hobyar Mah Mimar Vedat Sokak No. 16, Ozhan Apt., Sirkeci, Istanbul",4.4/5,4.4/5,4.3/5,4.2/5,92+,5/5 guest room rating,161 sq ft,6.0,$37
+Luce Di Pera,4.1/5,619 reviews,"Balik Sokak No : 13 Taksim, Istanbul, Istanbul",4.2/5,4.3/5,4.1/5,4.0/5,30+,3.9/5 guest room rating,322 sq ft,8.0,$30
+Route Hotel Kaleici,4.8/5,81 reviews,"Kilincarslan Mah. Hidirlik Sokak No.23/1, Kaleici, Antalya, Antalya",4.8/5,4.9/5,4.6/5,4.8/5,33+,4.3/5 guest room rating,161 sq ft,6.0,$46
+Faros Hotel Old City,4.1/5,534 reviews,"Divan Yolu Caddesi No:68, Istanbul/Fatih, Istanbul, Istanbul",4.2/5,4.3/5,3.5/5,3.9/5,82+,4.2/5 guest room rating,269 sq ft,10.0,$73
+Boss Hotel Istanbul,4.7/5,119 reviews,"Sururi Quarter, Turkocagi Street, No: 15, Cagaloglu, Fatih, Istanbul, Istanbul",4.8/5,4.7/5,4.7/5,4.7/5,95+,4.3/5 guest room rating,172 sq ft,7.0,$35
+The Marmara Taksim,4.2/5,997 reviews,"Taksim Square, Istanbul, Istanbul",4.3/5,4.2/5,4.1/5,4.2/5,83+,4.1/5 guest room rating,215 sq ft,14.0,$187
+Mia Berre Hotels,4.0/5,248 reviews,"Dikilitas Mh. Ayazmadere Cd. No 6, Fulya - Besiktas, Istanbul, Istanbul",4.2/5,4.1/5,4.1/5,4.1/5,38+,4/5 guest room rating,215 sq ft,11.0,$45
+Bon Design & Suite,3.8/5,95 reviews,"Alaykosku Mah. Sengul Hamam Sok. No: 5, Istanbul, Istanbul, Istanbul",3.8/5,4.2/5,3.6/5,3.6/5,92+,3.8/5 guest room rating,194 sq ft,11.0,$30
+Fairmont Quasar Istanbul,4.6/5,184 reviews,"Buyukdere Caddesi, 76, Mecidiyekoy, Istanbul",4.7/5,4.6/5,4.6/5,4.7/5,73+,4.5/5 guest room rating,431 sq ft,18.0,$144
+Inntel Hotel Istanbul,3.9/5,117 reviews,"Kocatepe Mah Taksim Dolapdere Cad No:49, Istanbul, Istanbul",4.0/5,4.1/5,3.8/5,3.8/5,58+,,194 sq ft,11.0,$46
+Crowne Plaza Hotel Antalya,4.0/5,614 reviews,"Akdeniz Bulvari Gursu Mah. 306, Sk. Konyaalti, Konyaalti, Antalya",4.0/5,4.1/5,3.9/5,4.0/5,176+,4.3/5 guest room rating,323 sq ft,17.0,$57
+Sky Kamer Hotel,4.2/5,369 reviews,"Kisla Mh. 53 Sk. No:4/a, Antalya, Antalya",4.2/5,4.2/5,4.0/5,4.2/5,150+,3.7/5 guest room rating,161 sq ft,12.0,$43
+Bizim Otel,3.9/5,206 reviews,"Divani Ali Sokak No 2, Beyazit, Fatih, Istanbul, Istanbul",4.3/5,4.2/5,4.0/5,3.9/5,50+,4.1/5 guest room rating,150 sq ft,7.0,$26
+My Palace Rooms,4.1/5,109 reviews,"Osmanli Blv. 13, Istanbul, Istanbul",4.3/5,4.3/5,4.4/5,4.1/5,80+,3.9/5 guest room rating,538 sq ft,16.0,$34
+Puding Marina Residence - Special Class,4.4/5,590 reviews,"Mermerli Sokak No 15, Kaleiçi, Antalya, Antalya",4.4/5,4.3/5,4.3/5,4.3/5,49+,3.9/5 guest room rating,151 sq ft,11.0,$58
+Ferman Pera,3.9/5,37 reviews,"Katip Mustafa Celebi Mh, Tel Sk No4 Istanbul, Istanbul",4.2/5,4.3/5,3.9/5,3.7/5,97+,3.8/5 guest room rating,172 sq ft,7.0,$31
+Divan Istanbul,4.5/5,660 reviews,"Asker Ocagi Cad. No:1 Taksim, Şişli, Istanbul",4.6/5,4.4/5,4.4/5,4.5/5,49+,4.5/5 guest room rating,387 sq ft,15.0,$132
+CNR Otelcilik,2.8/5,69 reviews,"Nenehatun Mahallesi, Fatih Caddesi 269, Arnavutkoy, Istanbul",3.2/5,2.8/5,2.8/5,3.0/5,40+,,646 sq ft,8.0,$23
+Neorion Hotel,4.7/5,232 reviews,"Orhaniye Street, No: 14, Sirkeci, Istanbul",4.8/5,4.8/5,4.6/5,4.7/5,45+,5/5 guest room rating,248 sq ft,13.0,$120
+Doubletree By Hilton Istanbul Old Town,4.3/5,997 reviews,"Ordu Cad. No 31, Beyazit, Istanbul, Istanbul",4.4/5,4.4/5,4.2/5,4.3/5,47+,4.7/5 guest room rating,269 sq ft,15.0,$100
+Hilton Garden Inn Izmir Bayrakli,4.2/5,518 reviews,"1597 1 Sokak No 6 Izban Salhane Duragi, karsisi, Bayrakli, Izmir, Izmir",4.5/5,4.3/5,4.2/5,4.3/5,67+,4/5 guest room rating,269 sq ft,12.0,$51
+Pablo Di Pera,3.9/5,170 reviews,"Büyük Bayram Sk. 12, Istanbul, Istanbul",4.2/5,4.2/5,4.1/5,4.0/5,29+,4.2/5 guest room rating,269 sq ft,4.0,$21
+Atici Hotel,4.4/5,78 reviews,"Barbaros Mahallesi Kocatepe Sokak no:19, Kaleiçi, Antalya, Antalya",4.5/5,4.7/5,4.3/5,4.3/5,33+,3.7/5 guest room rating,129 sq ft,6.0,$25
+Febor İstanbul Bomonti Hotel & Spa,4.2/5,289 reviews,"Merkez Mahallesi Huzur Sokak No 23, Istanbul, Istanbul",4.4/5,4.2/5,4.3/5,4.3/5,28+,4.3/5 guest room rating,193 sq ft,10.0,$41
+Radisson Residences VadIstanbul,4.2/5,42 reviews,"Ayazaga Mah, Kemerburgaz St 6A No.7V/101, Istanbul, Istanbul",4.2/5,3.7/5,4.6/5,4.3/5,44+,4.5/5 guest room rating,592 sq ft,17.0,$134
+Nevv Bosphorus Hotel & Suites,4.7/5,33 reviews,"No7 Mecidiye Muallim Naci Cd Besiktas, Istanbul",4.7/5,4.7/5,4.4/5,4.5/5,49+,4.5/5 guest room rating,334 sq ft,7.0,$87
+Tuvana Hotel - Special Class,4.5/5,410 reviews,"Tuzcular Karanlik Sok. No:18, Kaleici, Antalya, Antalya",4.5/5,4.6/5,3.8/5,4.4/5,87+,4.4/5 guest room rating,334 sq ft,10.0,$115
+Great Fortune Hotel & SPA,3.6/5,20 reviews,"Bab-i Ali Cad. Basmuhasip Sok. No 11-13, Istanbul Fatih, Istanbul, Istanbul",3.9/5,4.0/5,4.7/5,3.8/5,80+,,140 sq ft,13.0,$63
+Ramada Resort by Wyndham Mugla,4.4/5,107 reviews,"Kavakli Sarnic Cad., 1531 Sok No: 4, Bitez, Mugla, Mugla",4.5/5,4.4/5,4.1/5,4.4/5,152+,3.7/5 guest room rating,323 sq ft,18.0,$136
+The Mugla EDITION,4.7/5,46 reviews,"Dirmil Mahallesi, Balyek Cd. No 5A, Mugla, Mugla",4.8/5,4.6/5,4.4/5,4.8/5,57+,4.7/5 guest room rating,452 sq ft,17.0,$291
+Nidya Hotel Esenyurt,4.3/5,245 reviews,"1655 Sk. No: 3, Esenyurt, Opposite Akbati Mall, Istanbul",4.3/5,4.2/5,4.0/5,4.3/5,29+,4.2/5 guest room rating,431 sq ft,10.0,$48
+Cevahir Hotel Istanbul Asia,4.0/5,664 reviews,"Yali Mahallesi, Turgut Ozal Bulvari, No.261, Maltepe, Istanbul, Istanbul",4.2/5,4.0/5,4.2/5,4.1/5,86+,4.7/5 guest room rating,280 sq ft,14.0,$52
+Crowne Plaza Istanbul Florya,4.2/5,725 reviews,"Yesilkoy Halkali Caddesi No: 95, Senlikkoy Mahellesi Florya, Istanbul",4.4/5,4.2/5,4.4/5,4.4/5,137+,4.2/5 guest room rating,312 sq ft,21.0,$111
+Metur Hotel,4.1/5,138 reviews,"Genclik Mah 1326 Sok No 47, Antalya, Antalya",4.2/5,4.3/5,4.0/5,4.0/5,61+,4.7/5 guest room rating,215 sq ft,9.0,$35
+The Stay Bosphorus,4.6/5,85 reviews,"Salhane Sokak No.1, Ortaköy, Istanbul, Istanbul",4.7/5,4.8/5,4.5/5,4.6/5,56+,4.3/5 guest room rating,215 sq ft,9.0,$172
+BMK Suites & Apartments,4.4/5,149 reviews,"Fener Mahallesi 1939 Sokak, Antalya",4.4/5,4.3/5,4.1/5,4.4/5,25+,5/5 guest room rating,376 sq ft,8.0,$28
+The Bosphorus Aparts,4.1/5,81 reviews,"Aziz Mahmud Hudai Mah Halk Cad No:44, Uskudar, Istanbul, Istanbul",4.3/5,4.3/5,4.0/5,4.1/5,16+,5/5 guest room rating,323 sq ft,7.0,$49
+"Radisson Blu Bosphorus Hotel, Istanbul",3.9/5,525 reviews,"Ciragan Cad 46, Ortakoy, Istanbul, Istanbul",4.1/5,4.0/5,3.5/5,3.9/5,93+,4/5 guest room rating,301 sq ft,15.0,$132
+Hotel Yasmak Sultan,4.4/5,638 reviews,"Ebusuud Cad. 12, Istanbul",4.5/5,4.5/5,4.4/5,4.3/5,46+,3.8/5 guest room rating,194 sq ft,14.0,$110
+Yilsam Istanbul Hotel,4.4/5,77 reviews,"Dizdariye Çesmesi Sk. 21, Istanbul, Istanbul",4.7/5,4.6/5,4.3/5,4.5/5,78+,4.4/5 guest room rating,215 sq ft,10.0,$66
+Senator Hotel Taksim,4.2/5,318 reviews,"Abdulhak Hamit Caddesi No 9, Istanbul, Istanbul",4.3/5,4.2/5,4.0/5,4.1/5,38+,,236 sq ft,,$63
+Doubletree by Hilton Istanbul Umraniye,4.4/5,228 reviews,"Yamanevler Mah. Haldun Alagas Cad. No:2, Umraniye, Istanbul",4.6/5,4.4/5,4.4/5,4.5/5,76+,5/5 guest room rating,301 sq ft,15.0,$73
+Regnum Escana Boutique Hotel,4.7/5,61 reviews,"Yokusbasi Mah. Suluhasn Cad. Sonu No:33, Mugla, Mugla",4.7/5,4.7/5,4.5/5,4.8/5,38+,5/5 guest room rating,484 sq ft,12.0,$125
+DoubleTree by Hilton Hotel Istanbul - Sirkeci,4.3/5,280 reviews,"Nobethane Cad. Darüssade Sok, No:5 Istanbul, Istanbul, Istanbul",4.5/5,4.3/5,4.3/5,4.3/5,121+,5/5 guest room rating,248 sq ft,14.0,$90
+Park Hyatt Istanbul Macka Palas - Boutique Class,4.6/5,188 reviews,"Tesvikiye, Bronz Sokak No. 4 Sisli, Istanbul, Istanbul",4.8/5,4.6/5,4.3/5,4.6/5,89+,5/5 guest room rating,484 sq ft,16.0,$246
+Bof Hotels Ceo Suites Atasehir,4.1/5,165 reviews,"Tatlisu Mah Tezcan Cad Halic Sok No: 10, Serifali Atasehir, Umraniye, Istanbul",4.2/5,4.0/5,4.0/5,4.2/5,117+,4.6/5 guest room rating,484 sq ft,15.0,$54
+Novotel Istanbul Zeytinburnu,4.2/5,137 reviews,"Kazlicesme Mah. Kennedy Caddesi, No 56 Zeytinburnu, Istanbul, Istanbul",4.1/5,4.3/5,4.3/5,4.1/5,70+,4.7/5 guest room rating,269 sq ft,15.0,$67
+"Radisson Blu Hotel, VadIstanbul",4.4/5,80 reviews,"Ayazaga Mahallesi, Cendere Cd. Sanyer, No.109/A, Istanbul, Istanbul",4.5/5,4.4/5,4.7/5,4.5/5,113+,5/5 guest room rating,323 sq ft,17.0,$158
+Dalaman Airport Lykia Resort & Spa Hotel,3.7/5,116 reviews,"Havaalani Yolu 3. km Kenan Evren, Bulvari, Susam Sk. 21, Dalaman, Mugla",3.9/5,3.8/5,3.8/5,3.6/5,62+,4/5 guest room rating,269 sq ft,18.0,$41
+DoubleTree by Hilton Istanbul Topkapi,3.9/5,662 reviews,"Orta Mahalle, Anit Sokak: No: 1, Bayrampasa, Istanbul, Istanbul",4.1/5,3.9/5,3.9/5,4.1/5,61+,3.8/5 guest room rating,388 sq ft,16.0,$65
+HHK Hotel,4.3/5,364 reviews,"Demirtas Mah. Hayriye Hanim Sok. No:19, Suleymaniye, Sirkeci, Istanbul, Istanbul",4.5/5,4.6/5,3.7/5,4.2/5,83+,4/5 guest room rating,129 sq ft,11.0,$32
+Crowne Plaza Hotel Istanbul - Asia,4.5/5,392 reviews,"Dedepasa Caddesi No:15 Viaport, Kurtkoy-Pendik, Istanbul, Istanbul",4.6/5,4.5/5,4.3/5,4.5/5,81+,4.7/5 guest room rating,377 sq ft,16.0,$129
+Upsuites Hotel,4.3/5,69 reviews,"Kore Sehitleri CD No. 18, Istanbul, Istanbul",4.3/5,4.3/5,3.5/5,4.3/5,40+,4.3/5 guest room rating,215 sq ft,10.0,$52
+Dalaman Airport Lykia Resort & Spa Hotel,3.7/5,116 reviews,"Havaalani Yolu 3. km Kenan Evren, Bulvari, Susam Sk. 21, Dalaman, Mugla",3.9/5,3.8/5,3.8/5,3.6/5,62+,4/5 guest room rating,269 sq ft,18.0,$41
+DoubleTree by Hilton Istanbul Topkapi,3.9/5,662 reviews,"Orta Mahalle, Anit Sokak: No: 1, Bayrampasa, Istanbul, Istanbul",4.1/5,3.9/5,3.9/5,4.1/5,61+,3.8/5 guest room rating,388 sq ft,16.0,$65
+HHK Hotel,4.3/5,364 reviews,"Demirtas Mah. Hayriye Hanim Sok. No:19, Suleymaniye, Sirkeci, Istanbul, Istanbul",4.5/5,4.6/5,3.7/5,4.2/5,83+,4/5 guest room rating,129 sq ft,11.0,$32
+Crowne Plaza Hotel Istanbul - Asia,4.5/5,392 reviews,"Dedepasa Caddesi No:15 Viaport, Kurtkoy-Pendik, Istanbul, Istanbul",4.6/5,4.5/5,4.3/5,4.5/5,81+,4.7/5 guest room rating,377 sq ft,16.0,$129
+Upsuites Hotel,4.3/5,69 reviews,"Kore Sehitleri CD No. 18, Istanbul, Istanbul",4.3/5,4.3/5,3.5/5,4.3/5,40+,4.3/5 guest room rating,215 sq ft,10.0,$52
+Ramada Plaza by Wyndham Istanbul Tekstilkent,3.9/5,318 reviews,"Orucreis Mh Tekstilciler Cad 3, Esenler, Istanbul, Istanbul",4.1/5,3.9/5,4.0/5,4.1/5,59+,4.6/5 guest room rating,323 sq ft,16.0,$46
+Somerset Maslak Istanbul,4.3/5,69 reviews,"Maslak 1453, Maslak District, Sogut Street No:20AA C15, Istanbul",4.2/5,4.0/5,3.2/5,4.5/5,44+,5/5 guest room rating,398 sq ft,14.0,$82
+The Central Palace Taksim,4.1/5,211 reviews,"Lamartin Caddesi No 18, Istanbul, Istanbul",4.2/5,4.2/5,3.9/5,4.1/5,41+,4.6/5 guest room rating,323 sq ft,11.0,$67
+Eskiceshme - Adults Only,4.3/5,52 reviews,"Eskicesme Mh Poyraz Sk. No:10, Mugla, Mugla",4.5/5,4.4/5,4.3/5,4.4/5,42+,5/5 guest room rating,226 sq ft,9.0,$87
+Ramada Encore by Wyndham Izmir,3.7/5,390 reviews,"Mithatpaşa Street No:44 Balçova, Izmir, Izmir",3.9/5,3.8/5,3.5/5,3.7/5,72+,3.6/5 guest room rating,248 sq ft,13.0,$44
+Ramada Hotel & Suites by Wyndham Kusadasi,4.1/5,36 reviews,"Turkmen Mahallesi Gazibegendi Bulvari, No 48/A, Aydin",4.0/5,3.9/5,4.6/5,4.1/5,50+,,366 sq ft,13.0,$58
+Bricks Hotel Istanbul,4.3/5,238 reviews,"Zafer Mah. Dumlupınar Cad. No. 42, Istanbul",4.5/5,4.4/5,4.4/5,4.4/5,56+,4.7/5 guest room rating,301 sq ft,14.0,$65
+Titanic City Taksim,4.2/5,429 reviews,"Lamartin Caddesi No:47, Taksim, Istanbul, Istanbul",4.4/5,4.2/5,4.3/5,4.3/5,46+,4.2/5 guest room rating,258 sq ft,13.0,$76
+Aurasia Beach Hotel,4.2/5,42 reviews,"Siteler Mah. 238 Sok No 9, Marmaris, Mugla",4.5/5,4.1/5,3.8/5,4.3/5,24+,4.4/5 guest room rating,215 sq ft,10.0,$53
+Barcelo Istanbul,4.5/5,115 reviews,"Kocatepe Mah. Abdulhak Hamit Cad No 25/1, Istanbul, Istanbul",4.6/5,4.4/5,4.5/5,4.5/5,51+,4.7/5 guest room rating,323 sq ft,15.0,$112
+B Business Hotel & Spa,4.5/5,135 reviews,"Fabrikalar Mah., Namik Kemal Blv. No: 63, Antalya",4.6/5,4.5/5,4.4/5,4.7/5,79+,4.5/5 guest room rating,258 sq ft,12.0,$52
+Antmare Hotel,4.4/5,113 reviews,"Alacati Mah. 18000, Sok. No. 28, Cesme, Izmir",4.5/5,4.4/5,4.6/5,4.4/5,55+,5/5 guest room rating,247 sq ft,13.0,$56
+Lalinn Hotel,4.1/5,827 reviews,"Oyuncu Cikmazi Oyuncu Sok. No 4, Ahirkapi Istanbul, Istanbul, Istanbul",4.2/5,4.3/5,4.0/5,4.1/5,76+,4.1/5 guest room rating,247 sq ft,7.0,$16
+CZN Burak Hotel,,25 reviews,"Katip Mustafa Celebi Mah. Meselik Sok., No:10, Istanbul, Istanbul",4.2/5,4.3/5,4.3/5,4.0/5,76+,5/5 guest room rating,484 sq ft,7.0,$104
+Susesi Luxury Resort - All Inclusive,4.4/5,226 reviews,"Iskele Mevkii, Belek, Antalya",4.5/5,4.5/5,4.2/5,4.4/5,161+,4.7/5 guest room rating,430 sq ft,22.0,$268
+Dosso Dossi Hotels & Spa Downtown,4.3/5,548 reviews,"Vatan Caddesi No:46-48 Fatih, Istanbul, Istanbul",4.3/5,4.3/5,4.0/5,4.3/5,75+,4.1/5 guest room rating,269 sq ft,16.0,$76
+Ephesus Centrum,4.5/5,121 reviews,"1016. Sk. 19, Selcuk, Izmir",4.5/5,4.6/5,4.3/5,4.3/5,92+,5/5 guest room rating,258 sq ft,8.0,$18
+LABRANDA Alantur Resort - All Inclusive,4.1/5,116 reviews,"Kestel Mah. Sahil Cad. 2, Kestel, Alanya, Antalya",4.3/5,4.2/5,3.6/5,4.0/5,149+,4.6/5 guest room rating,366 sq ft,16.0,$54
+The Peak Hotel,3.7/5,332 reviews,"Meşrutiyet Cad. Oteller Sk. 1/3, Istanbul",3.7/5,3.8/5,3.7/5,3.7/5,61+,5/5 guest room rating,215 sq ft,8.0,$34
+"Shangri-La Bosphorus, Istanbul",4.6/5,255 reviews,"Sinanpasa Mah, Hayrettin Iskelesi Sok, No.1, Besiktas, Istanbul, Istanbul",4.8/5,4.7/5,4.8/5,4.7/5,115+,4.2/5 guest room rating,538 sq ft,17.0,$375
+Titanic Business Kartal,4.2/5,417 reviews,"Orta Mah. Kaptan-i Derya Cad. No:37, Istanbul, Istanbul",4.5/5,4.2/5,4.4/5,4.3/5,49+,4.8/5 guest room rating,344 sq ft,15.0,$54
+Lara Garden Butik Hotel,4.0/5,65 reviews,"2321. Sk., Antalya, Antalya",4.1/5,4.2/5,3.7/5,4.1/5,33+,3.9/5 guest room rating,269 sq ft,7.0,$37
+Hotel Arcadia Blue Istanbul,4.5/5,714 reviews,"Dr. Imran Oktem Cad. No:1, Istanbul, Istanbul",4.4/5,4.5/5,4.5/5,4.4/5,54+,4.4/5 guest room rating,247 sq ft,12.0,$162
+TRYP by Wyndham Istanbul Taksim,3.7/5,76 reviews,"Cihangir Mah. Kazanci Yokusu No: 8, Taksim, Istanbul",3.8/5,3.8/5,3.6/5,3.7/5,25+,3.8/5 guest room rating,237 sq ft,15.0,$60
+Hilton Istanbul Kozyatagi,4.1/5,"1,002 reviews","Sahrayicedit Mah. Batman Sok 4, Istanbul",4.3/5,4.1/5,4.1/5,4.2/5,112+,4.2/5 guest room rating,344 sq ft,18.0,$117
+D-Resort Gocek - Special Class,4.7/5,149 reviews,"Cumhuriyet Mahallesi, Koyici Mevkii, Gocek, Mugla, Mugla",4.9/5,4.7/5,4.6/5,4.7/5,118+,5/5 guest room rating,279 sq ft,13.0,$253
+Piano Hotel,4.5/5,257 reviews,"1364 Sok No 11 / 101, Ismet Kaptan Mahallesi, Izmir, Izmir",4.6/5,4.6/5,4.1/5,4.5/5,37+,3.9/5 guest room rating,108 sq ft,7.0,$23
+Tempo Fair Suites,4.5/5,251 reviews,"Hürriyet Mahallesi Hürriyet Cd. No 17, Sirinevler Bahcelievler, Istanbul, Istanbul",4.6/5,4.5/5,4.2/5,4.5/5,39+,4.3/5 guest room rating,269 sq ft,8.0,$35
+Cilek Marina Hotel,4.5/5,143 reviews,"Musalla Mah. 1065 Sok. No. 10, Cesme, Izmir",4.6/5,4.5/5,4.2/5,4.5/5,20+,4.9/5 guest room rating,269 sq ft,10.0,$35
+Q Pera Hotel Taksim,3.6/5,261 reviews,"Kocatepe Mah. Feridiye Cad. No.38, Istanbul, Istanbul",3.6/5,3.6/5,3.2/5,3.5/5,39+,4.1/5 guest room rating,215 sq ft,2.0,$27
+Ramada Encore By Wyndham Istanbul Basin Express,3.9/5,19 reviews,"Mehmet Akif Mah. 3. Inonu Cad., 96/1 Kucukcekmece, Istanbul",4.2/5,3.9/5,3.3/5,3.9/5,40+,5/5 guest room rating,237 sq ft,13.0,$47
+Greymark Hotel,4.6/5,189 reviews,"etiler mahallesi mursel pasa bulvari, no 8 KONAK, Izmir",4.6/5,4.6/5,4.2/5,4.7/5,28+,4.8/5 guest room rating,323 sq ft,10.0,$34
+Retaj Royale Istanbul,4.1/5,411 reviews,"Evren Mahallesi Cami Yolu Caddesi No:1A, Istanbul, Istanbul",4.4/5,4.1/5,3.8/5,4.3/5,66+,4.4/5 guest room rating,237 sq ft,15.0,$68
+Gorrion Hotel Istanbul,4.2/5,481 reviews,"Yenibosna Merkez Mahallesi Sanayi, Caddesi No:9, Istanbul, Istanbul",4.3/5,4.1/5,3.8/5,4.3/5,88+,4.5/5 guest room rating,279 sq ft,17.0,$58
+Alp Pasa Hotel,3.8/5,410 reviews,"Barbaros Mah. Hesapçi Sk. No:30, Kaleiçi, Antalya",3.9/5,3.7/5,3.4/5,3.8/5,32+,4.1/5 guest room rating,183 sq ft,12.0,$100
+Infinity City Hotel,4.3/5,179 reviews,"Cumhuriyet Mahallesi 39.Sokak N.6, Mugla, Mugla",4.5/5,4.4/5,4.2/5,4.2/5,84+,4.3/5 guest room rating,215 sq ft,6.0,$41
+Point Hotel Barbaros,4.1/5,506 reviews,"Yildiz Posta Cad. No. 29, Istanbul, Istanbul",4.1/5,4.1/5,3.6/5,4.2/5,52+,4.5/5 guest room rating,269 sq ft,15.0,$94
+Miracle Resort Hotel - All Inclusive,4.1/5,223 reviews,"Güzeloba Mah Yasar Sobutay Bulvar No 34, Lara, Antalya, Antalya",4.4/5,4.0/5,4.2/5,4.3/5,60+,5/5 guest room rating,323 sq ft,20.0,$130
+W Istanbul,4.3/5,521 reviews,"Suleyman Seba Cad No. 22 - Akaretler, Besiktas, Istanbul, Istanbul",4.4/5,4.4/5,4.1/5,4.2/5,132+,4.6/5 guest room rating,323 sq ft,15.0,$176
+Golden Orange Hotel,4.3/5,185 reviews,"Gürsu Mahallesi 304 Sokak No. 52, Konyaalti, Antalya",4.3/5,4.4/5,4.2/5,4.2/5,40+,4.6/5 guest room rating,285 sq ft,10.0,$37
+Kuum Hotel & Spa,4.3/5,102 reviews,"Map Mahallesi Ataturk Cad. No: 150, Turkbuku, Mugla, Mugla",4.5/5,4.1/5,4.9/5,4.4/5,52+,4.6/5 guest room rating,431 sq ft,13.0,$174
+Pacco Hotel Spa,3.8/5,18 reviews,"Arapsuyu Mahallesi, 615 Sokak, No.2, Konyaalti, Antalya",3.9/5,4.1/5,4.3/5,4.1/5,58+,5/5 guest room rating,226 sq ft,14.0,$49
+Holiday Inn Express Istanbul - Atakoy Metro,4.4/5,36 reviews,"Sirinevler Mahallesi Maresel Fevzi, Caddesi 1, Sokak No. 13, Istanbul",4.6/5,4.5/5,4.2/5,4.3/5,86+,4.3/5 guest room rating,226 sq ft,7.0,$64
+Mic Royal Hotel,4.3/5,54 reviews,"altinkum 415 sokak no4, Konyaalti, Antalya",4.5/5,4.4/5,3.8/5,4.4/5,61+,4.4/5 guest room rating,215 sq ft,7.0,$40
+Istanbul Marriott Hotel Sisli,4.3/5,309 reviews,"Abide-i Hurriyet Caddesi No: 142, Sisli, Istanbul, Istanbul",4.5/5,4.4/5,4.4/5,4.3/5,107+,4.4/5 guest room rating,312 sq ft,18.0,$109
+Neopol Hotel Deluxe,3.9/5,61 reviews,"Yilanci Burnu Sk, no 17, Kusadasi, Aydin",4.0/5,3.8/5,3.5/5,3.9/5,72+,5/5 guest room rating,344 sq ft,10.0,$26
+The Marmara Sisli,3.8/5,572 reviews,"Ortaklar cad. 30 Mecidiyekoy, Istanbul, Istanbul",3.9/5,3.9/5,3.8/5,3.7/5,27+,3.9/5 guest room rating,291 sq ft,11.0,$62
+Titanic Port Bakirkoy,4.4/5,582 reviews,"Fisekhane Caddesi No: 7/3, Bakirkoy, Istanbul, Istanbul",4.5/5,4.4/5,4.3/5,4.4/5,54+,4.4/5 guest room rating,301 sq ft,15.0,$84
+Labranda TMT Mugla - All Inclusive,3.8/5,245 reviews,"Atatürk Cad. No: 180, Mugla, Mugla",3.8/5,3.8/5,3.7/5,3.7/5,230+,3.6/5 guest room rating,236 sq ft,19.0,$78
+Mediterra Art Hotel,3.8/5,511 reviews,"Barbaros Mah. Zafer Sok., No. 5 Kaleici, Antalya, Antalya",4.0/5,3.9/5,3.3/5,3.7/5,52+,3.9/5 guest room rating,215 sq ft,13.0,$34
+Suiteness Taksim Hotel,3.7/5,555 reviews,"Kuloglu Mahallesi Agahamami Cd No:18, Istanbul, Istanbul",3.7/5,3.8/5,3.5/5,3.6/5,98+,3.9/5 guest room rating,194 sq ft,8.0,$41
+Hyatt Centric Levent Istanbul,4.5/5,200 reviews,"Buyukdere Caddesi No. 136, Levent, Istanbul",4.7/5,4.6/5,4.4/5,4.6/5,86+,5/5 guest room rating,377 sq ft,14.0,$129
+Stories Hotel Kumbaracı,4.0/5,114 reviews,"Kumbaracı Yokuşu No: 66, Istanbul, Istanbul",4.2/5,4.2/5,3.6/5,4.1/5,42+,4.5/5 guest room rating,247 sq ft,8.0,$37
+Joya Del Mar Hotel,4.2/5,78 reviews,"Adaagiz Mevkii, Yalanci Bogaz, No 24, Marmaris, Mugla",4.5/5,4.1/5,4.0/5,4.3/5,153+,5/5 guest room rating,107 sq ft,11.0,$91
+Veyron Park Hotel,3.9/5,282 reviews,"Esentepe Mh. Mithat Uluünlü Sk. No:15/1, Sisli, Istanbul",4.0/5,3.9/5,3.7/5,3.8/5,43+,4.2/5 guest room rating,161 sq ft,10.0,$27
+Hotel Anemon Ege Saglik,4.0/5,244 reviews,"Bornova Ege Ueniversitesi Kampisi 12, Izmir, Izmir",4.1/5,4.1/5,3.4/5,3.8/5,28+,4.1/5 guest room rating,205 sq ft,13.0,$36
+Radisson Blu Hotel Istanbul Pera,4.1/5,608 reviews,"Evliya Celebi Mah., Refik Saydam Cad. No 19 Tepebasi, Istanbul, Istanbul",4.3/5,4.2/5,4.0/5,4.2/5,102+,4.1/5 guest room rating,301 sq ft,16.0,$100
+ibis Styles Istanbul Bomonti,4.2/5,131 reviews,"Halide Edip Adivar Mah, Akar Cad No 6 Sisli, Istanbul",4.3/5,4.3/5,4.6/5,4.3/5,110+,4.5/5 guest room rating,291 sq ft,12.0,$42
+Metropolitan Hotels Bosphorus,4.3/5,293 reviews,"Purtelas Hasan Efendi Mahallesi, Meclis-i Mebusan Caddesi No. 47 Findikli, Istanbul",4.5/5,4.3/5,4.4/5,4.4/5,45+,4.3/5 guest room rating,269 sq ft,10.0,$70
+The Byzantium Hotel & Suites - Special Class,3.8/5,526 reviews,"Akbiyik Cad. No:29, Istanbul, Istanbul, Istanbul",4.1/5,3.9/5,3.6/5,3.8/5,43+,4.2/5 guest room rating,161 sq ft,13.0,$45
+Ramada Plaza by Wyndham Antalya,4.0/5,564 reviews,"Genclik Mh. Fevzi Cakmak Caddesi No:22, Antalya, Antalya",4.1/5,3.9/5,3.8/5,4.0/5,105+,4.4/5 guest room rating,161 sq ft,19.0,$93
+Antalya NUN Hotel,4.3/5,205 reviews,"Çaglayan Mahallesi 2051 Sokak No: 22, Antalya, Antalya",4.3/5,4.3/5,4.2/5,4.2/5,67+,4.4/5 guest room rating,269 sq ft,7.0,$35
+Le Meridien Istanbul Etiler,4.5/5,455 reviews,"Cengiz Topel Caddesi No:39, Etiler, Istanbul, Istanbul",4.5/5,4.6/5,4.4/5,4.6/5,197+,4.6/5 guest room rating,431 sq ft,19.0,$130
+Fuat Pasa Yalisi - Special Class,3.9/5,404 reviews,"Çayirbasi Caddesi. No:148, Büyükdere mahallesi, Istanbul, Istanbul",4.1/5,3.9/5,3.8/5,3.9/5,59+,4/5 guest room rating,269 sq ft,13.0,$83
+Royal Arena Hotel & Resort Spa - All Inclusive,2.9/5,228 reviews,"Asarlik Mevkii., Adnan menderes Cad.No:73, Mugla, Mugla",2.9/5,3.1/5,2.2/5,2.9/5,129+,5/5 guest room rating,269 sq ft,20.0,$37
+Marla Hotel,3.9/5,476 reviews,"Kazim Dirik Caddesi No. 7, Pasaport-Konak, Izmir",3.9/5,3.9/5,2.9/5,3.8/5,50+,4/5 guest room rating,215 sq ft,6.0,$34
+Renaissance Polat Istanbul Hotel,4.1/5,496 reviews,"Sahil Yolu Caddesi No:2, Yesilyurt, Istanbul, Istanbul",4.4/5,4.1/5,3.9/5,4.1/5,110+,5/5 guest room rating,280 sq ft,16.0,$104
+Royal Inci Airport Hotel,3.9/5,414 reviews,"Kartaltepe Mah Sadik Sok No: 8, Küçükçekmece, Istanbul",4.1/5,4.1/5,3.7/5,3.9/5,63+,3.8/5 guest room rating,215 sq ft,9.0,$16
+Tomtom Suites,4.9/5,468 reviews,"Bogazkesen Cad.Tomtom Kaptan Sokak 18, Istanbul, Istanbul, Istanbul",4.9/5,4.9/5,4.7/5,4.8/5,47+,4.6/5 guest room rating,376 sq ft,9.0,$181
+Ansen Suites - Special Class,4.5/5,67 reviews,"Evliya Celebi Mah. MEsrutiyet Cad. No 70, Istanbul",4.5/5,4.4/5,4.2/5,4.2/5,74+,5/5 guest room rating,538 sq ft,10.0,$45
+Ada Karakoy Hotel - Special Class,4.4/5,161 reviews,"Kemankes Mah. Gümrük Sk. No:18, Istanbul, Istanbul",4.6/5,4.5/5,4.2/5,4.4/5,57+,4.5/5 guest room rating,129 sq ft,9.0,$60
+Hotel Letoon,4.0/5,190 reviews,"Foca Mahallesi 1054 Sokak No 31, Mugla, Mugla",4.0/5,4.2/5,3.6/5,3.8/5,78+,4.3/5 guest room rating,269 sq ft,12.0,$29
+Hilton Garden Inn Istanbul Golden Horn,4.0/5,329 reviews,"Sutluce Mah. Imrahor Cad. Dutluk, Sok. No:3 Istanbul, Istanbul, Istanbul",4.3/5,4.1/5,4.2/5,4.2/5,75+,4.4/5 guest room rating,291 sq ft,14.0,$47
+Legacy Ottoman Hotel,,431 reviews,"Hobyar Mahallesi Hamidiye Cad. No: 16, Sirkeci, Istanbul, Istanbul",3.6/5,3.6/5,4.0/5,3.5/5,130+,4.2/5 guest room rating,269 sq ft,16.0,$102
+The Wings Hotel Istanbul,4.3/5,30 reviews,"Karaköy Kemankes Mah. Gümrük Sok.No:26, Istanbul, Istanbul",4.4/5,4.3/5,4.2/5,4.4/5,57+,4.6/5 guest room rating,420 sq ft,10.0,$129
+Hampton by Hilton Istanbul Atakoy,4.4/5,253 reviews,"Atakoy 4. Kisim Cevat Dursunoglu, Cad. No:6 Bakirkoy, Istanbul",4.5/5,4.3/5,4.3/5,4.4/5,43+,4.6/5 guest room rating,237 sq ft,11.0,$61
+Yalikavak Marina Boutique Hotel,4.6/5,70 reviews,"Yalikavak Mahallesi, Cokertme Caddesi No: 6 D: 6, Mugla, Mugla",4.7/5,4.6/5,4.4/5,4.5/5,26+,4.7/5 guest room rating,269 sq ft,15.0,$113
+Regnum Carya,4.8/5,123 reviews,"Uckumtepesi Mevki, Belek, Antalya",4.9/5,4.6/5,4.9/5,4.8/5,95+,4.9/5 guest room rating,538 sq ft,18.0,$467
+The Purl Boutique Hotel,3.8/5,97 reviews,"Bankalar Caddesi NO:2/1, Karakoy/ Istanbul, Istanbul, Istanbul",3.9/5,4.0/5,3.5/5,3.6/5,61+,4.6/5 guest room rating,107 sq ft,9.0,$54
+Daru Sultan Galata,4.2/5,13 reviews,"Mesrutiyet Caddesi No 108, Istanbul, Istanbul",4.1/5,4.4/5,4.5/5,4.0/5,83+,4/5 guest room rating,226 sq ft,14.0,$64
+Business Life Hotel,4.2/5,129 reviews,"Fulya Mah., Vefa Deresi Sokak No:15/A, Fulya /Sisli, Istanbul, Istanbul",4.3/5,4.4/5,3.7/5,4.2/5,30+,,344 sq ft,11.0,$68
+Ramada Encore by Wyndham Istanbul Florya,4.0/5,448 reviews,"Besyol Mah. Birlik Cad.No:10, Sefakoy-Kucukcekmece, Istanbul, Istanbul",4.1/5,4.1/5,3.8/5,4.1/5,50+,4/5 guest room rating,248 sq ft,13.0,$58
+Reis Inn Hotel,3.9/5,161 reviews,"Atatürk Mah. Adnan Kahveci Bulvarı No.7, Beylikdüzü, Istanbul, Istanbul",4.1/5,3.8/5,3.4/5,3.9/5,81+,4.2/5 guest room rating,323 sq ft,15.0,$37
+The Green Park Pendik,3.5/5,779 reviews,"Kaynarca Mah. Erol Kaya Cad., No:204 Pendik, Istanbul, Istanbul",3.7/5,3.4/5,3.4/5,3.6/5,52+,3.6/5 guest room rating,269 sq ft,15.0,$42
+Sanli Suite Hotel,4.3/5,261 reviews,"Eski Uskudar Cad.Elifce Sk.No:3, Zumrutevler, Maltepe, Istanbul",4.5/5,4.4/5,4.3/5,4.3/5,55+,4.2/5 guest room rating,194 sq ft,10.0,$27
+Altin Yunus Cesme,3.6/5,376 reviews,"Boyalik Mevkii Kalemburnu, Cesme, Izmir",3.6/5,3.7/5,3.1/5,3.4/5,83+,4.1/5 guest room rating,194 sq ft,18.0,$212
+DoubleTree by Hilton Istanbul Avcilar,4.1/5,346 reviews,"Cihangir Mah. D 100 Guney Yan Yol, No:289, Istanbul, Istanbul",4.4/5,4.2/5,4.2/5,4.3/5,104+,4.6/5 guest room rating,291 sq ft,18.0,$69
+Hotel Unique - Boutique Class - Adults Only,4.7/5,139 reviews,"1.Karagözler Mah. Fevzi Çakmak Cad., Mugla, Mugla",4.7/5,4.6/5,4.6/5,4.6/5,54+,4.7/5 guest room rating,269 sq ft,10.0,$83
+Pasaport Pier Istanbul,3.8/5,51 reviews,"güner sokak no2, Istanbul, Istanbul",4.0/5,4.0/5,3.2/5,3.7/5,61+,5/5 guest room rating,301 sq ft,4.0,$24
+Pasaport Pier Hotel,3.5/5,204 reviews,"Cumhuriyet Bulvari No:105, Konak, Izmir",3.4/5,3.6/5,3.1/5,3.4/5,30+,3.8/5 guest room rating,172 sq ft,11.0,$37
+Emirtimes Hotel Tuzla,3.9/5,253 reviews,"Orhanli Mah. Demokrasi Cad. No:36, Tuzla, Istanbul",3.9/5,4.1/5,4.4/5,3.9/5,58+,4.5/5 guest room rating,484 sq ft,14.0,$44
+Radisson Residences Avrupa TEM Istanbul,4.5/5,83 reviews,"Karayollari Mh. Abdi Ipekci Cad. No: 30, Kucukkoy Gaziosmanpasa, Istanbul, Istanbul",4.6/5,4.5/5,4.2/5,4.5/5,79+,5/5 guest room rating,592 sq ft,19.0,$89
+Akra V Hotel,4.5/5,97 reviews,"Lara Yolu, Antalya, Antalya",4.5/5,4.5/5,4.3/5,4.3/5,75+,4.5/5 guest room rating,301 sq ft,17.0,$79
+Avrasya Port Hotel,3.8/5,82 reviews,"Küçük Langa Ar. Cd. 9, Istanbul, Istanbul",3.8/5,4.1/5,3.5/5,4.0/5,36+,4.1/5 guest room rating,183 sq ft,7.0,$26
+Doubletree By Hilton Hotel Izmir - Alsancak,3.9/5,272 reviews,"Sairesref Bulvari 1373 Sok No5 Alsancak, Izmir, Izmir",4.1/5,4.0/5,3.8/5,3.9/5,109+,5/5 guest room rating,215 sq ft,15.0,$76
+Arven Boutique Hotel,4.3/5,157 reviews,"Kucukayasofya Mah Cayiroglu Sk No: 06, Istanbul, Istanbul",4.2/5,4.6/5,3.7/5,4.0/5,42+,4.5/5 guest room rating,118 sq ft,7.0,$21
+Perla Arya Hotel,4.4/5,377 reviews,"Oguzlar Mh 1253 Sk N1 Konak, Izmir",4.5/5,4.5/5,4.4/5,4.4/5,26+,4.6/5 guest room rating,172 sq ft,5.0,$25
+Vespia Hotel,4.2/5,86 reviews,"Haramidere Caddesi, Yakuplu Mahallesi Haramidere Cad No 6/8, Istanbul",4.4/5,4.2/5,4.1/5,4.2/5,46+,3.8/5 guest room rating,237 sq ft,13.0,$38
+D Maris Bay,4.7/5,123 reviews,"Datca Yolu Uzeri 35. Km, Marmaris, Mugla",4.7/5,4.6/5,4.8/5,4.7/5,120+,4.5/5 guest room rating,258 sq ft,20.0,$428
+Point Hotel Taksim,4.0/5,338 reviews,"Topcu Caddesi No.2 Taksim, Istanbul, Istanbul",4.1/5,4.0/5,3.5/5,4.0/5,72+,3.8/5 guest room rating,269 sq ft,14.0,$96
+Palazzo Donizetti Hotel - Special Class,3.9/5,375 reviews,"Asmali Mescit Mh.Mesrutiye Caddesi. N85, Taksim-Istanbul, Istanbul, Istanbul",4.2/5,4.0/5,3.9/5,4.0/5,57+,4.3/5 guest room rating,269 sq ft,13.0,$64
+Gulec Hotel,4.0/5,94 reviews,"Binbirdirek Mah. Dostluk Yurdu Sk. No 2, Istanbul, Istanbul",4.0/5,4.1/5,3.9/5,3.8/5,40+,3.8/5 guest room rating,194 sq ft,7.0,$40
+Delta Hotel Istanbul,3.6/5,172 reviews,"Aksaray Caddesi No: 26/1, Laleli, Istanbul",3.8/5,3.6/5,3.6/5,3.6/5,49+,,193 sq ft,10.0,$35
+Dedeman Bostancı,4.1/5,490 reviews,"Degirmen Yolu Caddesi, No:39B, Içerenköy Mahallesi Atasehir, Istanbul, Istanbul",4.3/5,4.2/5,4.2/5,4.2/5,49+,4.6/5 guest room rating,312 sq ft,13.0,$73
+Uranus Istanbul Topkapı,4.1/5,357 reviews,"Merkezefendi Mah Mevlana Cad No 112 1, Zeytinburnu, Istanbul, Istanbul",4.1/5,4.1/5,4.1/5,4.1/5,48+,,269 sq ft,13.0,$58
+Delight Deluxe Hotel,4.4/5,144 reviews,"Barbaros Mah, Civelek sokak No 14 16, Antalya",4.4/5,4.5/5,4.2/5,4.4/5,100+,5/5 guest room rating,25 sq ft,9.0,$42
+Espina Hotel,4.2/5,67 reviews,"Çağlayan Mah. 2048 Sk. No: 4, Lara Muratpaşa, Antalya",4.3/5,4.3/5,4.6/5,4.2/5,53+,4.6/5 guest room rating,215 sq ft,9.0,$44
+Sumahan on the Water - Special Class,4.6/5,73 reviews,"Kuleli Caddesi No 43, Çengelköy, Istanbul, Istanbul",4.6/5,4.4/5,4.1/5,4.5/5,36+,,215 sq ft,11.0,$325
+Soho House Istanbul,4.6/5,136 reviews,"Evliya Çelebi Mahallesi Mesrutiyet, Caddesi No. 56, Istanbul District, Istanbul",4.7/5,4.5/5,4.7/5,4.7/5,75+,5/5 guest room rating,323 sq ft,13.0,$331
+Asmin Hotel Mugla,4.3/5,205 reviews,"Çarsi Mh Türk Kuyusu Ali Baba Sok 1030/9, Mugla, Mugla",4.4/5,4.5/5,4.0/5,4.3/5,43+,4.6/5 guest room rating,161 sq ft,12.0,$22
+Agaoglu My City,4.3/5,280 reviews,"Cakmak Mh.Tavukcuyolu Cd. No 22, Istanbul, Istanbul",4.5/5,4.4/5,4.2/5,4.3/5,79+,4.5/5 guest room rating,344 sq ft,12.0,$46
+Costa Maya Hotel,3.1/5,81 reviews,"Gerence Sokak No: 33, Mugla, Mugla",3.0/5,3.3/5,3.7/5,3.1/5,63+,5/5 guest room rating,205 sq ft,14.0,$28
+Kairaba Blue Dreams Resort,3.9/5,154 reviews,"Torba Mahallesi Herodot Bulvari No:11, Mugla, Mugla",3.7/5,3.7/5,4.4/5,3.8/5,56+,3.8/5 guest room rating,258 sq ft,19.0,$96
+Ada Home Istanbul,4.2/5,66 reviews,"Kocatepe Mahallesi Feridiye Caddesi 75, Istanbul, Istanbul, Istanbul",4.3/5,4.6/5,3.7/5,4.3/5,21+,,269 sq ft,6.0,$28
+Skyport Istanbul Hotel,3.8/5,186 reviews,"Kurtköy mahallesi ankara caddesi no 353, Istanbul",3.8/5,3.7/5,3.4/5,3.6/5,21+,4.3/5 guest room rating,753 sq ft,6.0,$41
+Yacht Classic Hotel - Boutique Class,4.7/5,251 reviews,"1 Karagozler No:24, Mugla, Mugla",4.7/5,4.6/5,4.7/5,4.7/5,161+,4.6/5 guest room rating,215 sq ft,10.0,$104
+Cityloft 161,4.2/5,726 reviews,"Zümrüt Sokak, Istanbul, Istanbul",4.1/5,4.1/5,3.9/5,4.2/5,110+,4/5 guest room rating,431 sq ft,15.0,$32
+Vois Hotel,3.9/5,48 reviews,"Inonu Mah Kayisdagi Cad No 254-256, Atasehir, Istanbul",4.0/5,4.0/5,3.9/5,3.8/5,28+,,269 sq ft,8.0,$32
+Seres Hotel,4.1/5,639 reviews,"Hudavendigar Caddesi 25 Sirkeci, Istanbul, Istanbul",4.3/5,4.2/5,4.2/5,4.0/5,50+,3.8/5 guest room rating,172 sq ft,7.0,$44
+By Murat Royal Hotels,4.0/5,101 reviews,"Bereketzade Mah Lalelicesme Sok No 16, Galata, Istanbul",4.1/5,4.1/5,3.7/5,3.9/5,42+,3.8/5 guest room rating,215 sq ft,4.0,$19
+Urkmez Hotel,4.2/5,300 reviews,"Namik Kemal Cad. No:20, Selcuk, Izmir",4.2/5,4.6/5,4.1/5,3.8/5,28+,,215 sq ft,11.0,$29
+Costa Mugla City,3.9/5,149 reviews,"Kumbahçe Mah. 2432 Sok. NO: 26, Mugla, Mugla",3.8/5,4.1/5,3.8/5,3.8/5,52+,3.9/5 guest room rating,194 sq ft,10.0,$23
+Alrazi Hotel,3.9/5,63 reviews,"Besyol Mahallesi Birlik Caddesi, Karadeniz Sokak No:13-15, Küçükçekmece, Istanbul",4.1/5,4.0/5,4.1/5,3.7/5,62+,4/5 guest room rating,258 sq ft,17.0,$40
+Hotel Agan,3.9/5,992 reviews,"Ebusuud Cad. Saffetipasa Sok. No:6, Sirkeci, Istanbul, Istanbul",4.2/5,4.1/5,3.9/5,3.8/5,37+,3.9/5 guest room rating,161 sq ft,10.0,$30
+Rhiss Hotel Bostanci,4.0/5,113 reviews,"Bostanci Mahallesi, Emin Ali Pasa Cd, No 118, Istanbul",4.2/5,4.2/5,3.8/5,4.0/5,69+,4.4/5 guest room rating,237 sq ft,9.0,$43
+Ismira Hotel,3.5/5,272 reviews,"Gaziosmanpasa Bulvari No: 28, Alsancak, Izmir",3.6/5,3.6/5,2.9/5,3.4/5,45+,4.4/5 guest room rating,248 sq ft,10.0,$37
+Peninsula Galata Boutique Hotel,3.7/5,252 reviews,"Müeyyedzade Mahallesi, Necati Bey, Aynali Lokanta Sokak No:6, Karaköy, Istanbul, Istanbul",4.0/5,4.0/5,3.5/5,3.7/5,38+,5/5 guest room rating,215 sq ft,11.0,$64
+Kaleiçi Hotel,4.0/5,79 reviews,"Kilicarslan Mh. Sakarya Sk. No 11, Genclik, Antalya, Antalya",3.9/5,3.9/5,3.9/5,4.0/5,52+,3.8/5 guest room rating,215 sq ft,10.0,$32
+The Craton Hotel,3.8/5,35 reviews,"Fulya Mahallesi, Bahceler Sokagi, No:16, Kat: 1, Sisli, Istanbul, Istanbul",4.3/5,4.1/5,4.0/5,4.0/5,91+,,269 sq ft,12.0,$72
+Tempo Hotel 4Levent Istanbul,4.1/5,88 reviews,"Sultan Selim Mah., Sultan Selim Cd. No:139, Kağıthane, Istanbul",4.1/5,4.0/5,4.6/5,4.0/5,33+,3.9/5 guest room rating,236 sq ft,8.0,$32
+Elite World Istanbul Hotel,3.7/5,354 reviews,"Sehit Muhtar Caddesi No:42, Taksim, Istanbul, Istanbul",3.9/5,3.7/5,3.9/5,3.7/5,48+,4.2/5 guest room rating,279 sq ft,14.0,$98
+Divan Suites Istanbul G-Plus,4.1/5,383 reviews,"Baglar Mah. Mimar Sinan Cd., No 35 Gunesli, Istanbul, Istanbul",4.0/5,4.0/5,4.2/5,4.1/5,48+,3.8/5 guest room rating,291 sq ft,14.0,$70
+Four Seasons Hotel Istanbul at the Bosphorus,4.8/5,291 reviews,"Ciragan Cad. No. 28, Istanbul, Istanbul",4.9/5,4.8/5,4.8/5,4.8/5,70+,4.6/5 guest room rating,484 sq ft,19.0,$492
+Parkhouse Hotel & Spa,4.2/5,157 reviews,"Osmanaga Mah, Muhurdar Fuat SK. No:12, Kadikoy, Istanbul, Istanbul",4.2/5,4.4/5,4.3/5,4.1/5,42+,4.3/5 guest room rating,215 sq ft,14.0,$62
+Martı Myra - All Inclusive,4.0/5,158 reviews,"Tekirova, Kemer, Antalya",4.1/5,3.8/5,4.0/5,4.0/5,104+,4.2/5 guest room rating,215 sq ft,18.0,$207
+Room Mate Emir,4.5/5,157 reviews,"Kuloglu Mahallesi Sadri Alısık Sokak 33, Istanbul, Istanbul",4.5/5,4.5/5,4.3/5,4.5/5,40+,4.9/5 guest room rating,376 sq ft,6.0,$98
+Riverland Suites & Apart Hotel,4.1/5,100 reviews,"Küçük Ayasofya Mah. Özbekler Sok., No: 22 Istanbul, Istanbul",4.2/5,4.2/5,3.9/5,4.1/5,41+,3.6/5 guest room rating,237 sq ft,7.0,$17
+Elips Royal Hotel & Spa,3.6/5,282 reviews,"Etiler Mah. 851 Sk. No: 2, Muratpaşa, Antalya",3.9/5,3.6/5,3.5/5,3.7/5,46+,4.5/5 guest room rating,215 sq ft,11.0,$45
+Levni Hotel & Spa,4.4/5,863 reviews,"Ankara Caddesi No: 12 Sirkeci, Istanbul, Istanbul",4.5/5,4.6/5,4.2/5,4.4/5,121+,4.6/5 guest room rating,183 sq ft,16.0,$106
+En Vie Beach Boutique Hotel-Adult Only,3.6/5,133 reviews,"Ahmet Tokus Blv. Keykubat Cad. 22, Alanya, Antalya",3.8/5,3.6/5,4.2/5,3.6/5,109+,5/5 guest room rating,205 sq ft,8.0,$71
+Sahra Airport Hotel,3.6/5,344 reviews,"Kartaltepe Mah. Hisar Sok. No:1, Kucukcekmece, Istanbul",3.7/5,3.7/5,3.5/5,3.6/5,52+,4.3/5 guest room rating,269 sq ft,12.0,$23
+Mukarnas Taksim Hotel,4.5/5,130 reviews,"katip mustafa celebi mh ipek sk no 6, Istanbul, Istanbul",4.6/5,4.6/5,4.3/5,4.5/5,65+,5/5 guest room rating,161 sq ft,9.0,$56
+Payam Hotel,4.9/5,174 reviews,"Andifli Mah. Yeni Cami Cad. No. 24, Kas, Antalya",4.8/5,4.9/5,4.7/5,4.9/5,64+,5/5 guest room rating,204 sq ft,9.0,$60
+Cheya Beşiktaş Hotel,4.1/5,227 reviews,"Barbaros Bulvarı Akdoğan Sk. No:39, Beşiktaş, Istanbul, Istanbul",4.1/5,4.1/5,3.8/5,4.0/5,60+,4.2/5 guest room rating,194 sq ft,8.0,$66
+Begonville Beach Hotel - Adults Only,4.0/5,140 reviews,"Siteler Mahallesi 207 sok No 84, Marmaris, Mugla",4.2/5,3.9/5,3.6/5,4.1/5,30+,4.1/5 guest room rating,215 sq ft,9.0,$39
+Charisma De Luxe Hotel,4.0/5,208 reviews,"Akyar Mevkii No 7, Kusadasi, Aydin",4.1/5,3.9/5,4.2/5,3.9/5,87+,3.9/5 guest room rating,301 sq ft,19.0,$63
+Wyndham Grand Istanbul Europe,4.5/5,716 reviews,"Basin Express Yolu Yavuz Sultan Selim, cad. No:1-3 Günesli, Istanbul, Istanbul",4.7/5,4.5/5,4.5/5,4.6/5,102+,4.5/5 guest room rating,344 sq ft,17.0,$226
+Marti Beach Hotel,3.5/5,195 reviews,"Kadınlar Denizi Mahallesi, Kadınlar Denizi Caddesi, No:115, Kusadasi, Aydin",3.3/5,3.3/5,4.0/5,3.3/5,125+,5/5 guest room rating,183 sq ft,9.0,$22
+The Haze Karaköy,4.0/5,289 reviews,"Necatibey Caddesi No:36-38, Karaköy, Istanbul",4.2/5,4.0/5,3.9/5,4.1/5,77+,3.7/5 guest room rating,183 sq ft,10.0,$75
+Start Hotel,3.9/5,174 reviews,"Ali Çetinkaya Caddesi No: 19, Antalya",3.8/5,4.0/5,3.9/5,3.7/5,56+,4.3/5 guest room rating,193 sq ft,11.0,$29
+The Elysium Istanbul,3.9/5,236 reviews,"Taksim Inonu Mah Yedikuyular Caddesi, Cayiri Sokak No 4 Sisli Taksim, Istanbul, Istanbul",4.1/5,3.9/5,3.8/5,4.0/5,88+,4.6/5 guest room rating,301 sq ft,14.0,$67
+Holiday Inn Istanbul Sisli,3.9/5,106 reviews,"Halaskar Gazi Cad 19 Mayis Mah No 206, Sisli, Istanbul, Istanbul",4.0/5,4.0/5,3.4/5,3.9/5,75+,5/5 guest room rating,291 sq ft,15.0,$92
+Luis Otel,4.5/5,45 reviews,"Önder Cd., Izmir, Izmir",4.7/5,4.6/5,4.6/5,4.5/5,30+,5/5 guest room rating,215 sq ft,7.0,$36
+Clarion Hotel Istanbul Mahmutbey,4.0/5,91 reviews,"Mahmutbey Mah. Peyami Safa, Cad. No:44, Bağcılar, Istanbul",4.2/5,4.0/5,3.6/5,4.0/5,108+,5/5 guest room rating,301 sq ft,16.0,$75
+Kumsal Otel,3.2/5,20 reviews,"Sahil Cad. No. 114, Arnavutkoy, Istanbul",3.4/5,3.9/5,3.0/5,2.6/5,42+,5/5 guest room rating,161 sq ft,8.0,$32
+Agora Guesthouse,4.5/5,66 reviews,"Amiral Tafdil Sokak, No.6, 34122 Istanbul, Fatih, Istanbul, Istanbul",4.6/5,4.6/5,4.2/5,4.4/5,28+,,237 sq ft,5.0,$25
+Fraser Place Anthill Istanbul,4.5/5,172 reviews,"Cumhuriyet Mah. Incirlidede Cad. No:6, Bomonti / Sisli, Istanbul, Istanbul",4.5/5,4.5/5,4.7/5,4.5/5,48+,4.8/5 guest room rating,645 sq ft,20.0,$120
+Riva's Moda,4.2/5,73 reviews,"Caferaga Mahallesi, Dr. Esat Isik Cd. no 98, Istanbul, Istanbul",4.2/5,4.2/5,4.0/5,4.2/5,51+,4.3/5 guest room rating,183 sq ft,9.0,$46
+Hotel Club Phellos,4.0/5,336 reviews,"Dogruyol Sok No 4, Kas, Antalya",4.0/5,4.1/5,3.9/5,3.7/5,22+,4.5/5 guest room rating,161 sq ft,10.0,$35
+THE SIGN ŞİLE HOTEL & SPA,3.9/5,164 reviews,"Kumbaba Mah. Uygar Sok. No 40, Sile, Istanbul",3.8/5,3.8/5,4.0/5,3.9/5,89+,3.9/5 guest room rating,280 sq ft,19.0,$37
+Yacht Boheme Hotel-Boutique Class - Adults Only,4.9/5,147 reviews,"1. Karegozler Fevzi Cakmak Cad. No. 14, Mugla, Mugla",4.8/5,4.8/5,4.4/5,4.8/5,72+,4.9/5 guest room rating,323 sq ft,11.0,$104
+"Sofa Hotel Istanbul, Autograph Collection",4.1/5,325 reviews,"Tesvikiye Caddesi No:41-41A Nisantasi, Istanbul, Istanbul",4.2/5,4.2/5,4.4/5,4.1/5,113+,4/5 guest room rating,431 sq ft,16.0,$158
+Villa Pera Suite Hotel,4.6/5,441 reviews,"Kocatepe Mah. Feridiye Cad. No:116, Taksim, Istanbul, Istanbul",4.8/5,4.8/5,4.1/5,4.5/5,65+,4.4/5 guest room rating,161 sq ft,6.0,$28
+Guner Business Hotel,4.4/5,38 reviews,"Osmanaga Mahallesi,Gaziosmanpasa Sokak, Istanbul",4.3/5,4.4/5,4.1/5,4.4/5,17+,,258 sq ft,6.0,$58
+AC Hotel Istanbul Macka,4.2/5,371 reviews,"Visnezade Mah, Suleyman Seba Cad. No:75, Besiktas, Istanbul, Istanbul",4.4/5,4.3/5,4.0/5,4.3/5,36+,4.2/5 guest room rating,248 sq ft,12.0,$70
+Istanbul Gonen Hotel,4.2/5,894 reviews,"Degirmenbahce Caddesi No:15, Yenibosna, Istanbul, Istanbul",4.4/5,4.1/5,3.9/5,4.3/5,65+,4.5/5 guest room rating,301 sq ft,14.0,$64
+Luna Blanca Resort & Spa - All Inclusive,4.2/5,183 reviews,"Kumköy Bulv. No:89, Side, Antalya",4.4/5,4.2/5,4.1/5,4.3/5,88+,4/5 guest room rating,290 sq ft,19.0,$98
+Nova Plaza Crystal Hotel,3.6/5,57 reviews,"Receppaşa Caddesi No:7, Taksim, Istanbul, Istanbul",3.6/5,3.9/5,3.8/5,3.5/5,73+,,323 sq ft,14.0,$50
+Marlight Boutique Hotel - Boutique Class,3.8/5,205 reviews,"Fevzipasa Bulvari 1367, Sokak No:3-5-7, Cankaya, Izmir, Izmir",4.0/5,3.9/5,3.6/5,3.8/5,52+,4.4/5 guest room rating,215 sq ft,12.0,$31
+ibis Styles Istanbul Atasehir,4.1/5,43 reviews,"Kucukbakkalkoy Mah, Istanbul, Istanbul",4.2/5,4.2/5,4.5/5,4.1/5,24+,4.6/5 guest room rating,237 sq ft,10.0,$59
+Rixos Downtown Antalya,4.1/5,569 reviews,"Sakip Sabanci Boulevard, AntalyaBeach, Antalya, Antalya",4.2/5,4.1/5,4.0/5,4.1/5,110+,4/5 guest room rating,344 sq ft,18.0,$131
+Sign by Ersan - Adults Only,4.8/5,67 reviews,"Icmeler mevkii, PK 357, Mugla, Mugla",4.8/5,4.8/5,4.6/5,4.8/5,129+,5/5 guest room rating,484 sq ft,15.0,$156
+Tourist Hotel Antalya,3.5/5,162 reviews,"Güzeloba Mah. Örnekköy Cad.No:5, Lara, Antalya, Antalya",3.6/5,3.7/5,3.7/5,3.4/5,64+,,204 sq ft,11.0,$30
+The Central Palace Bosphorus,4.4/5,69 reviews,"Haydar Aliyev Cad. No 124, Tarabya, Istanbul, Istanbul",4.5/5,4.4/5,4.2/5,4.4/5,50+,4/5 guest room rating,312 sq ft,11.0,$127
+Hotel Antroyal,4.1/5,92 reviews,"Kizilsaray Mah. Güllük Cad. No: 66, Antalya",4.2/5,4.3/5,4.1/5,4.0/5,33+,4.5/5 guest room rating,161 sq ft,7.0,$34
+Levent Hotel Istanbul,4.1/5,118 reviews,"Talatpasa Caddesi Bacadibi Sokak No. 7, Gultepe Levent, Istanbul, Istanbul",4.3/5,4.2/5,4.0/5,4.1/5,41+,,258 sq ft,9.0,$54
+Rox Hotel,4.1/5,575 reviews,"Cobancesme Mah. Kimiz Sok. No:24, Bahcelievler, Istanbul, Istanbul",4.3/5,4.2/5,4.2/5,4.2/5,26+,4.5/5 guest room rating,269 sq ft,12.0,$76
+Hammamhane,5.0/5,146 reviews,"Firuzağa Mah. Cukurcuma Cad. No 45, Istanbul, Istanbul",4.9/5,5.0/5,4.8/5,4.9/5,69+,5/5 guest room rating,323 sq ft,10.0,$85
+Salmakis Resort & Spa,4.0/5,142 reviews,"Bardakci Koyu, Mugla, Mugla",4.1/5,3.9/5,4.1/5,4.1/5,93+,3.7/5 guest room rating,269 sq ft,17.0,$87
+Hotel Jakaranda Istanbul,4.1/5,127 reviews,"Huseyin Aga Mah. Buyuk Bayram Sok., No:14, Istanbul, Istanbul",4.2/5,4.3/5,3.6/5,4.0/5,21+,4.4/5 guest room rating,269 sq ft,5.0,$23
+Yacht Club,4.5/5,108 reviews,"Camlik Mah. Pasa Cad No.4, Didim, Aydin",4.7/5,4.3/5,4.6/5,4.6/5,49+,4.3/5 guest room rating,398 sq ft,16.0,$83
+Walton Hotels Taksim Pera,4.5/5,263 reviews,"Hamalbasi Cad No 28 Istanbul, Istanbul",4.7/5,4.7/5,4.1/5,4.5/5,33+,4/5 guest room rating,248 sq ft,6.0,$49
+Crowne Plaza Istanbul - Oryapark,4.4/5,140 reviews,"Inkilap Mah. Kucuksu Caddesi, No:58, Umraniye, Istanbul",4.7/5,4.5/5,4.4/5,4.5/5,101+,4.3/5 guest room rating,355 sq ft,14.0,$76
+Concorde De Luxe Resort - All Inclusive,4.2/5,199 reviews,"Kemeragzi Site Mh. Tesisler Cad. 358/1, Antalya, Antalya",4.3/5,4.2/5,4.1/5,4.1/5,82+,,355 sq ft,20.0,$155
+Club Hotel Sera - All Inclusive,3.8/5,385 reviews,"Lara, Antalya",4.1/5,3.7/5,4.1/5,3.9/5,83+,3.6/5 guest room rating,269 sq ft,19.0,$117
+Dila Hotel,4.0/5,623 reviews,"Muhurdar Fuat Sk. No 5, Kadikoy, Istanbul",4.0/5,4.2/5,3.7/5,3.9/5,42+,4.2/5 guest room rating,215 sq ft,10.0,$57
+Viva La Vita Butik Otel,4.4/5,143 reviews,"Can Yücel Sk., Izmir, Izmir",4.5/5,4.5/5,4.4/5,4.4/5,32+,4.6/5 guest room rating,75 sq ft,4.0,$35
+The Artisan Istanbul MGallery,4.4/5,562 reviews,"Omer Avni Mah Inonu Caddesi, No 42 Gumussuyu Istanbul, Istanbul, Istanbul",4.4/5,4.4/5,4.2/5,4.4/5,38+,4.5/5 guest room rating,323 sq ft,13.0,$132
+Ferman Hilal Hotel,3.8/5,84 reviews,"Kocatepe Mahallesi, Topcu Caddesi - NO. 23-Taksim, Istanbul, Istanbul",3.8/5,4.0/5,3.7/5,3.8/5,25+,3.6/5 guest room rating,215 sq ft,11.0,$47
+Elegance East Hotel - Boutique Class,4.1/5,279 reviews,"Barbaros Mahallesi Atatürk Cad No: 42/C, Antalya, Antalya, Antalya",4.2/5,4.3/5,4.0/5,3.8/5,26+,4.2/5 guest room rating,215 sq ft,12.0,$73
+Costa Farilya Special Class Hotel Mugla,4.5/5,192 reviews,"Yali Mevkii No: 62, Gundogan, Mugla, Mugla",4.6/5,4.3/5,4.1/5,4.5/5,126+,4.6/5 guest room rating,365 sq ft,14.0,$129
+The Parma Hotel Taksim,4.1/5,203 reviews,"Kocatepe Mah. Abdülhak Hamid Cad. No:22, Taksim - Istanbul, Istanbul",4.3/5,4.2/5,3.9/5,4.2/5,84+,4/5 guest room rating,301 sq ft,13.0,$103
+Opale Hotel,4.5/5,55 reviews,"Müeyyedzade Mahallesi Maliye Cd., 1 1 Karakoy, Istanbul, Istanbul",4.6/5,4.7/5,4.3/5,4.6/5,58+,4/5 guest room rating,301 sq ft,7.0,$58
+Veyron Hotels & Spa,3.8/5,138 reviews,"Esentepe Mh. Saglam Fikir Sk., No 1/1, Istanbul, Istanbul",4.1/5,4.0/5,4.3/5,4.1/5,48+,4.3/5 guest room rating,172 sq ft,14.0,$48
+The Green Park Merter,3.3/5,416 reviews,"Nazim Erten Sokak No:13, Istanbul, Istanbul",3.3/5,3.3/5,3.4/5,3.3/5,56+,5/5 guest room rating,269 sq ft,14.0,$31
+Ferman Hilal Hotel,3.8/5,84 reviews,"Kocatepe Mahallesi, Topcu Caddesi - NO. 23-Taksim, Istanbul, Istanbul",3.8/5,4.0/5,3.7/5,3.8/5,25+,3.6/5 guest room rating,215 sq ft,11.0,$47
+Elegance East Hotel - Boutique Class,4.1/5,279 reviews,"Barbaros Mahallesi Atatürk Cad No: 42/C, Antalya, Antalya, Antalya",4.2/5,4.3/5,4.0/5,3.8/5,26+,4.2/5 guest room rating,215 sq ft,12.0,$73
+Costa Farilya Special Class Hotel Mugla,4.5/5,192 reviews,"Yali Mevkii No: 62, Gundogan, Mugla, Mugla",4.6/5,4.3/5,4.1/5,4.5/5,126+,4.6/5 guest room rating,365 sq ft,14.0,$129
+The Parma Hotel Taksim,4.1/5,203 reviews,"Kocatepe Mah. Abdülhak Hamid Cad. No:22, Taksim - Istanbul, Istanbul",4.3/5,4.2/5,3.9/5,4.2/5,84+,4/5 guest room rating,301 sq ft,13.0,$103
+Opale Hotel,4.5/5,55 reviews,"Müeyyedzade Mahallesi Maliye Cd., 1 1 Karakoy, Istanbul, Istanbul",4.6/5,4.7/5,4.3/5,4.6/5,58+,4/5 guest room rating,301 sq ft,7.0,$58
+Veyron Hotels & Spa,3.8/5,138 reviews,"Esentepe Mh. Saglam Fikir Sk., No 1/1, Istanbul, Istanbul",4.1/5,4.0/5,4.3/5,4.1/5,48+,4.3/5 guest room rating,172 sq ft,14.0,$48
+The Green Park Merter,3.3/5,416 reviews,"Nazim Erten Sokak No:13, Istanbul, Istanbul",3.3/5,3.3/5,3.4/5,3.3/5,56+,5/5 guest room rating,269 sq ft,14.0,$31
+Renaissance Istanbul Polat Bosphorus Hotel,4.3/5,501 reviews,"Barbaros Bulvari No: 145, Besiktas, Istanbul, Istanbul",4.5/5,4.4/5,4.3/5,4.4/5,120+,4.5/5 guest room rating,291 sq ft,15.0,$104
+Melda Palace,4.2/5,136 reviews,"Hurma Mah 213 Sok No 6, Konyaalti, Konyaalti, Antalya",4.2/5,4.0/5,4.0/5,4.1/5,32+,5/5 guest room rating,1076 sq ft,16.0,$50
+Istanbul Suites - Apartments,3.6/5,831 reviews,"Kucukayasofya Mah. Ozbekler Sok. No:4/1, Istanbul-Kadirga, Istanbul, Istanbul",3.8/5,3.8/5,3.0/5,3.6/5,75+,4/5 guest room rating,377 sq ft,15.0,$21
+Olbia Hotel,3.7/5,129 reviews,"Arapsuyu Mahallesi, 603 Sokak No. 66, Konyaalti, Antalya",3.8/5,3.7/5,4.2/5,3.5/5,41+,4.4/5 guest room rating,164 sq ft,12.0,$38
+Ramada Encore by Wyndham Istanbul Bayrampasa,4.0/5,206 reviews,"11 Bayrampasa Sehit Naci, Yenidogan District, Cakar Street, Istanbul, Istanbul",4.1/5,4.0/5,4.1/5,4.0/5,38+,5/5 guest room rating,258 sq ft,13.0,$58
+Meyde Boutique & Suites,4.4/5,72 reviews,"Gursu Mah. 306 Sok. No 16 Konyaalti, Antalya",4.3/5,4.3/5,4.1/5,4.3/5,20+,5/5 guest room rating,291 sq ft,9.0,$24
+Inncity Hotel Nişantaşı,4.0/5,113 reviews,"Halaskargazi Mah, Dershane Sok, No:20, Nisantasi Sisli, Istanbul, Istanbul",4.1/5,4.2/5,3.4/5,4.0/5,33+,4.4/5 guest room rating,183 sq ft,8.0,$46
+Republika Ortaköy Aparts,4.1/5,174 reviews,"Balmumcu Mah Mustafa Izzet Efendi Sokak, No: 1 Ortakoy, Istanbul, Istanbul",4.2/5,4.0/5,4.4/5,4.2/5,37+,4.4/5 guest room rating,205 sq ft,10.0,$39
+The Green Park Bostancı,3.3/5,448 reviews,"Içerenköy Mah. Manolya Sanayi Sok., No:36 Atasehir, Istanbul, Istanbul",3.3/5,3.4/5,3.0/5,3.1/5,45+,5/5 guest room rating,215 sq ft,15.0,$34
+Acanthus & Cennet Barut Collection - All Inclusive,4.8/5,51 reviews,"Selimiye Mahallesi, Özal Caddesi, No:35, Side, Antalya",4.9/5,4.8/5,4.8/5,5.0/5,257+,5/5 guest room rating,365 sq ft,20.0,$282
+Ahmet Efendi Konagi,4.4/5,132 reviews,"Ördekli Bakkal Sokak, Istanbul, Istanbul",4.5/5,4.4/5,4.3/5,4.4/5,79+,4.8/5 guest room rating,237 sq ft,6.0,$38
+Dedeman Istanbul,3.2/5,867 reviews,"Yildiz Posta Caddest 50, Gayrettepe, Istanbul, Istanbul",3.4/5,3.4/5,3.3/5,3.1/5,108+,3.6/5 guest room rating,215 sq ft,16.0,$57
+Opera Hotel Bosphorus,4.0/5,272 reviews,"İnönü Cad. No:26 Gümüşsuyu / Taksim, Istanbul, Istanbul",4.1/5,3.9/5,3.6/5,3.9/5,40+,,269 sq ft,14.0,$70
+Niss Lara Hotel,4.3/5,37 reviews,"Caglayan Mahallesi 2049 Sokak, No. 16 Lara Antalya, Antalya, Antalya",4.4/5,4.4/5,4.2/5,4.3/5,79+,5/5 guest room rating,258 sq ft,13.0,$30
+Harbour Suites,4.4/5,25 reviews,"Karagozler Mevkii, Fevzi Cakmak Caddesi Kapi No. 19, Mugla, Mugla",4.5/5,4.3/5,3.8/5,4.3/5,38+,5/5 guest room rating,807 sq ft,10.0,$185
+Madi Otel Izmir,3.7/5,179 reviews,"Ismet Kaptan 1367 Sok No6 Konak, Izmir",3.8/5,3.9/5,3.3/5,3.6/5,39+,4.4/5 guest room rating,269 sq ft,10.0,$26
+Avantgarde Levent Hotel - Boutique Class,4.2/5,158 reviews,"Buyukdere Cad.161, Zincirlikuyu-Levent, Istanbul, Istanbul",4.5/5,4.3/5,3.8/5,4.3/5,52+,4.5/5 guest room rating,377 sq ft,15.0,$80
+Jurnal Hotel,3.5/5,110 reviews,"Asmali Mescit Mahallesi Jurnal Sokak, No:11, Istanbul, Istanbul",3.7/5,3.7/5,2.9/5,3.5/5,39+,,140 sq ft,4.0,$20
+Avantgarde Hotel Taksim,3.9/5,117 reviews,"Abdulhakhamit Cad No 40-42, Istanbul, Istanbul",4.0/5,4.2/5,4.2/5,3.9/5,46+,4.2/5 guest room rating,215 sq ft,11.0,$74
+Ramada by Wyndham Istanbul Asia,3.8/5,246 reviews,"Mahir Iz Cad. 32 Altunizade, Istanbul, Istanbul",3.9/5,3.8/5,3.8/5,3.8/5,55+,4.1/5 guest room rating,248 sq ft,15.0,$66
+La Quinta by Wyndham Mugla,3.0/5,4 reviews,"Bardakçi Bay, No:29, Mugla, Mugla",2.5/5,3.0/5,0.0/5,2.8/5,37+,5/5 guest room rating,248 sq ft,12.0,$57
+Crowne Plaza Istanbul - Harbiye,3.4/5,326 reviews,"Dolapdere Caddesi No.161, Sisli, Istanbul, Istanbul",3.6/5,3.5/5,3.5/5,3.5/5,79+,3.9/5 guest room rating,301 sq ft,16.0,$76
+Kayi Hotel,4.5/5,140 reviews,"Tuzla Mah. 538 Sokak No 20, Mugla",4.7/5,4.6/5,4.1/5,4.6/5,51+,4.8/5 guest room rating,215 sq ft,7.0,$30
+Crowne Plaza Istanbul - Old City,4.0/5,632 reviews,"Balabanaga Mahallesi, Fethibe, Laleli-Fatih, Istanbul, Istanbul",4.2/5,4.0/5,3.9/5,4.1/5,57+,,194 sq ft,14.0,$129
+Noble22 Suites,4.0/5,62 reviews,"Gumussuyu Mah Kolcak Sk, No 11 Taksim, Istanbul",4.0/5,4.1/5,4.2/5,4.0/5,29+,4/5 guest room rating,377 sq ft,11.0,$89
+Cinar Hotel,3.7/5,266 reviews,"Yesilkoy Mh., Bakirköy, Istanbul, Istanbul",4.1/5,3.8/5,3.7/5,3.7/5,51+,4.2/5 guest room rating,236 sq ft,12.0,$104
+Manesol Boutique Galata,3.9/5,461 reviews,"Arapcami Mahallesi, Bankalar Caddesi, Billlur Sokak No:1/A Karaköy, Istanbul, Istanbul",4.3/5,4.0/5,3.7/5,4.0/5,33+,3.9/5 guest room rating,193 sq ft,10.0,$51
+Spice Hotel & Spa All Inclusive,3.9/5,145 reviews,"Iskele Mevkii, Belek, Antalya",4.0/5,3.7/5,3.6/5,3.8/5,61+,4.4/5 guest room rating,387 sq ft,20.0,$143
+The Corner Park Hotel,4.1/5,305 reviews,"Arapsuyu Mahallesi, Akdeniz Bulvari, 603 Sokak, No: 2, Konyaalti, Konyaalti, Antalya",4.0/5,4.0/5,4.0/5,3.9/5,52+,4.5/5 guest room rating,376 sq ft,11.0,$44
+Raffles Istanbul,4.9/5,154 reviews,"Zorlu Center, Besiktas, Istanbul, Istanbul",4.9/5,4.9/5,4.8/5,4.8/5,72+,5/5 guest room rating,676 sq ft,16.0,$492
+Sentire Hotels & Residences,4.6/5,90 reviews,"Sehit Muhtar Mahallesi Istiklal Caddesi, Mis Sokak No1, Istanbul, Istanbul",4.7/5,4.7/5,4.4/5,4.6/5,54+,5/5 guest room rating,322 sq ft,9.0,$107
+Diamond Hotel,4.3/5,91 reviews,"Kalesah Mahallesi, Cide Yolu, Caddesi No. 59, Amasra, Bartin",4.5/5,4.2/5,3.0/5,4.3/5,30+,5/5 guest room rating,258 sq ft,10.0,$35
+Motto Premium Hotel&Spa,4.2/5,63 reviews,"Kemal Seyfettin Elgin Bulvarı No 59, Marmaris, Mugla",4.5/5,4.2/5,4.0/5,4.3/5,39+,5/5 guest room rating,269 sq ft,13.0,$45
+Club Capa Hotel,3.7/5,147 reviews,"Çukurbag Yarimadasi No:8, Kas, Antalya",3.6/5,3.7/5,3.5/5,3.6/5,163+,4.5/5 guest room rating,269 sq ft,8.0,$44
+Cityloft 24,3.7/5,246 reviews,"Albay Sokak no 26, Kucukbakkalkoy, Atasehir, Istanbul",3.8/5,3.6/5,3.2/5,3.7/5,46+,4.1/5 guest room rating,431 sq ft,11.0,$25
+Kumburgaz Marin Princess Hotel,3.7/5,136 reviews,"Kamiloba mah.Istanbul cad.No 97, Buyukcekmece, Istanbul, Istanbul",3.7/5,3.7/5,3.6/5,3.4/5,53+,3.9/5 guest room rating,280 sq ft,20.0,$51
+Maroon Hotel Pera,4.0/5,120 reviews,"Meşrutiyet Caddesi no:17, Tepebaşı Beyoğlu, Istanbul",4.0/5,4.1/5,3.6/5,4.0/5,90+,3.9/5 guest room rating,236 sq ft,8.0,$57
+The Lola Hotel,3.3/5,58 reviews,"Katip Sinan Cami Sk., Istanbul, Istanbul",3.5/5,3.5/5,2.6/5,3.2/5,36+,5/5 guest room rating,161 sq ft,6.0,$12
+Malta Bosphorus Hotel,3.6/5,65 reviews,"Palanga Caddesi No:24, Ortaköy Beşiktaş, Istanbul, Istanbul",3.6/5,3.8/5,2.7/5,3.4/5,52+,3.6/5 guest room rating,215 sq ft,8.0,$97
+Park By Clover,4.2/5,202 reviews,"Ergenekon Mahallesi, Papa Roncalli sokak no:122 d:1 Sisli, Istanbul",4.3/5,4.2/5,3.9/5,4.1/5,25+,4.6/5 guest room rating,193 sq ft,7.0,$38
+Mercure Istanbul Altunizade,4.0/5,217 reviews,"Altunizade Mah Kisikli Cad, Oymaci Sok No 9 Altunizade, Istanbul, Istanbul",4.1/5,3.9/5,4.2/5,4.0/5,40+,4.6/5 guest room rating,301 sq ft,13.0,$70
+Hideaway Hotel,4.7/5,143 reviews,"Anfitiyatro Sokak No. 7, Kas Merkez, Kas, Antalya",4.7/5,4.7/5,4.5/5,4.6/5,146+,5/5 guest room rating,172 sq ft,10.0,$66
+The St. Regis Istanbul,4.7/5,130 reviews,"Mim Kemal Oke Cad No 35, Nisantasi Sisli, Istanbul, Istanbul",4.8/5,4.7/5,4.6/5,4.7/5,89+,4.4/5 guest room rating,495 sq ft,17.0,$309
+WİSE HOTEL SPA & ADULT ONLY,3.7/5,113 reviews,"Sirinyali Mah.1512 Sok No 6, Antalya",4.1/5,3.9/5,3.7/5,3.8/5,69+,4.7/5 guest room rating,129 sq ft,13.0,$45
+Ajia Hotel - Special Class,4.5/5,63 reviews,"Halide Edip Adivar Cd No. 27, Kanlica, Beykoz, Istanbul",4.6/5,4.5/5,3.5/5,4.4/5,52+,4.2/5 guest room rating,377 sq ft,13.0,$202
+Luce Suite Hotel,3.5/5,135 reviews,"Inonu Mahallesi Turna Sokak No:5, Istanbul",3.5/5,3.7/5,3.6/5,3.2/5,44+,4/5 guest room rating,377 sq ft,6.0,$29
+Ottopera Hotel,4.2/5,232 reviews,"Feridiye Street No. 95, Taksim, Istanbul, Istanbul",4.4/5,4.4/5,4.0/5,4.2/5,55+,3.8/5 guest room rating,205 sq ft,4.0,$19
+Balcova Thermal Hotel,3.5/5,298 reviews,"Vali Hüseyin Caddesi No: 2, Izmir, Izmir",3.5/5,3.7/5,3.1/5,3.2/5,66+,,215 sq ft,18.0,$65
+De Marêe,3.7/5,118 reviews,"sehsuvarbey mahalesi, cömertler sokak no 13, Istanbul, Istanbul",3.7/5,3.9/5,3.3/5,3.6/5,43+,4/5 guest room rating,151 sq ft,5.0,$14
+Grand Oztanik Hotel Istanbul,3.2/5,116 reviews,"Topcu Cd No 9-11, Taksim, Istanbul, Istanbul",3.2/5,3.1/5,3.5/5,3.1/5,43+,,,14.0,
+Ephesus Palace,4.5/5,124 reviews,"14 mayis mah 4027 sok no 15 Selcuk, Izmir",4.7/5,4.5/5,4.2/5,4.5/5,71+,4.1/5 guest room rating,431 sq ft,8.0,$18
+HHK Hotel Downtown,4.2/5,42 reviews,"Emin Sinan Mah. Emin Sinan Hamami Sok., No 16 Fatih, Istanbul",4.2/5,4.1/5,3.4/5,4.0/5,59+,4/5 guest room rating,237 sq ft,6.0,$24
+Cihangir Hotel,4.0/5,291 reviews,"Aslan Yatagi Sk. N0:17 Cihangir, Istanbul, Istanbul",4.3/5,4.1/5,4.0/5,4.1/5,33+,4.3/5 guest room rating,151 sq ft,10.0,$67
+Adalya Port Hotel,3.9/5,397 reviews,"Selcuk Mh. Iskele Cd. No:72 Kaleiçi, Antalya",3.9/5,4.0/5,3.2/5,3.7/5,22+,3.9/5 guest room rating,344 sq ft,11.0,$40
+Lara Park Hotel,3.5/5,110 reviews,"Güzeloba Mah. Lara Cad No:198, Antalya, Antalya",3.8/5,3.7/5,3.5/5,3.6/5,63+,4.4/5 guest room rating,269 sq ft,9.0,$30
+Delphin Be Grand Resort - All Inclusive,4.4/5,59 reviews,"Lara Tourism Center, Kemeragzi, Antalya",4.4/5,4.2/5,4.3/5,4.3/5,101+,4.1/5 guest room rating,344 sq ft,19.0,$409
+Triada Hotel,3.5/5,214 reviews,"Istiklal Street. Meselik ST. No: 4, Istanbul, Istanbul",3.5/5,3.7/5,3.1/5,3.4/5,75+,3.9/5 guest room rating,258 sq ft,6.0,$54
+Ekinci Residence,4.1/5,221 reviews,"Yenisehir Mah. Osmanli Bulvari Sümbül, Sok. No:8, Kurtkoy, Istanbul",4.1/5,4.0/5,4.0/5,4.1/5,51+,4.3/5 guest room rating,592 sq ft,12.0,$43
+S3 Orange Exclusive Hotel,4.1/5,67 reviews,"224 Sokak Belcekiz Mahallesi, Mugla, Mugla",4.2/5,4.2/5,3.8/5,3.9/5,81+,4.5/5 guest room rating,172 sq ft,9.0,$56
+Anemon Hotel Galata - Special Class,4.2/5,238 reviews,"Bereketzade Mahallesi Buyukhendek Cad., Kuledibi, Istanbul, Istanbul",4.2/5,4.3/5,4.4/5,4.0/5,50+,4.6/5 guest room rating,194 sq ft,10.0,$68
+Myy Homes,3.9/5,73 reviews,"Bati Mah. Hakimler Cikmazi Sk No1 Pendik, Istanbul, Istanbul",3.8/5,3.8/5,3.4/5,3.8/5,50+,5/5 guest room rating,258 sq ft,11.0,$32
+Medproper Suites,3.9/5,108 reviews,"Mahmutbey mah.Peyami Safa Cad. 2534 Sok., No: 7, Istanbul, Istanbul",3.9/5,3.8/5,3.6/5,3.8/5,25+,4/5 guest room rating,753 sq ft,10.0,$27
+The City Hotel,2.9/5,75 reviews,"Aksaray Mah. Namikkemal Cad. Manastirli, Rifat Sokak No 33, Aksaray, Fatih, Istanbul, Istanbul",3.4/5,3.1/5,2.4/5,3.2/5,19+,,205 sq ft,13.0,$38
+Istanbul Life Hotel - Adults Only,4.4/5,199 reviews,"Rihtim Cd. Resit Efendi Sk No 11, Kadiköy, Istanbul",4.6/5,4.5/5,4.0/5,4.4/5,49+,,161 sq ft,5.0,$66
+Porto Bello Hotel Resort & Spa,4.0/5,532 reviews,"Akdeniz Bulvari 1. Sk. Konyaalti, Konyaalti, Antalya",4.1/5,4.1/5,4.1/5,4.0/5,98+,,237 sq ft,,$108
+Akkent Garden Hotel,4.2/5,80 reviews,"Akarca Mahallesi Yerguzlar Caddesi No:3, Mugla, Mugla",4.5/5,4.2/5,4.1/5,4.3/5,84+,4.6/5 guest room rating,237 sq ft,9.0,$29
+Alican 2 Hotel,3.9/5,42 reviews,"1268 Sk., No. 12, Basmane, Izmir",3.9/5,3.9/5,4.1/5,3.9/5,9+,4.4/5 guest room rating,269 sq ft,5.0,$24
+Cornelia Diamond Golf Resort & SPA,4.4/5,32 reviews,"Iskele Mevkii, Belek, Antalya",4.6/5,4.5/5,4.7/5,4.4/5,129+,5/5 guest room rating,452 sq ft,20.0,$440
+Ramada by Wyndham Istanbul Old City,4.0/5,118 reviews,"Turgut Özal Millet Caddesi No: 82, Findikzade, Fatih, Istanbul, Istanbul",4.1/5,4.0/5,3.9/5,4.0/5,56+,3.8/5 guest room rating,161 sq ft,11.0,$73
+Sealife Family Resort Hotel,3.8/5,760 reviews,"AntalyaSahil Seridi, Konyaalti, Antalya",4.0/5,3.9/5,3.6/5,3.8/5,90+,3.6/5 guest room rating,215 sq ft,20.0,$105
+Royal City Hotel,3.3/5,56 reviews,"SIRINYALI MAH. ESKI LARA CAD. NO 175, Antalya, Antalya",3.2/5,3.6/5,2.9/5,3.1/5,24+,,215 sq ft,9.0,$28
+London Hotel,3.8/5,147 reviews,"Hisar Cd, No 13 Oludeniz, Mugla",3.6/5,4.0/5,3.8/5,3.7/5,22+,4.3/5 guest room rating,194 sq ft,8.0,$20
+Mercure Istanbul Bomonti,3.4/5,139 reviews,"A: Ergenekon, Cad.No:62/A Bomonti, Istanbul, Istanbul",3.6/5,3.4/5,3.5/5,3.6/5,106+,3.7/5 guest room rating,301 sq ft,17.0,$82
+Express Inci Airport Hotel,3.5/5,188 reviews,"kartal tepe mahallesi, pamuk sokak no 13 sefaköy, Istanbul",3.6/5,3.8/5,2.8/5,3.4/5,30+,5/5 guest room rating,269 sq ft,7.0,$16
+Nidya Hotel Galataport,3.7/5,302 reviews,"Meclis-i Mebusan Cad. No. 21, Tophane - Istanbul, Istanbul, Istanbul",3.8/5,3.8/5,3.6/5,3.7/5,47+,3.9/5 guest room rating,215 sq ft,15.0,$41
+Best Western Premier Karsiyaka,4.2/5,117 reviews,"Anadolu Cad No:695 Karsiyaka, Izmir",4.3/5,4.2/5,3.6/5,4.2/5,78+,5/5 guest room rating,269 sq ft,13.0,$58
+Florya House Hotel,3.8/5,167 reviews,"senlikköy mah. florya cd. no 42 bakirköy, D NO 42, Istanbul, Istanbul",4.0/5,4.0/5,3.3/5,3.9/5,49+,4.1/5 guest room rating,323 sq ft,8.0,$29
+Sunprime C-Lounge Hotel - Adults Only,4.4/5,96 reviews,"Ahmet Tokus Cad. No:7, Sok. No:1, Oba Mevkii, Alanya, Antalya",4.8/5,4.4/5,4.2/5,4.6/5,66+,5/5 guest room rating,237 sq ft,13.0,$110
+Air Boss Istanbul Airport and Fair Hotel,3.4/5,194 reviews,"Tevfik Bey Mh Muammer Aksoy Cd Akkus, sk No:1, Sefaköy, Istanbul, Istanbul",3.5/5,3.6/5,3.1/5,3.4/5,59+,3.7/5 guest room rating,172 sq ft,9.0,$24
+Hotel The Pera Hill,4.0/5,154 reviews,"Tepebasi Mesrutiyet Caddesi No:39, Istanbul, Istanbul, Istanbul",4.0/5,4.2/5,3.9/5,3.8/5,50+,4.3/5 guest room rating,129 sq ft,7.0,$50
+Style Hotel Sisli,3.3/5,168 reviews,"Merkez Mahallesi, Abide-i Hürriyet Cad., skenderolu Sokak No: 28/A, Sisli, Istanbul, Istanbul",3.5/5,3.3/5,3.4/5,3.4/5,42+,3.9/5 guest room rating,215 sq ft,8.0,$34
+Ramada by Wyndham Beylikduzu,3.9/5,59 reviews,"Gokevler Mahallesi 529 Sokak 2, Istanbul, Istanbul",4.4/5,3.9/5,4.0/5,4.1/5,42+,5/5 guest room rating,215 sq ft,15.0,$66
+Bilem High Class Hotel,3.4/5,367 reviews,"Sirinyali Mah.1512, Sok Eski Lara Yolu No:2, Antalya, Antalya",3.6/5,3.5/5,3.1/5,3.3/5,74+,3.9/5 guest room rating,279 sq ft,17.0,$54
+Dencity Hotel,3.5/5,85 reviews,"Eskisehir Mah. Dolapdere Cad., Karabatak Sok. No.11, Taksim, Istanbul, Istanbul",3.8/5,3.8/5,3.1/5,3.6/5,95+,5/5 guest room rating,344 sq ft,12.0,$38
+Best Western Plus Khan Hotel,4.0/5,181 reviews,"Elmali Mah. Kazim Özalp Cad. No: 10, Antalya",4.1/5,4.0/5,3.9/5,3.8/5,82+,4.6/5 guest room rating,344 sq ft,14.0,$63
+Bebek Hotel By The Stay Collection Adults only,4.7/5,29 reviews,"Bebek Mah. Cevdet pasa Caddesi No 34, Bebek Besiktas, Istanbul, Istanbul",4.9/5,4.8/5,4.7/5,4.8/5,45+,5/5 guest room rating,377 sq ft,9.0,$261
+Golden Horn İstanbul Hotel,3.3/5,95 reviews,"Hocapasa mah., Istasyon Arkasi Sok No:9, Istanbul, Istanbul",3.3/5,3.6/5,3.1/5,2.9/5,25+,,161 sq ft,11.0,$31
+Side Prenses Resort Hotel & Spa - All Inclusive,4.0/5,151 reviews,"Side Mah. Inonu Bulvari No.29, Side, Antalya",4.1/5,4.0/5,3.8/5,3.9/5,52+,4.3/5 guest room rating,215 sq ft,17.0,$72
+Kisla Pansiyon,4.1/5,67 reviews,"Elmali Mah. 7. sk. Veli Dogrusöyler ish., No 22, Antalya, Antalya",4.0/5,4.1/5,3.6/5,3.9/5,6+,3.8/5 guest room rating,108 sq ft,4.0,$14
+Grand Corner Hotel - Boutique Class,3.6/5,195 reviews,"Anafartalar Caddesi No:783, Basmane, Izmir, Izmir",3.8/5,3.6/5,3.4/5,3.5/5,38+,4.2/5 guest room rating,269 sq ft,11.0,$37
+Reyyan Hotel,3.8/5,430 reviews,"emin sinan mahallesi pertevpasa sokak, no 46, Istanbul, Istanbul",3.7/5,3.9/5,3.4/5,3.7/5,46+,4.1/5 guest room rating,172 sq ft,9.0,$14
+Tunel Residence,3.9/5,410 reviews,"Sishane Evliya Celebi Mah., Mesrutiyet Cad. No: 96 Istanbul, Istanbul, Istanbul",3.9/5,4.0/5,4.0/5,3.8/5,47+,4.4/5 guest room rating,194 sq ft,18.0,$52
+Lara Beach Homes,3.5/5,53 reviews,"Güzeloba mahallesi, 2383 daire no:7, Antalya, Antalya, Antalya",3.8/5,3.2/5,3.7/5,3.7/5,13+,5/5 guest room rating,194 sq ft,7.0,$23
+Lara Beach Homes,3.5/5,53 reviews,"Güzeloba mahallesi, 2383 daire no:7, Antalya, Antalya, Antalya",3.8/5,3.2/5,3.7/5,3.7/5,13+,5/5 guest room rating,194 sq ft,7.0,$23
+Roomers Nisantasi,3.7/5,43 reviews,"Halaskargazi Mah, 24 Kuyumcu Irfan Sk., Istanbul",3.9/5,3.9/5,4.0/5,3.7/5,34+,3.8/5 guest room rating,194 sq ft,5.0,$38
+Otel Star Palace,3.5/5,139 reviews,"Antalya Mah. 567 Sok. No. 33, Antalya",3.3/5,3.5/5,3.3/5,3.5/5,28+,5/5 guest room rating,161 sq ft,8.0,$16
+The Green Park Taksim,3.5/5,244 reviews,"Abdulhak Hamit Cad. No:34, Taksim, Istanbul, Istanbul",3.5/5,3.6/5,3.5/5,3.4/5,33+,5/5 guest room rating,215 sq ft,15.0,$41
+Rixos Premium Göcek Adult Only,4.3/5,105 reviews,"Göcek Mahallesi, Sahil Yolu Caddesi, Mugla, Mugla",4.4/5,4.2/5,3.5/5,4.5/5,78+,4.6/5 guest room rating,484 sq ft,13.0,$261
+Onkel Rada Apart Hotel,4.1/5,149 reviews,"Liman Mah., 33 Sk., Onkel Res No. 25/A C Blok, Konyaalti, Antalya",4.0/5,3.8/5,4.0/5,4.0/5,42+,4/5 guest room rating,323 sq ft,5.0,$22
+Hurry Inn,3.7/5,95 reviews,"Mehmet Nesih Özmen Mah. Nadide Cad., No.64, Istanbul, Istanbul",3.8/5,3.8/5,3.3/5,3.9/5,60+,5/5 guest room rating,323 sq ft,15.0,$39
+Hisar Aqua Hotel,4.2/5,60 reviews,"Ölüdeniz, Mugla, Mugla",4.1/5,4.3/5,3.3/5,4.0/5,21+,4.5/5 guest room rating,194 sq ft,7.0,$18
+Grand Hotel De Pera,4.0/5,161 reviews,"Meşrutiyet Caddesi, No:55, Istanbul, Istanbul, Istanbul",4.1/5,4.3/5,3.8/5,4.0/5,53+,4.4/5 guest room rating,183 sq ft,11.0,$58
+Cartoon Hotel,3.1/5,210 reviews,"Tarlabasi Bulvari No: 36, Istanbul, Istanbul",3.2/5,3.4/5,2.8/5,3.1/5,44+,,323 sq ft,9.0,$58
+Club Hotel Falcon,3.9/5,349 reviews,"Sirinyali Mah., 1540 Sok. No: 12, Antalya, Antalya",3.9/5,3.8/5,4.0/5,3.9/5,47+,4.4/5 guest room rating,215 sq ft,20.0,$105
+Wineport Lodge Agva,4.2/5,84 reviews,"Goce Mahallesi Dolmabahce Caddesi No:48, Sile, Istanbul",4.1/5,4.3/5,5.0/5,4.1/5,84+,4/5 guest room rating,215 sq ft,10.0,$107
+Bellis Deluxe Hotel - All Inclusive,4.2/5,156 reviews,"Tasliburun mevkii, Belek, Antalya",4.3/5,4.0/5,4.4/5,4.2/5,92+,,,21.0,"$2,158"
+Niss Business Hotel,3.8/5,41 reviews,"Kuskavagi Mahallesi 553 Sokak No 1, Konyaalti, Antalya",3.6/5,3.8/5,2.7/5,3.6/5,48+,3.8/5 guest room rating,258 sq ft,14.0,$28
+Mugla Stone House Hotel,4.7/5,37 reviews,"Osman Kizildereli Sokak No 5, Mugla, Mugla",4.6/5,4.7/5,5.0/5,4.6/5,56+,5/5 guest room rating,323 sq ft,8.0,$28
+Delphin Imperial - All Inclusive,4.3/5,166 reviews,"Kemeragzi Mevkii Lara Beach, Kundu Antalya Lara, Antalya, Antalya",4.4/5,4.2/5,4.1/5,4.3/5,46+,4/5 guest room rating,377 sq ft,18.0,$421
+Taxim Suites,4.2/5,103 reviews,"Cumhuriyet cad. No:31, Taksim, Istanbul, Istanbul",4.3/5,4.2/5,4.5/5,4.1/5,61+,,194 sq ft,12.0,$114
+Hotel Ipek Palas,3.4/5,646 reviews,"Orhaniye Cad. No:9 Sirkecii - Fatih, Istanbul, Istanbul",3.6/5,3.8/5,3.3/5,3.3/5,43+,3.8/5 guest room rating,151 sq ft,9.0,$30
+Payidar Suite,3.6/5,148 reviews,"Gülbahar Mah. Büyükdere Cad.Oya Sok., No 14 Sisli Mecidiyeköy, Istanbul",3.8/5,3.9/5,3.7/5,3.5/5,27+,4.2/5 guest room rating,269 sq ft,8.0,$23
+Kemer Barut Collection - All Inclusive,4.6/5,39 reviews,"Ataturk Bulvari Yeni Mah. No 24, Kemer, Antalya",4.7/5,4.7/5,5.0/5,4.7/5,93+,5/5 guest room rating,258 sq ft,21.0,$249
+Ramada Hotel & Suites by Wyndham Istanbul Merter,3.5/5,84 reviews,"Güven Mah. Eski Londra Asfaltı Cad., No:83 B/18, Güngören, Istanbul",3.3/5,3.4/5,3.6/5,3.5/5,78+,5/5 guest room rating,301 sq ft,14.0,$58
+Kadak Garden Istanbul Airport Hotel,3.4/5,327 reviews,"Basin Ekspres Yolu Çinar Cad. No:24, Yenibosna, Istanbul, Istanbul",3.5/5,3.4/5,4.0/5,3.4/5,99+,5/5 guest room rating,172 sq ft,12.0,$28
+Lime Garden Hotel,4.0/5,4 reviews,"Bekar Sk., Istanbul, Istanbul",3.8/5,4.5/5,3.3/5,4.0/5,58+,,215 sq ft,7.0,$40
+Upper House Hotel,3.7/5,121 reviews,"PTT Cd. Ozturk Sok. No:15, Kas, Antalya",4.1/5,3.9/5,3.4/5,3.9/5,46+,4.4/5 guest room rating,269 sq ft,7.0,$79
+Ramada Encore by Wyndham Istanbul Kartal,4.0/5,166 reviews,"Cumhuriyet Mah. Kartal Cad., No: 53, Yakacik Kartal, Istanbul, Istanbul",4.3/5,4.0/5,3.7/5,4.1/5,45+,5/5 guest room rating,258 sq ft,12.0,$46
+The Zanadu İstanbul,3.4/5,48 reviews,"Sht. Mehmet Pasa Sk. 26/1, Kucuk Ayasofya Mahallesi Fatih, Istanbul, Istanbul",3.6/5,3.4/5,2.5/5,3.4/5,46+,3.6/5 guest room rating,161 sq ft,5.0,$15
+Exporoyal Hotel,3.5/5,243 reviews,"Antalya Mahallesi 567, Sokak N 53, Antalya",3.6/5,3.8/5,2.6/5,3.4/5,60+,5/5 guest room rating,140 sq ft,9.0,$13
+Santa Lucia Hotel,3.2/5,152 reviews,"Seyit Muhtar Mah Yogurtcu Faik Sok. 14, Istanbul, Istanbul",3.3/5,3.3/5,3.1/5,3.2/5,51+,4/5 guest room rating,215 sq ft,7.0,$23
+Bac Pansiyon,4.3/5,55 reviews,"Cumhuriyet Cad. No 16, Mugla",4.3/5,4.4/5,3.9/5,4.1/5,24+,4.2/5 guest room rating,183 sq ft,6.0,$34
+Black Suite,4.0/5,134 reviews,"Bostan Mah. Yayakoprusu Sok. No 18, Istanbul Istanbul, Istanbul",3.8/5,4.2/5,4.0/5,3.9/5,41+,4.4/5 guest room rating,215 sq ft,7.0,$33
+8 Oda Boutique Homes,4.6/5,40 reviews,"Tepe Neighborhood 30 Street No:17-19, Inside the Castle, Marmaris, Mugla",4.6/5,4.8/5,4.6/5,4.5/5,92+,,322 sq ft,7.0,$108
+The City Suites,3.9/5,73 reviews,"Atakent Mah Akdeniz Cad Muammer, Aksoy Sok. No. 4, Istanbul",3.8/5,4.0/5,4.2/5,3.9/5,41+,3.6/5 guest room rating,172 sq ft,6.0,$25
+Holiday Inn Istanbul - Tuzla Bay,4.1/5,30 reviews,"Guzelyali Mah. Sahil Bulvari No. 72, Pendik, Istanbul",4.5/5,4.3/5,4.4/5,4.4/5,55+,,183 sq ft,13.0,$82
+A11 Hotel,3.7/5,77 reviews,"Göztepe Mahallesi Bağdat Cd. 229/1, Kadikoy, Istanbul",3.7/5,3.8/5,3.4/5,3.7/5,19+,4.2/5 guest room rating,258 sq ft,10.0,$41
+Gen Suites,3.9/5,56 reviews,"Eskisehir Mah. Akaglar Cad. No 22, Istanbul",3.7/5,3.8/5,3.6/5,3.7/5,80+,5/5 guest room rating,236 sq ft,7.0,$21
+Cettia Beach Resort - Adults Only,4.4/5,49 reviews,"Cumhuriyet Bulvari No: 51, Marmaris, Mugla",4.4/5,4.5/5,2.8/5,4.2/5,50+,3.9/5 guest room rating,Mountain view,12.0,$64
+Grand Star Hotel Bosphorus,2.9/5,175 reviews,"Siraselviler Cadessi No: 45/1 Taksim, Istanbul, Istanbul",3.1/5,3.0/5,2.6/5,3.0/5,73+,,269 sq ft,14.0,$34
+HAY Hotel Alsancak,4.5/5,55 reviews,"1476 / 1 sokak no 5 Alsancak Konak, Izmir",4.8/5,4.5/5,4.8/5,4.6/5,44+,5/5 guest room rating,194 sq ft,9.0,$46
+Elits Suits,3.0/5,48 reviews,"3 Osmanli Bulvari, yenisehir mahçosmanli bulvari.no13, Istanbul",2.7/5,2.9/5,3.5/5,2.9/5,49+,,370 sq ft,13.0,$23
+Cender Hotel,2.4/5,96 reviews,"Genclik Mah. Isiklar Cad. No:42, Antalya",2.7/5,2.4/5,2.0/5,2.4/5,167+,5/5 guest room rating,226 sq ft,11.0,$49
+Renka Hotel & Spa,4.8/5,16 reviews,"Göcek Mah, Inönü Bulvari Gün sok No:1, Mugla, Mugla",4.8/5,5.0/5,4.8/5,4.9/5,52+,,280 sq ft,12.0,$185
+Grand Istanbul Airport Hotel,3.1/5,105 reviews,"Gülbahar Caddesi No: 2 Günesli, Bagcilar, Istanbul",3.0/5,3.2/5,2.0/5,3.0/5,44+,4.2/5 guest room rating,97 sq ft,10.0,$20
+Elista Hotel & Spa Turkbuku Mugla,4.4/5,14 reviews,"Göltürkbükü Mahallesi, Liman Cd. 65/1, Mugla, Mugla",4.5/5,4.6/5,3.0/5,4.7/5,73+,5/5 guest room rating,269 sq ft,11.0,$136
+Datca Sapphire Hotel,4.4/5,85 reviews,"Iskele Mah., Kargi Yolu Cad., No. 8/A, Datca, Mugla",4.6/5,4.5/5,3.8/5,4.4/5,19+,5/5 guest room rating,183 sq ft,9.0,$45
+White Monarch Hotel,2.5/5,186 reviews,"Mecidiyeköy Mah. Selahattin Pinar Arkasi, Naci Kasim Sokak No:2, Sisli, Istanbul, Istanbul",2.8/5,2.6/5,2.2/5,2.6/5,59+,,161 sq ft,9.0,$31
+Grand Yayla Hotel,4.3/5,124 reviews,"Sakarya Mahallesi 3100 Sokak No: 1, Izmir",4.2/5,4.4/5,3.6/5,4.0/5,68+,3.8/5 guest room rating,194 sq ft,10.0,$15
+Iskelem Otel,4.2/5,72 reviews,"Akyaka Mah., Atatürk Cd., No. 68-70, Ula, Mugla",4.2/5,4.3/5,4.0/5,4.2/5,79+,4.6/5 guest room rating,172 sq ft,9.0,$32
+Kadikoy Port Hotel,3.5/5,154 reviews,"Rasimpasa Iskele Sk. No 18, Istanbul",3.2/5,3.5/5,2.9/5,3.3/5,44+,3.6/5 guest room rating,139 sq ft,4.0,$17
+Tophane Suites,4.5/5,35 reviews,"Firuzaga Mh. Bogazkesen Cd. No 56, Tophane, Istanbul, Istanbul",4.6/5,4.7/5,5.0/5,4.6/5,40+,,247 sq ft,10.0,$62
+Alavya - Special Class,4.6/5,14 reviews,"Yeni Mecidiye Mh. 3005 Sk. No: 6, Alaçati, Cesme, Izmir",4.7/5,4.6/5,0.0/5,4.5/5,35+,4.7/5 guest room rating,377 sq ft,13.0,$290
+Taba Luxury Suites,3.4/5,177 reviews,"Elifoglu Sok. No:1 Gayrettepe, Besiktas, Istanbul, Istanbul",3.6/5,3.5/5,2.5/5,3.4/5,28+,3.6/5 guest room rating,237 sq ft,13.0,$45
+Sumengen Hotel,3.9/5,224 reviews,"Mimar Mehmet Aga Cad. Amiral Tafdil Sok., No:9, Istanbul, Istanbul, Istanbul",4.1/5,4.1/5,3.6/5,3.8/5,39+,4.2/5 guest room rating,215 sq ft,10.0,$37
+Grand Park Kemer - All Inclusive,4.4/5,45 reviews,"Cifte Cesmeler Mah Atatürk Cad. No. 195, Beldibi, Kemer, Antalya",4.6/5,4.3/5,4.6/5,4.5/5,91+,3.8/5 guest room rating,258 sq ft,20.0,$145
+Villa Anfora Otel,4.3/5,70 reviews,"Iskele Mah. Bademli Cad. No: 44, Datca, Mugla",4.3/5,4.3/5,4.5/5,4.3/5,24+,5/5 guest room rating,215 sq ft,8.0,$36
+White Palace Hotel,3.6/5,185 reviews,"Sirinevler Mh. Maresal Fevzi Çakmak Cd., 2.Yol No:19/1A Sirinevler/Bahçelievler, Istanbul, Istanbul",3.6/5,3.9/5,4.0/5,3.6/5,37+,3.9/5 guest room rating,205 sq ft,6.0,$22
+Hotel Santa Sophia,2.3/5,160 reviews,"Emin Sinan Hamami St. No. 2 Cemberlitas, Emin Sinan, Fatih, Istanbul, Istanbul, Istanbul",2.5/5,2.5/5,2.4/5,2.4/5,62+,,108 sq ft,9.0,$17
+Melis Pansiyon,4.4/5,75 reviews,"Turkkuyusu Cad. No. 42, Mugla, Mugla",4.4/5,4.5/5,4.0/5,4.2/5,30+,5/5 guest room rating,140 sq ft,8.0,$20
+Minyon Hotel,4.7/5,41 reviews,"Kılınç aslan mah Tabakhane Sokak No.31, Antalya, Antalya",4.8/5,4.7/5,4.7/5,4.6/5,72+,,161 sq ft,6.0,$83
+Villa Lukka,4.6/5,51 reviews,"Ulupinar Koyu, Cirali Mahallesi, PK 117, Kemer, Antalya",4.8/5,4.5/5,3.8/5,4.6/5,44+,4.4/5 guest room rating,344 sq ft,9.0,$79
+Tryp By Wyndham Istanbul Sancaktepe,4.2/5,8 reviews,"Eyup Sultan Mah. Kizilay Cad, Istanbul",4.4/5,4.1/5,4.0/5,4.4/5,87+,5/5 guest room rating,344 sq ft,17.0,$39
+The Conforium Hotel,4.0/5,35 reviews,"Gökalp Mah. 39 Sok no:21-23, Istanbul, Istanbul",4.3/5,4.2/5,4.7/5,4.1/5,37+,4.2/5 guest room rating,215 sq ft,11.0,$68
+Villa Tamara Hotel,4.3/5,119 reviews,"Aydin Koker Sokak, Cukurbag Yarimadasi, Kas, Antalya",4.2/5,4.3/5,3.4/5,4.0/5,62+,4/5 guest room rating,484 sq ft,8.0,$130
+Villa Dreams,4.5/5,71 reviews,"Zafer Mah, Bademlik Caddesi No:25, Selcuk, Izmir",4.5/5,4.5/5,4.6/5,4.4/5,58+,5/5 guest room rating,151 sq ft,7.0,$59
+Bilgehan Hotel,3.3/5,39 reviews,"Tahilpazari Mahallesi, Adnan Menderes Blv. No 1, Antalya, Antalya",3.2/5,3.3/5,1.3/5,3.1/5,24+,3.7/5 guest room rating,322 sq ft,10.0,$48
+Villa Fanti,4.7/5,56 reviews,"16 Eylul Mah., 3047/2 Sok., No. 1A, Cesme, Izmir",4.8/5,4.8/5,4.0/5,4.8/5,24+,4.5/5 guest room rating,172 sq ft,4.0,$59
+Moonshine Hotel & Suites,4.0/5,106 reviews,"Marsmabedi Cad. No: 47, Mugla, Mugla",3.9/5,4.2/5,4.8/5,3.7/5,47+,,323 sq ft,,$41
+Rixos Premium Tekirova - All Inclusive,4.2/5,64 reviews,"Tekirova Mah. Sehit Er Hasan Yilmaz, Cad. No:20, Kemer, Antalya",4.4/5,4.3/5,4.7/5,4.4/5,64+,3.8/5 guest room rating,280 sq ft,19.0,$204
+Ida Tas Konak,4.5/5,12 reviews,"Yesilyurt Koyu Kucukkuyu, Ayvacik, Canakkale",4.2/5,4.6/5,0.0/5,4.7/5,35+,5/5 guest room rating,269 sq ft,11.0,$59
+Nur Hotel,4.5/5,37 reviews,"Oteller Böl Küçük Çakil Mevkii No 28, Kas, Antalya",4.5/5,4.7/5,4.0/5,4.5/5,74+,5/5 guest room rating,431 sq ft,7.0,$52
+Ayasofya Hotel,2.8/5,283 reviews,"Küçük Ayasofya Mahallesi Demirci Resit, Sokak No: 28 Istanbul, Istanbul, Istanbul",2.9/5,3.1/5,1.6/5,2.7/5,68+,,86 sq ft,9.0,$75
+Orsmaris Boutique Hotel - Boutique Class,3.9/5,91 reviews,"Siteler mah. Cumhuriyet Blv. No:59, Marmaris, Mugla",3.9/5,3.8/5,3.3/5,3.7/5,60+,3.9/5 guest room rating,269 sq ft,12.0,$45
+Hotel Cachet,4.7/5,78 reviews,"Demokrasi Cd. Armagan Talay Sok. No: 10, Kas, Antalya",4.7/5,4.8/5,4.7/5,4.5/5,65+,5/5 guest room rating,441 sq ft,10.0,$66
+Istanbul Hotel,3.3/5,110 reviews,"Divanyolu Caddesi No:20 - Istanbul, Istanbul, Istanbul",3.3/5,3.7/5,2.5/5,2.8/5,67+,,194 sq ft,8.0,$52
+Serguzest Otel,4.7/5,43 reviews,"Guzeller Sokak No. 8, Buyukada, Istanbul",4.7/5,4.7/5,5.0/5,4.7/5,72+,5/5 guest room rating,215 sq ft,8.0,$73
+Faros Mugla,4.5/5,39 reviews,"Gölköy Yali Mevkii, 36. Sk. No:1, Mugla",4.2/5,4.5/5,4.5/5,4.4/5,42+,4.6/5 guest room rating,323 sq ft,12.0,$939
+Beyond Hotel - Boutique Class,4.1/5,121 reviews,"1376 Sok.No: 5 Kizilay CAD, Izmir, Izmir",4.2/5,4.2/5,4.2/5,4.0/5,39+,,236 sq ft,10.0,$60
+Hotel Truva,3.4/5,112 reviews,"Foca Mah., Kocek Mustafa Cad. No:38, Calis Plaji, Mugla, Mugla",3.5/5,3.3/5,4.0/5,3.3/5,51+,4/5 guest room rating,129 sq ft,8.0,$23
+Kosa Butik Otel,4.1/5,21 reviews,"Barbaros Mahallesi, Imaret Sokak 40, Antalya",4.4/5,4.4/5,4.3/5,4.2/5,46+,,161 sq ft,10.0,$40
+Saylam Suites,4.5/5,124 reviews,"Andifli Mah. Sehit Kazim Temel Cad, 17, Kas, Antalya",4.7/5,4.6/5,4.2/5,4.5/5,57+,5/5 guest room rating,484 sq ft,17.0,$56
+Mia City Hotel,4.6/5,63 reviews,"Akcay Cad No 125 Gaziemir, Izmir",4.8/5,4.6/5,4.8/5,4.7/5,50+,5/5 guest room rating,269 sq ft,12.0,$54
+S3 Seahorse Beach Club & Hotel,4.2/5,49 reviews,"Ölüdeniz Mah. Belcegiz Mevkii No. 69, Mugla, Mugla",4.1/5,4.2/5,4.2/5,4.3/5,137+,4/5 guest room rating,269 sq ft,8.0,$97
+Cennet Life Hotel,4.3/5,85 reviews,"Karagozler Mah. Fevzi Cakmak Cad. No 133, Mugla, Mugla",4.5/5,4.4/5,4.7/5,4.5/5,111+,4.2/5 guest room rating,269 sq ft,12.0,$43
+Ece Boutique Hotel,4.9/5,38 reviews,"Sovalye Adasi 1 Sokak, No: 55, Mugla, Mugla",4.9/5,4.9/5,4.8/5,4.8/5,161+,5/5 guest room rating,431 sq ft,9.0,$148
+Hotel Club Barbarossa,3.9/5,189 reviews,"Çukurbag yarmadasi, Kas, Antalya",3.9/5,3.7/5,3.9/5,3.7/5,220+,,215 sq ft,13.0,$63
+Ortunc Hotel - Boutique Class,4.7/5,65 reviews,"Ayvalik Adalari Tabiat Parki, Cunda Adasi, Balikesir, Ayvalik, Balikesir",4.7/5,4.7/5,5.0/5,4.7/5,39+,4.8/5 guest room rating,269 sq ft,10.0,$149
+Hotel Twenty,3.9/5,97 reviews,"Tuzcular Mh. İmaret Sk.No:9, Kaleici, Antalya, Antalya",4.0/5,4.1/5,3.4/5,3.7/5,54+,4.3/5 guest room rating,172 sq ft,10.0,$27
+Bronze Hotel,4.4/5,83 reviews,"Oludeniz Mah. 224. Sok. No. 3, Mugla, Mugla",4.5/5,4.4/5,4.3/5,4.3/5,35+,4.6/5 guest room rating,161 sq ft,8.0,$55
+Canna Garden Hotel,4.6/5,104 reviews,"Eski Cesme Mah 1511 Sok No: 6, Mugla, Mugla",4.5/5,4.7/5,4.7/5,4.5/5,53+,4.7/5 guest room rating,215 sq ft,10.0,$17
+Linda Boutique Class Hotel,4.3/5,114 reviews,"Küçük Çakil Mah, Kas, Antalya",4.5/5,4.2/5,4.7/5,4.3/5,43+,5/5 guest room rating,215 sq ft,6.0,$46
+My Golden Hotel,4.1/5,25 reviews,"Mollagurani Mah. Findikzade Sokak No 5, Fatih, Istanbul, Istanbul",4.1/5,4.2/5,3.6/5,4.2/5,46+,5/5 guest room rating,194 sq ft,11.0,$41
+Buyukada Cankaya Hotel,4.4/5,202 reviews,"Çankaya caddesi No:14, Büyükada, Adalar, Istanbul",4.3/5,4.3/5,3.7/5,4.3/5,104+,4.2/5 guest room rating,194 sq ft,9.0,$70
+Suna Sun Boutique Hotel,4.9/5,34 reviews,"Bülent Kalkavan Sokak, Kas, Antalya",4.8/5,4.9/5,5.0/5,4.9/5,61+,5/5 guest room rating,291 sq ft,11.0,$152
+Lagoon Boutique Hotel,4.2/5,18 reviews,"Belcekiz Mah. Oludeniz Cad. No. 79, Mugla, Mugla",4.1/5,3.9/5,3.7/5,3.9/5,41+,5/5 guest room rating,194 sq ft,11.0,$116
+Rhapsody Hotel Kaş,4.5/5,58 reviews,"Andifli Mah. Hükümet Cad. No:45, Küçükçakil mevkii, Kas, Antalya",4.4/5,4.6/5,4.5/5,4.4/5,64+,4.4/5 guest room rating,269 sq ft,6.0,$73
+The Westist Hotel & Spa,4.6/5,50 reviews,"Balyoz Sk., Istanbul, Istanbul",4.8/5,4.8/5,4.4/5,4.5/5,25+,5/5 guest room rating,193 sq ft,11.0,$65
+The Loft Istanbul,4.5/5,30 reviews,"Hayriye Cad Cezayir Cıkmazı No:5B, Galatasaray-Beyoğlu, Istanbul",4.5/5,4.7/5,3.3/5,4.1/5,119+,5/5 guest room rating,323 sq ft,6.0,$47
+Taksim Square Hotel,3.8/5,53 reviews,"Gumussuyu Mahallesi Siraselviler Caddesi, No 7 Taksim Istanbul, Istanbul",3.9/5,3.9/5,3.2/5,3.8/5,38+,,269 sq ft,7.0,$119
+Manici Kasri,4.7/5,43 reviews,"Yesilyurt Koyu, Kucukkuyu, Ayvacik, Canakkale",4.7/5,4.7/5,5.0/5,4.7/5,44+,5/5 guest room rating,377 sq ft,9.0,$150
+Ottoman Suites,2.9/5,50 reviews,"13 Osmanli Bulvari, 40.929938, 29.307190, Istanbul",2.9/5,3.3/5,2.9/5,3.1/5,64+,3.8/5 guest room rating,377 sq ft,8.0,$32
+Gorkem Apart Hotel,4.6/5,35 reviews,"Near Municipality Building, Mugla, Mugla",4.7/5,4.7/5,4.3/5,4.6/5,34+,5/5 guest room rating,215 sq ft,8.0,$65
+Ece Saray Marina & Resort - Special Class,4.5/5,31 reviews,"1. Karagozler mevkii, Mugla, Mugla",4.6/5,4.0/5,4.6/5,4.1/5,41+,,248 sq ft,13.0,$162
+Mom Hotel,4.1/5,64 reviews,"105 Gülistan Caddesi, Istanbul",4.0/5,4.2/5,3.7/5,4.2/5,24+,4.3/5 guest room rating,269 sq ft,5.0,$58
+Hatay Hotel Istanbul,3.8/5,51 reviews,"Nöbethane Cad., Serdar Sokak. No: 3, Istanbul, Istanbul",3.5/5,4.2/5,4.0/5,3.4/5,12+,,215 sq ft,7.0,$24
+Transatlantik Hotel & Spa - All Inclusive,3.2/5,38 reviews,"Goynuk Mah G. Mustafa Kemal Ataturk Cd., Kemer, Antalya",3.3/5,3.3/5,3.0/5,3.3/5,39+,5/5 guest room rating,194 sq ft,17.0,$63
+Q Hotel Laleli,3.6/5,46 reviews,"Mimar Kemalettin Mah. Koska Cad., No 30 Laleli, Istanbul",3.6/5,3.6/5,3.2/5,3.6/5,22+,4.1/5 guest room rating,215 sq ft,6.0,$35
+Niconya Port Suite&Hotel,4.0/5,199 reviews,"Yenibosna Zafer Mh. Çalışlar Sk. No: 11, Bahcelievler, Istanbul",4.0/5,4.1/5,3.3/5,3.9/5,46+,4/5 guest room rating,215 sq ft,7.0,$29
+Kemer Country Hotel,4.3/5,31 reviews,"Atlispor Cad. Hayat Binsai, No: 7, Gokturk, Eyup, Istanbul",4.7/5,4.2/5,4.8/5,4.4/5,97+,4/5 guest room rating,301 sq ft,14.0,$234
+Agan Pansiyon,4.4/5,123 reviews,"Atatürk Cad. No:75, Mugla, Mugla",4.4/5,4.4/5,4.1/5,4.4/5,28+,3.9/5 guest room rating,215 sq ft,8.0,$21
+Istanbul Dedem Hotel 1,2.8/5,121 reviews,"Gumuspala Mah. Nadide Sk. No 2, Istanbul, Istanbul",2.9/5,3.1/5,2.0/5,2.6/5,39+,,215 sq ft,12.0,$16
+Sunway Hotel,3.9/5,74 reviews,"Siteler Mah. 209 sok No: 19, Marmaris, Mugla",4.0/5,3.7/5,3.0/5,4.0/5,28+,5/5 guest room rating,377 sq ft,11.0,$33
+La Siete Hotel,4.2/5,19 reviews,"Lara Cd. 189, Antalya, Antalya",4.2/5,4.0/5,4.5/5,4.1/5,40+,5/5 guest room rating,377 sq ft,10.0,$58
+Paradise Airport Hotel,2.8/5,67 reviews,"Sirinevler Mah Maresal Fevzi Cakmak Cad, 1 Sokak No 37 Bahcelievler, Istanbul",3.0/5,3.1/5,3.8/5,2.8/5,32+,5/5 guest room rating,377 sq ft,5.0,$14
+Nilufer Otel - Adult Only,4.6/5,85 reviews,"Ali Cetinkaya mahallesi, Abdi Ipekci Cad. 1. Sokak No. 4, Ayvalik, Balikesir",4.7/5,4.5/5,4.3/5,4.7/5,36+,4.7/5 guest room rating,258 sq ft,5.0,$43
+Chatto Residence,4.7/5,20 reviews,"Kavala sok.No 12, Cumhuriyet cad.Cami mah., Istanbul",4.6/5,4.4/5,2.0/5,4.5/5,29+,,236 sq ft,,$62
+My Home Istanbul Hotel,3.6/5,99 reviews,"Pierlotti Cad No:35 Istanbul, Istanbul, Istanbul",3.9/5,3.7/5,3.4/5,3.5/5,20+,,86 sq ft,10.0,$27
+Butik Pendik Hotel,4.3/5,21 reviews,"Dogu Mahallesi ErolKaya Caddesi No:172, Istanbul, Istanbul",4.4/5,4.6/5,2.0/5,4.0/5,35+,,86 sq ft,7.0,$54
+Hotel Doruk,4.0/5,27 reviews,"Birinci Karagozler Mah., Fevzi Cakmak Cad. No 11 Mugla, Mugla",4.3/5,4.2/5,5.0/5,4.0/5,47+,,205 sq ft,10.0,$55
+Ataşehir Palace Hotel,2.8/5,288 reviews,"Kucukbakkalkoy Mah., Kayisdagi Cad. No: 143/1, Istanbul",2.8/5,2.6/5,2.5/5,2.7/5,37+,,129 sq ft,6.0,$22
+Queen Boutique Hotel,4.0/5,35 reviews,"Gündönümü Mevki/ Halilim cad. NO:3, Bitez, Mugla, Mugla",4.1/5,4.1/5,2.0/5,3.9/5,33+,3.9/5 guest room rating,215 sq ft,9.0,$21
+Oyster Residences,,120 reviews,"Belcekiz Mevkii 224 Sok No 1, Oludeniz Mugla, Mugla, Mugla",4.5/5,4.4/5,4.2/5,4.4/5,49+,5/5 guest room rating,161 sq ft,10.0,$235
+Akka Lush Taksim,4.5/5,24 reviews,"Katip Çelebi Mh., Siraselviler Cd. No 10, Istanbul, Istanbul",4.4/5,4.4/5,4.5/5,4.6/5,49+,4.3/5 guest room rating,215 sq ft,10.0,$81
+Dream Time Hotel,3.7/5,162 reviews,"Hasim Iscan Mh. 1306 Sk No:35, Antalya",3.8/5,3.8/5,3.4/5,3.7/5,70+,4.2/5 guest room rating,301 sq ft,9.0,$21
+Marka Hotel,3.8/5,98 reviews,"Elmali Mah 7, Sok. No:36, Antalya, Antalya, Antalya",3.9/5,3.9/5,3.1/5,3.6/5,48+,4.7/5 guest room rating,301 sq ft,8.0,$15
+Zin D Home Alemdag,3.9/5,14 reviews,"Eksioglu Mh 30 Sk No 22, Istanbul",3.5/5,3.5/5,4.5/5,3.8/5,26+,4/5 guest room rating,301 sq ft,9.0,$35
+Faralya Limon Hotel,4.0/5,37 reviews,"Uzunyurt Mah. Kizilcaka Street No: 11, Mugla, Mugla",3.9/5,4.3/5,4.0/5,3.9/5,111+,4.4/5 guest room rating,215 sq ft,13.0,$26
+City Live Hotel,3.1/5,42 reviews,"Fener Mh. Falez Cad No 3, Antalya, Antalya, Antalya",3.2/5,3.2/5,4.0/5,3.1/5,23+,5/5 guest room rating,322 sq ft,14.0,$57
+Bera Hotel Alanya - All Inclusive,4.0/5,70 reviews,"Konakli Mh. Kulak Mevkii No 12, Alanya, Antalya",4.2/5,4.0/5,3.8/5,3.9/5,61+,4.8/5 guest room rating,452 sq ft,13.0,$73
+ANTALYA HOTEL RESORT AND SPA,3.2/5,83 reviews,"Eski Lara Yolu, No:40, Sirinyali Mah, Antalya, Antalya",3.4/5,3.1/5,2.3/5,3.3/5,27+,,280 sq ft,13.0,$70
+Etto Park Hotel,3.3/5,6 reviews,"Oludeniz Mh. Oludeniz Cd. No. 22, Mugla, Mugla",3.2/5,3.5/5,3.5/5,2.7/5,56+,5/5 guest room rating,280 sq ft,7.0,$59
+Veramor Hotel Wellness & Spa,3.6/5,192 reviews,"1488 Sok. No. 7 Alsancak, Izmir, Izmir",3.5/5,3.7/5,2.8/5,3.4/5,33+,,215 sq ft,8.0,$40
+Robin's Nest,4.1/5,113 reviews,"Yakuplu Caddesi No.118A, Sile, Istanbul",3.9/5,4.1/5,5.0/5,4.1/5,35+,4.8/5 guest room rating,215 sq ft,8.0,$73
+Safran Suites Apart,3.1/5,21 reviews,"Binbirdirek Mah. Dizdariye Cesmesi Sok., No 9 Istanbul Fatih, Istanbul",3.1/5,3.1/5,3.2/5,2.9/5,55+,,269 sq ft,4.0,$20
+Durak Hotel,3.5/5,44 reviews,"Kumbahçe Mah. Rasathane Sok. No 10, Mugla, Mugla",3.4/5,3.3/5,4.0/5,3.3/5,41+,5/5 guest room rating,108 sq ft,5.0,$15
+Belle vue Hotel,4.0/5,116 reviews,"Ölüdeniz, Mugla, Mugla",4.1/5,4.1/5,3.0/5,3.9/5,37+,5/5 guest room rating,108 sq ft,10.0,$27
+Sunpark Beach Hotel - Adult Only +16,4.2/5,37 reviews,"Saray Mah. 900. sok. No:4, Alanya, Antalya",4.4/5,4.1/5,3.0/5,4.0/5,98+,,193 sq ft,13.0,$95
+AntalyaHotel,4.0/5,44 reviews,"Kuskavagi Mah.,552 Sokak, No. 11, Konyaalti, Antalya",3.9/5,4.0/5,4.0/5,3.7/5,20+,5/5 guest room rating,172 sq ft,8.0,$27
+Skalion Hotel & Spa,4.1/5,351 reviews,"Çifte Gelinler Cad.No:6, Istanbul, Istanbul",4.4/5,4.5/5,4.0/5,4.1/5,81+,3.8/5 guest room rating,237 sq ft,10.0,$48
+Expo Park Hotel,2.0/5,80 reviews,"Doguyaka Mahallesi Gazi Bulvari, No 644 B 1, Antalya",2.1/5,2.3/5,1.5/5,2.0/5,45+,,215 sq ft,11.0,$29
+Hotel Flash,3.4/5,32 reviews,"kamer hatun mahallesi, tarlabasi bulvari no 113, Istanbul, Istanbul",3.2/5,3.3/5,2.9/5,3.1/5,13+,,15 sq ft,6.0,$27
+Asia Beach Resort & Spa Hotel,4.0/5,154 reviews,"Oba Mah. 30. Sokak No.1, Alanya, Antalya",4.1/5,3.9/5,4.3/5,4.1/5,73+,3.8/5 guest room rating,409 sq ft,19.0,$117
+Sezgin Boutique Hotel,3.8/5,63 reviews,"Aslanlar Cad No:44, Kusadasi, Aydin",3.7/5,4.0/5,4.7/5,3.8/5,74+,,129 sq ft,11.0,$30
+Nevada Hotel Spa,3.6/5,25 reviews,"Cahit Behenc Bulvar Foca mah, 1049 sok Cals, Mugla, Mugla",3.4/5,3.6/5,4.0/5,3.6/5,49+,4.4/5 guest room rating,215 sq ft,15.0,$37
+Otel Atrium,3.6/5,63 reviews,"Umurça Mahallesi, Üçkuyular Cad. No:31, Mugla, Mugla",3.3/5,3.5/5,4.0/5,3.5/5,45+,4/5 guest room rating,172 sq ft,10.0,$30
+Ephesian Hotel Guesthouse,3.9/5,68 reviews,"Camiatik Mah, Aslanlar Cad No 9 Kusadasi, Aydin",4.0/5,4.1/5,2.0/5,3.8/5,26+,5/5 guest room rating,193 sq ft,8.0,$23
+Turka Loca City Hotel,3.5/5,20 reviews,"Sinanoglu Cd. 73, Antalya, Antalya",3.4/5,3.3/5,3.3/5,3.1/5,35+,5/5 guest room rating,1 bedroom,9.0,$17
+Duygu Pension,3.7/5,18 reviews,"2 Karagözler Ordu Cad No:54, Mugla, Mugla",4.1/5,3.9/5,4.0/5,3.5/5,48+,,1 bedroom,8.0,$44
+Lara Hadrianus Hotel,3.3/5,128 reviews,"Güzeloba Mahallesi, 2317. Sk., Antalya, Antalya, Antalya",3.2/5,3.4/5,2.5/5,3.2/5,124+,,236 sq ft,14.0,$28
+Expoist Hotel,3.6/5,31 reviews,"Cumhuriyet Mh. No:1 Istanbul Outlet, Park Binasi Kat:8, Beylikdüzü, Istanbul, Istanbul",3.9/5,3.6/5,0.0/5,3.6/5,43+,,377 sq ft,8.0,$42
+Ucar Royal,3.6/5,28 reviews,"Mesrutiyet Koyu Isik Uni Karsisi, 26D, Sile, Istanbul",3.8/5,3.5/5,4.0/5,3.8/5,38+,3.8/5 guest room rating,236 sq ft,11.0,$27
+Mutado Pension Hotel,4.6/5,62 reviews,"Gazi bulvarı Karşıyaka Mh., 3927, Sokak 6/1, Antalya",4.7/5,4.6/5,4.0/5,4.5/5,54+,4.8/5 guest room rating,161 sq ft,7.0,$20
+Blue Yacht Marina Apart Hotel,3.3/5,37 reviews,"Sariana Mah. 17 Sok. No. 9, Marmaris, Mugla",3.4/5,3.3/5,2.7/5,3.1/5,33+,,484 sq ft,17.0,$63
+Ozgur Bey Spa Hotel,4.1/5,118 reviews,"Oba Göl Mevkii 14.Sk. No:5, Alanya, Antalya",4.1/5,4.2/5,3.4/5,4.1/5,21+,4.3/5 guest room rating,215 sq ft,13.0,$36
+AY OTEL 2,3.9/5,18 reviews,"Elmali Mah 4. Sok, Antalya",3.9/5,3.9/5,4.2/5,3.6/5,32+,5/5 guest room rating,215 sq ft,3.0,$17
+Le Méridien Mugla Beach Resort,3.2/5,12 reviews,"Bogazici Mahallesi, Yazlik Siteler Sokak, No 60 Adabuku, Mugla, Milas, Mugla",3.8/5,2.9/5,4.0/5,3.7/5,186+,5/5 guest room rating,355 sq ft,17.0,$241
+Hotel Caktug,2.9/5,16 reviews,"Merkez Mah. Ataturk Cad. No 37, Mugla",2.5/5,3.8/5,2.0/5,2.4/5,11+,,322 sq ft,,$52
+Grida City,2.4/5,56 reviews,"Meltem Mah. Sakip Sabanci Bulvari No:12, Antalya, Antalya",2.6/5,2.9/5,3.0/5,2.3/5,66+,,,13.0,$60
+Linda Expo Palace,3.3/5,78 reviews,"Antalya Mh. 567 Sk. No 33, Antalya",3.2/5,3.4/5,4.1/5,3.3/5,48+,5/5 guest room rating,,6.0,$21
+Erler Lego Village,3.4/5,26 reviews,"Altinova Orta Mah. 39 Sokak, Studio Lego Sitesi Kepez, Antalya",3.6/5,3.8/5,3.7/5,3.5/5,18+,,538 sq ft,13.0,$35
+Rox Royal Hotel- All Inclusive,3.0/5,28 reviews,"Yeni M. Sehit Polis Cemal Ilgaz C. n8, Kemer, Antalya",3.2/5,3.4/5,2.0/5,3.2/5,145+,5/5 guest room rating,280 sq ft,19.0,$166
+Bude Suite,2.4/5,18 reviews,"Ortaköy Mahallesi Mandira Sokak No 21, Istanbul",2.6/5,2.4/5,2.0/5,2.4/5,20+,,161 sq ft,8.0,$27
+Araucaria Pension,4.1/5,23 reviews,"Kultur Mahallesi 3821 Sokak No.22, Konyaalti, Antalya",3.8/5,4.0/5,5.0/5,4.0/5,18+,4/5 guest room rating,269 sq ft,6.0,$23
+Old House Hostel & Pub,3.7/5,33 reviews,"Barbaros mah., Hesapçi Sk. No 34, Antalya",3.6/5,3.5/5,3.5/5,3.6/5,104+,3.8/5 guest room rating,269 sq ft,6.0,$23
+Orange County Resort Hotel Kemer - All Inclusive,4.0/5,278 reviews,"Atatürk Bulvari Yeni, Mah., Kemer, Antalya",4.1/5,3.9/5,3.6/5,4.0/5,96+,,,19.0,
+Orange County Resort Hotel Belek- All Inclusive,4.2/5,38 reviews,"Bogazak mah. Akdeniz Cad. 50, Sok. No:18 Bogazkent SERIK, Belek, Antalya",4.4/5,4.0/5,4.4/5,4.2/5,48+,,,18.0,
+Orange County Resort Hotel Alanya - All Inclusive,4.0/5,306 reviews,"Merkez Mah., Alparslan Turkes Bulvari, Okurcalar, Alanya, Antalya",4.1/5,3.9/5,4.0/5,4.0/5,80+,,,20.0,
+The Mugla Royal Palace Hotel,4.2/5,42 reviews,"Torba Mah., Zeytinli Kahve Mevkii, Mugla",4.3/5,4.1/5,1.5/5,4.2/5,204+,,,13.0,
+Tui Sensatori Resort Barut Mugla - All Inclusive,4.5/5,21 reviews,"Kargi Köyü, Dutdibi Mevkii, Manolya Sok. No: 4/1, Mugla, Mugla",4.6/5,4.5/5,4.8/5,4.6/5,144+,,,15.0,
+Jiva Beach Resort - All Inclusive,4.4/5,245 reviews,"Calis Plaji 1104 Sokak No: 14, Mugla, Mugla",4.5/5,4.5/5,4.1/5,4.5/5,64+,,,19.0,
+Titanic Deluxe Golf Belek - All Inclusive,4.4/5,87 reviews,"Kadriye Beldesi Uckumtepesi, Besgoz Cad. 72/1, Belek, Antalya",4.4/5,4.2/5,4.5/5,4.5/5,196+,,,23.0,
+Limak Eurasia Luxury Hotel,4.2/5,191 reviews,"Ruzgarlibahce Mahallesi Sehit Yuzbasi, Sinan Eroglu Caddesi No: 5 Kavacik, Beykoz, Istanbul",4.5/5,4.2/5,4.1/5,4.3/5,49+,,,14.0,
+IC Hotels Santai Family Resort - All Inclusive,4.3/5,134 reviews,"3 Kum Tepesi Mevkii, Belek, Antalya",4.3/5,4.4/5,4.4/5,4.1/5,121+,,,20.0,
+Molton Nisantasi Suites,3.6/5,73 reviews,"Halaskargazi Mah. Süleyman Nazif, Sok. No: 56, Istanbul, Istanbul",3.8/5,3.6/5,3.2/5,3.7/5,70+,,,9.0,
+Tui Magic Life Jacaranda - All Inclusive,4.3/5,162 reviews,"Gundogdu Turizm Merkezi, Side, Antalya",4.4/5,4.1/5,4.6/5,4.4/5,78+,,,20.0,
+Özkaymak Falez Hotel,2.5/5,284 reviews,"AntalyaFalez Mevkii, Antalya, Antalya",2.8/5,2.5/5,2.4/5,2.5/5,47+,,,19.0,
+Hilton Mugla Turkbuku Resort & Spa - All Inclusive,4.0/5,100 reviews,"Sapli Mevkii, Golturkbuku, Mugla, Mugla",4.3/5,4.0/5,3.2/5,4.0/5,80+,,,21.0,
+Alley Prime,4.7/5,23 reviews,"Andifli Mahallesi Bülent Kalkavan Sokak, No:14/1, Kas, Antalya",4.7/5,4.5/5,4.7/5,4.8/5,56+,,,9.0,
+Suitel Bosphorus Istanbul,4.1/5,171 reviews,"Cihangir Mah Siraselviler Cad No 55, Istanbul, Istanbul",3.9/5,4.2/5,3.8/5,3.9/5,49+,,,9.0,
+Premier Solto Hotel By Corendon - Boutique Class,4.1/5,70 reviews,"2 Cark Plaji Liman Mevki, Alacati, Cesme, Izmir",4.1/5,4.1/5,4.2/5,4.2/5,80+,,,17.0,
+Kimera Lounge,4.7/5,73 reviews,"Mah. Çirali Mevki Sahil yolu No: 492, Kemer, Antalya",4.8/5,4.8/5,4.8/5,4.8/5,215+,,,12.0,
+TUI BLUE Sarigerme Park - All Inclusive,4.5/5,26 reviews,"P K 1 Ortaca Postanesi, Sarigerme, Ortaca, Mugla",4.6/5,4.4/5,5.0/5,4.5/5,103+,,,,
+Splendid Palace Hotel,4.4/5,62 reviews,"23 Nisan Cad. No: 39, Buyukada, Adalar, Istanbul",4.6/5,4.3/5,5.0/5,4.4/5,43+,,,9.0,
+PH Hotel Mugla,4.2/5,9 reviews,"Oludeniz Mah. Asar Caddesi No.8, Mugla, Mugla",3.8/5,4.2/5,4.5/5,3.8/5,30+,,,9.0,$47
+Hapimag Resort Sea Garden - All Inclusive,4.2/5,35 reviews,"P.K. 3, Yaliçiftlik, Mugla, Mugla",4.2/5,4.1/5,3.9/5,4.2/5,71+,,,16.0,
+Ascot Hotel Buyukada,4.3/5,235 reviews,"Mandenler Mahallesi Cinar Caddesi No:6, Buyukada, Adalar, Istanbul",4.2/5,4.3/5,4.2/5,4.3/5,68+,,,10.0,
+Royal Cesme Hotel - Adults Only,4.3/5,21 reviews,"Celal Bayar Mah. 5193 Sok. No 19, Ilica, Çesme, Izmir",4.6/5,4.6/5,5.0/5,4.5/5,45+,,,13.0,
+Rooms Smart Luxury Hotel & Beach,3.9/5,151 reviews,"Boyalık Mah., 3424 Sokak No:9, Cesme, Izmir",4.0/5,4.2/5,3.5/5,3.7/5,42+,,,14.0,
+Delta Hotel,4.4/5,136 reviews,"Barismanco Bulv Calis Plaji, Mugla, Mugla",4.6/5,4.6/5,4.4/5,4.4/5,63+,,,8.0,
+The Luvi Hotel – All Inclusive,3.5/5,25 reviews,"Gümbet Mah.Adnan Menderes Cad., M. Kâsif Ertekin Sok.No:10, Mugla, Mugla",3.0/5,3.4/5,0.0/5,3.2/5,52+,,,13.0,
+TUI BLUE Seno,4.7/5,33 reviews,"Sarigerme Mah. 2077 Cad. No. 11, Ortaca, Mugla",4.8/5,4.7/5,4.6/5,4.8/5,56+,,,14.0,
+Amore Boutique Hotel,4.1/5,30 reviews,"Dirmil Mah. Orkide Sk. No 18, A 1, Yalikavak, Mugla, Mugla",4.3/5,4.0/5,4.2/5,4.1/5,58+,,,8.0,
+Asteria Kemer Resort - All Inclusive,4.3/5,90 reviews,"Çamyuva Mah. Turizm Bulv. No 19, Kemer, Antalya",4.3/5,4.3/5,4.4/5,4.3/5,80+,,,18.0,
+Sea Breeze Hotel & Apartments,4.4/5,29 reviews,"Oludeniz Mah., 134. Sk. No:7, Mugla, Mugla",4.4/5,4.4/5,4.0/5,4.5/5,113+,,,13.0,
+Beyaz Yunus Hotel - Adults only,4.8/5,17 reviews,"Kıdrak Yolu Üzeri 22, Mugla, Mugla",5.0/5,4.9/5,5.0/5,4.9/5,30+,,,,
+TUI BLUE Seno,4.7/5,33 reviews,"Sarigerme Mah. 2077 Cad. No. 11, Ortaca, Mugla",4.8/5,4.7/5,4.6/5,4.8/5,56+,,,14.0,
+Vikingen Infinity Resort & Spa - All Inclusive,3.0/5,22 reviews,"Fugla Mah Akdeniz Bulv Turkler, Alanya, Antalya",3.7/5,2.9/5,2.5/5,3.5/5,75+,,,17.0,
+Beyaz Yunus Hotel - Adults only,4.8/5,17 reviews,"Kıdrak Yolu Üzeri 22, Mugla, Mugla",5.0/5,4.9/5,5.0/5,4.9/5,30+,,,8.0,
+Divan Mugla - Special Class,4.4/5,134 reviews,"Kelesharim Cad No. 22, Golturkbuku, Mugla, Mugla",4.7/5,4.4/5,4.5/5,4.4/5,61+,,,16.0,
+Med-Inn Boutique Hotel - Boutique Class,4.7/5,73 reviews,"Mugla - Siralik Mevkii No:6 Güllük, Milas, Mugla",4.8/5,4.7/5,4.5/5,4.7/5,105+,,,12.0,
